@@ -220,6 +220,13 @@ const aspectTranslations = {
   "Kontroll-Aspekt": "Aspect of Control",
   "Rache-Aspekt": "Aspect of Retribution",
   "Zermalmer-Aspekt": "Aspect of the Crushing Earth",
+  "Aspekt des himmlischen Zwists": "Aspect of Celestial Strife",
+  "Aspekt der heiligen Bestrafung": "Aspect of Holy Punishment",
+  "Aspekt des höchsten Ruhms": "Aspect of Utmost Glory",
+  "Tugendhafter Aspekt": "Virtuous Aspect",
+  "Beschleunigender Aspekt": "Accelerating Aspect",
+  "Aspekt der Pestilenz": "Aspect of Pestilence",
+  "Aspekt des Befalls": "Aspect of Infestation",
 
   // Defensive Aspects
   "Schneeverschleierter Aspekt": "Snowveiled Aspect",
@@ -230,6 +237,9 @@ const aspectTranslations = {
   "Aspekt des gefrorenen Erwachens": "Aspect of the Frozen Wake",
   "Aspekt des irdenen Schutzes": "Aspect of the Protector",
   "Eiserner Aspekt": "Aspect of Might",
+  "Aspekt der Macht": "Aspect of Plains Power",
+  "Unvergänglicher Aspekt": "Aspect of Unyielding Hits",
+  "Aspekt der fesselnden Furcht": "Aspect of Apprehension",
 
   // Utility Aspects
   "Aspekt des orangefarbenen Herolds": "Aspect of the Bounding Conduit",
@@ -238,6 +248,13 @@ const aspectTranslations = {
   "Aspekt der Vielseitigkeit": "Versatility Aspect",
   "Aspekt der Fluidität": "Aspect of Fluidity",
   "Tödliche Flinkheit": "Aspect of Lethal Dexterity",
+  "Aspekt des Jüngers": "Aspect of the Disciple",
+  "Aspekt der Souveränität Lageras": "Aspect of Lagera's Sovereignty",
+  "Aspekt des Gebieterzephyrs": "Aspect of the Arbiter's Zephyr",
+  "Aspekt des engelsgleichen Vollendung": "Aspect of Angelic Masterwork",
+  "Aspekt der Bodenstärke": "Aspect of Soil Power",
+  "Duellierender Aspekt": "Duelist's Aspect",
+  "Aspekt des elementaren Schicksals": "Aspect of Elemental Fate",
 
   // Resource Aspects
   "Aufladender Aspekt": "Recharging Aspect",
