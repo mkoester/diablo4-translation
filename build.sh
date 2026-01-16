@@ -87,11 +87,9 @@ sed -i "s/\"version\":\\s*\"[^\"]*\"/\"version\": \"$VERSION\"/" "$TEMP_DIR/mani
 echo "Updated manifest.json version to: $VERSION"
 
 # Create XPI file from temp directory
+# Firefox requires specific zip format: no compression for manifest.json
 cd "$TEMP_DIR"
-zip -r "$SCRIPT_DIR/$OUTPUT_FILE" \
-    manifest.json \
-    content.js \
-    -x "*.DS_Store" \
-    -x "__MACOSX/*"
+zip -0 "$SCRIPT_DIR/$OUTPUT_FILE" manifest.json
+zip -9 "$SCRIPT_DIR/$OUTPUT_FILE" content.js
 
 echo "✓ Successfully created: $OUTPUT_FILE"

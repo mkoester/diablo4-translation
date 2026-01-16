@@ -1,8 +1,16 @@
 {
   "manifest_version": 3,
   "name": "D4 Glyph Translator",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Translates German Diablo 4 glyph names to English on vitablo.de",
+  "author": "SML & Mirko Köster",
+  "homepage_url": "https://github.com/mkoester/diablo4-translation",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "d4-glyph-translator@mkoester.github.io"
+    }
+  },
   "content_scripts": [
     {
       "matches": ["*://vitablo.de/*build-guides/*", "*://vitablo.de/*build-guide/*"],
