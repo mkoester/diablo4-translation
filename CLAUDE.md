@@ -34,3 +34,42 @@ const translations = {
 
 - https://www.wowhead.com/diablo-4/paragon-glyphs (English)
 - https://www.wowhead.com/diablo-4/de/paragon-glyphs (German)
+
+## Git Flow Convention
+
+This project follows the git flow branching model:
+
+### Branch Structure
+
+- `main` - Production-ready code, tagged releases
+- `develop` - Integration branch for features, default development branch
+- `feature/*` - New features (branch from `develop`, merge back to `develop`)
+- `bugfix/*` - Bug fixes for develop (branch from `develop`, merge back to `develop`)
+- `hotfix/*` - Urgent production fixes (branch from `main`, merge to both `main` and `develop`)
+- `release/*` - Release preparation (branch from `develop`, merge to both `main` and `develop`)
+
+### Workflow
+
+1. **New features**: Create `feature/feature-name` from `develop`
+2. **Bug fixes**: Create `bugfix/bug-description` from `develop`
+3. **Releases**: Create `release/x.y.z` from `develop`, merge to `main` and `develop`
+4. **Hotfixes**: Create `hotfix/x.y.z` from `main`, merge to `main` and `develop`
+5. **Pull requests**: Target `develop` for features/bugfixes, `main` for releases/hotfixes
+
+### Commands
+
+```bash
+# Start a new feature
+git checkout develop
+git checkout -b feature/feature-name
+
+# Finish a feature (via PR to develop)
+git push -u origin feature/feature-name
+
+# Start a release
+git checkout develop
+git checkout -b release/1.0.0
+
+# Finish a release (via PR to main and develop)
+git push -u origin release/1.0.0
+```
