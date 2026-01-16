@@ -1,39 +1,88 @@
-# D4 Glyph Translator
+# D4 German Translator
 
-Firefox extension that translates German Diablo 4 paragon glyph names to English on vitablo.de.
+Firefox extension that translates German Diablo 4 terms to English on vitablo.de, including:
+- Paragon glyphs
+- Unique and mythic items
+- Legendary aspects
+- Tempering recipes
 
 ## Structure
 
 - `manifest.json` - Manifest V3, targets `*://vitablo.de/*build-guide*`
-- `content.js` - MutationObserver-based translator, contains all translation logic
-- `translations.json` - Reference file (translations are embedded in content.js)
+- `content.js` - MutationObserver-based translator with organized translation dictionaries
 
 ## How It Works
 
-1. Content script runs on matching pages
-2. Only translates text within `.d4para-row` elements (paragon board rows)
-3. Replaces German glyph names with "German (English)" format
-4. MutationObserver watches for dynamically loaded content within paragon boards
+1. Content script runs on matching build guide pages
+2. Translates text within:
+   - `.d4para-row` elements (paragon board rows) - for glyphs
+   - `.d4-item` elements (item containers) - for items, aspects, and tempering recipes
+3. Replaces German terms with "German (English)" format
+4. MutationObserver watches for dynamically loaded content
 
-## Adding New Translations
+## Translation Architecture
 
-Edit the `translations` object in `content.js`:
+The extension uses four separate translation dictionaries in `content.js`:
+
 ```javascript
-const translations = {
-  "GermanName": "EnglishName",
+// Paragon glyphs (~120 translations)
+const glyphTranslations = {
+  "Macht": "Might",
+  // ...
+};
+
+// Unique and mythic items (~60 translations)
+const itemTranslations = {
+  "Ring der Sternenlosen Himmel": "Ring of Starless Skies",
+  // ...
+};
+
+// Legendary aspects (~30 translations)
+const aspectTranslations = {
+  "Schneeverschleierter Aspekt": "Snowveiled Aspect",
+  // ...
+};
+
+// Tempering recipes (~20 translations)
+const temperingTranslations = {
+  "Weltliche Beständigkeit": "Worldly Endurance",
   // ...
 };
 ```
 
+All dictionaries are merged into `allTranslations` for pattern matching.
+
+## Adding New Translations
+
+Add entries to the appropriate translation object in `content.js`:
+
+1. **Glyphs**: Add to `glyphTranslations`
+2. **Items**: Add to `itemTranslations`
+3. **Aspects**: Add to `aspectTranslations`
+4. **Tempering**: Add to `temperingTranslations`
+
 ## Testing
 
 1. `about:debugging` → This Firefox → Load Temporary Add-on → select `manifest.json`
-2. Visit: https://vitablo.de/diablo-4-build-guides/
+2. Visit any build guide: https://vitablo.de/diablo-4-build-guides/
+3. Check both the Paragon section and "Items & Aspekte" section for translations
 
 ## Translation Sources
 
+### Paragon Glyphs
 - https://www.wowhead.com/diablo-4/paragon-glyphs (English)
 - https://www.wowhead.com/diablo-4/de/paragon-glyphs (German)
+
+### Unique Items
+- https://www.wowhead.com/diablo-4/items/quality:5,6 (English - Unique/Mythic)
+- https://www.wowhead.com/diablo-4/de/items/quality:5,6 (German - Unique/Mythic)
+
+### Legendary Aspects
+- https://www.wowhead.com/diablo-4/aspects (English)
+- https://www.wowhead.com/diablo-4/de/aspects (German)
+
+### Tempering Recipes
+- Found in-game or on build guides
 
 ## Git Flow Convention
 

@@ -1,7 +1,10 @@
-// D4 Glyph Translator - Translates German glyph names to English
+// D4 German Translator - Translates German D4 terms to English
 // Format: "German (English)"
 
-const translations = {
+// ============================================================================
+// PARAGON GLYPH TRANSLATIONS
+// ============================================================================
+const glyphTranslations = {
   "Macht": "Might",
   "Zorn": "Wrath",
   "Zermalmer": "Crusher",
@@ -119,8 +122,182 @@ const translations = {
   "Bluttrinker": "Blood-drinker"
 };
 
+// ============================================================================
+// UNIQUE & MYTHIC ITEM TRANSLATIONS
+// ============================================================================
+const itemTranslations = {
+  // Mythic Uniques
+  "Erbe der Verdammnis": "Heir of Perdition",
+  "Schleier des falschen Todes": "Shroud of False Death",
+  "Ring der Sternenlosen Himmel": "Ring of Starless Skies",
+  "Tyrael's Macht": "Tyrael's Might",
+  "Andariel's Antlitz": "Andariel's Visage",
+  "Ahavarion, Speer der Lanze": "Ahavarion, Spear of Lycander",
+  "Harlequin-Kamm": "Harlequin Crest",
+  "Die Großväter": "The Grandfather",
+  "Schmelzende Herz aus Selig": "Melted Heart of Selig",
+  "Doombringer": "Doombringer",
+
+  // Unique Items - Barbarian
+  "Anziehende Wut": "Rage of Harrogath",
+  "Götterbehälter": "Gohr's Devastating Grips",
+  "Kriegsschild der Hunderthand": "100,000 Steps",
+  "Reißzahn der Antike": "Ancient's Oath",
+  "Schmiedesteine der Tümpelwut": "Ancients' Pledge",
+
+  // Unique Items - Druid
+  "Sturmpranke": "Storm's Companion",
+  "Jäger-Zenit": "Hunter's Zenith",
+  "Umhang der Insektenschwärme": "Insatiable Fury",
+  "Sturmklauenpranke": "Stormclaw Paws",
+  "Basisgelee": "Vasily's Prayer",
+
+  // Unique Items - Necromancer
+  "Schwarze Fluss": "Black River",
+  "Blutmondaufgang": "Blood Moon Breeches",
+  "Blutlose Schreie": "Bloodless Scream",
+  "Leichenturm": "Blood Artisan's Cuirass",
+  "Deathless-Antlitz": "Deathless Visage",
+  "Greisen-Knochenfessel": "Greaves of the Empty Tomb",
+  "Verwesten Fittichen": "Howl from Below",
+
+  // Unique Items - Rogue
+  "Asheara's Kettenschliff": "Asheara's Khanjar",
+  "Kondemnierung": "Condemnation",
+  "Wortloser Zorn": "Word of Hakan",
+  "Unsichtbare Eile": "Unseen Menace",
+  "Schatten der Hinterhalte": "Cowl of the Nameless",
+
+  // Unique Items - Sorcerer
+  "Eisherz": "Iceheart Brais",
+  "Esu-Handlauf": "Esu's Heirloom",
+  "Ewiger Spross": "Staff of Endless Rage",
+  "Fokussierter Flammen": "Flamescar",
+  "Gletscherpranke": "Gloves of the Illuminator",
+  "Rabadon's Todeskappe": "Rabadon's Deathcap",
+  "Tal Rashas schillernder Reif": "Tal Rasha's Iridescent Loop",
+  "Schutzgewände von Schnee": "Snowguard's Hauberk",
+
+  // Common Unique Items
+  "Axiale Verbindung": "The Oculus",
+  "Auge des Ozelots": "Ocelot's Eye",
+  "Knochenbrecher": "Bonebreaker",
+  "Dämonenklinge": "Demonblade",
+  "Obsidianklinge": "Obsidian Blade",
+  "Todesweite": "Death's Reach",
+  "Runenstollen": "Runic Cleats",
+  "Runenhandschuhe": "Runic Gloves",
+  "Runenkappe": "Runic Skullcap",
+  "Runenkettenhemd": "Runic Mail",
+  "Runenhose": "Runic Leggings",
+  "Seelenbeobachterreif": "Soulwatch Hoop",
+  "Zerstreutes Prisma": "Scattered Prism",
+  "Tribut von Andariel": "Tribute of Andariel",
+  "Tribut des Leuchtens": "Tribute of Radiance",
+  "Paladinentschlossenheit": "Paladin Resolve",
+  "Niedereisen": "Neathiron",
+  "Akarats Lied": "Akarat's Song"
+};
+
+// ============================================================================
+// LEGENDARY ASPECT TRANSLATIONS
+// ============================================================================
+const aspectTranslations = {
+  // Offensive Aspects
+  "Aspekt der ungebrochenen Kette": "Aspect of the Unbroken Chain",
+  "Blitzbogens Aspekt": "Aspect of the Lightning Bow",
+  "Sturmschwellender Aspekt": "Stormswell Aspect",
+  "Aspekt der zerfetzenden Klingen": "Aspect of Searing Wards",
+  "Aspekt des aufgeladenen Blitzes": "Aspect of Charged Bolts",
+  "Aspekt des Aufstiegs": "Aspect of Ascendance",
+  "Aspekt der Erdbeben": "Aspect of Earthquakes",
+  "Aspekt der tollwütigen Bestie": "Aspect of the Rampaging Werebeast",
+  "Aspekt der Vergeltung": "Aspect of Retaliation",
+  "Aspekt der zerstörerischen Explosion": "Aspect of Overwhelming Currents",
+  "Blutfresser-Aspekt": "Bloodfeeder Aspect",
+  "Frostbrand-Aspekt": "Frostblitz Aspect",
+  "Groll-Aspekt": "Aspect of Ancestral Echoes",
+  "Kontroll-Aspekt": "Aspect of Control",
+  "Rache-Aspekt": "Aspect of Retribution",
+  "Zermalmer-Aspekt": "Aspect of the Crushing Earth",
+
+  // Defensive Aspects
+  "Schneeverschleierter Aspekt": "Snowveiled Aspect",
+  "Aspekt der Konzentration": "Aspect of Concentration",
+  "Aspekt der Unbeugsamen": "Aspect of the Unwavering",
+  "Abschirmender Aspekt": "Warding Aspect",
+  "Aspekt der eisigen Wache": "Aspect of the Frozen Guard",
+  "Aspekt des gefrorenen Erwachens": "Aspect of the Frozen Wake",
+  "Aspekt des irdenen Schutzes": "Aspect of the Protector",
+  "Eiserner Aspekt": "Aspect of Might",
+
+  // Utility Aspects
+  "Aspekt des orangefarbenen Herolds": "Aspect of the Bounding Conduit",
+  "Aspekt der zügigen Verbindung": "Aspect of Quickening Pulse",
+  "Elementaristen-Aspekt": "Elementalist's Aspect",
+  "Aspekt der Vielseitigkeit": "Versatility Aspect",
+  "Aspekt der Fluidität": "Aspect of Fluidity",
+  "Tödliche Flinkheit": "Aspect of Lethal Dexterity",
+
+  // Resource Aspects
+  "Aufladender Aspekt": "Recharging Aspect",
+  "Aspekt der wiederhergestellten Essenzen": "Aspect of Restored Essence",
+  "Essenz-Aspekt": "Aspect of the Umbral",
+
+  // Mobility Aspects
+  "Aspekt der Eile": "Aspect of Quickening Fog",
+  "Geist-Aspekt": "Aspect of the Changeling's Debt",
+  "Verschlagener Aspekt": "Aspect of the Blur"
+};
+
+// ============================================================================
+// TEMPERING RECIPE TRANSLATIONS
+// ============================================================================
+const temperingTranslations = {
+  // Defensive Tempering
+  "Weltliche Beständigkeit": "Worldly Endurance",
+  "Weltliche Stabilität": "Worldly Stability",
+  "Übernatürliche Beständigkeit": "Supernatural Endurance",
+  "Übernatürliche Stabilität": "Supernatural Stability",
+
+  // Offensive Tempering
+  "Schockfinesse": "Shock Finesse",
+  "Frostfinesse": "Frost Finesse",
+  "Feuerfinesse": "Fire Finesse",
+  "Schattenfinesse": "Shadow Finesse",
+  "Toxinfinesse": "Toxin Finesse",
+  "Physische Finesse": "Physical Finesse",
+
+  // Mobility Tempering
+  "Zaubererbewegung": "Sorcerer Movement",
+  "Barbarenbewegung": "Barbarian Movement",
+  "Druidenbewegung": "Druid Movement",
+  "Totenbeschwörerbewegung": "Necromancer Movement",
+  "Schurkenbewegung": "Rogue Movement",
+  "Geistgeborenen-Bewegung": "Spiritborn Movement",
+
+  // Weapon Tempering
+  "Schockzunahmen: Woge": "Augments: Surge",
+  "Frostzunahmen: Woge": "Frost Augments: Surge",
+  "Feuerzunahmen: Woge": "Fire Augments: Surge",
+  "Schattenzunahmen: Woge": "Shadow Augments: Surge",
+  "Toxinzunahmen: Woge": "Toxin Augments: Surge"
+};
+
+// ============================================================================
+// TRANSLATION PROCESSING
+// ============================================================================
+
+// Combine all translations for pattern matching
+const allTranslations = {
+  ...glyphTranslations,
+  ...itemTranslations,
+  ...aspectTranslations,
+  ...temperingTranslations
+};
+
 // Sort by length (longest first) to avoid partial replacements
-const sortedKeys = Object.keys(translations).sort((a, b) => b.length - a.length);
+const sortedKeys = Object.keys(allTranslations).sort((a, b) => b.length - a.length);
 
 // Build regex pattern for all German terms
 const pattern = new RegExp(
@@ -139,7 +316,7 @@ function translateTextNode(textNode) {
 
   // Replace each German term with "German (English)" format
   newText = newText.replace(pattern, (match) => {
-    const english = translations[match];
+    const english = allTranslations[match];
     if (english && !originalText.includes(`(${english})`)) {
       return `${match} (${english})`;
     }
@@ -182,10 +359,16 @@ function walkTextNodes(element) {
   textNodes.forEach(translateTextNode);
 }
 
-// Initial translation pass - only within paragon board rows
+// Initial translation pass - paragon board rows and item sections
 function initialTranslation() {
+  // Translate paragon glyphs
   document.querySelectorAll('.d4para-row').forEach(row => {
     walkTextNodes(row);
+  });
+
+  // Translate items and aspects
+  document.querySelectorAll('.d4-item').forEach(item => {
+    walkTextNodes(item);
   });
 }
 
@@ -193,26 +376,32 @@ function initialTranslation() {
 function setupObserver() {
   const observer = new MutationObserver((mutations) => {
     mutations.forEach((mutation) => {
-      // Handle added nodes - only within .d4para-row elements
+      // Handle added nodes - within .d4para-row or .d4-item elements
       mutation.addedNodes.forEach((node) => {
         if (node.nodeType === Node.ELEMENT_NODE) {
-          if (node.classList?.contains('d4para-row')) {
+          // Check if node is a paragon row or item container
+          if (node.classList?.contains('d4para-row') || node.classList?.contains('d4-item')) {
             walkTextNodes(node);
-          } else if (node.closest('.d4para-row')) {
+          }
+          // Check if node is inside a paragon row or item container
+          else if (node.closest('.d4para-row') || node.closest('.d4-item')) {
             walkTextNodes(node);
-          } else if (node.querySelectorAll) {
-            node.querySelectorAll('.d4para-row').forEach(row => walkTextNodes(row));
+          }
+          // Search for paragon rows or item containers within the node
+          else if (node.querySelectorAll) {
+            node.querySelectorAll('.d4para-row, .d4-item').forEach(element => walkTextNodes(element));
           }
         } else if (node.nodeType === Node.TEXT_NODE) {
-          if (node.parentElement?.closest('.d4para-row')) {
+          // Translate text nodes inside paragon rows or item containers
+          if (node.parentElement?.closest('.d4para-row') || node.parentElement?.closest('.d4-item')) {
             translateTextNode(node);
           }
         }
       });
 
-      // Handle character data changes - only within .d4para-row elements
+      // Handle character data changes - within .d4para-row or .d4-item elements
       if (mutation.type === 'characterData' && mutation.target.nodeType === Node.TEXT_NODE) {
-        if (mutation.target.parentElement?.closest('.d4para-row')) {
+        if (mutation.target.parentElement?.closest('.d4para-row') || mutation.target.parentElement?.closest('.d4-item')) {
           processedNodes.delete(mutation.target);
           translateTextNode(mutation.target);
         }
@@ -238,4 +427,4 @@ if (document.readyState === 'loading') {
   setupObserver();
 }
 
-console.log('D4 Glyph Translator loaded - translating German glyph names to English');
+console.log('D4 German Translator loaded - translating glyphs, items, aspects, and tempering recipes');
