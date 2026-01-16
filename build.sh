@@ -67,22 +67,19 @@ else
 fi
 
 # Output file path (parent directory)
-OUTPUT_FILE="../diablo4ßtranslation-${VERSION}.xpi"
+OUTPUT_FILE="../diablo4-translation-${VERSION}.xpi"
 
 echo "Building Diablo 4 Translation v${VERSION}..."
 
 # Create temporary directory
-TEMP_DIR=$(mktemp -d -t send-as-alias-build.XXXXXXXXXX)
+TEMP_DIR=$(mktemp -d -t diablo4-translation-build.XXXXXXXXXX)
 trap "rm -rf '$TEMP_DIR'" EXIT
 
 echo "Using temporary directory: $TEMP_DIR"
 
 # Copy all necessary files to temp directory
 cp manifest.json "$TEMP_DIR/"
-cp background.js "$TEMP_DIR/"
-cp -r icons/ "$TEMP_DIR/"
-cp -r options/ "$TEMP_DIR/"
-cp -r popup/ "$TEMP_DIR/"
+cp content.js "$TEMP_DIR/"
 
 # Update version in manifest.json inside temp directory
 sed -i "s/\"version\":\\s*\"[^\"]*\"/\"version\": \"$VERSION\"/" "$TEMP_DIR/manifest.json"
@@ -93,12 +90,8 @@ echo "Updated manifest.json version to: $VERSION"
 cd "$TEMP_DIR"
 zip -r "$SCRIPT_DIR/$OUTPUT_FILE" \
     manifest.json \
-    background.js \
-    icons/ \
-    options/ \
-    popup/ \
+    content.js \
     -x "*.DS_Store" \
-    -x "__MACOSX/*" \
-    -x "*/README.md"
+    -x "__MACOSX/*"
 
 echo "✓ Successfully created: $OUTPUT_FILE"
