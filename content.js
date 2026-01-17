@@ -125,6 +125,76 @@ const glyphTranslations = {
 };
 
 // ============================================================================
+// PARAGON BOARD LEGENDARY NODE TRANSLATIONS
+// ============================================================================
+const paragonNodeTranslations = {
+  "Antrieb": "Drive",
+  "Anzapfen": "Sapping",
+  "Bittere Medizin": "Bitter Medicine",
+  "Blut fordert Blut": "Blood Begets Blood",
+  "Blutbad": "Bloodbath",
+  "Blutrausch": "Blood Rage",
+  "Blutsturz": "Hemorrhage",
+  "Brennender Instinkt": "Burning Instinct",
+  "Danse Macabre": "Danse Macabre",
+  "Dezimierer": "Decimator",
+  "Einengende Ranken": "Constricting Tendrils",
+  "Eiskaltes Schicksal": "Frigid Fate",
+  "Eisschlag": "Icefall",
+  "Elementarbeschwörer": "Elemental Summoner",
+  "Fleischfresser": "Flesh-eater",
+  "Führung der Ahnen": "Ancestral Guidance",
+  "Geborener Anführer": "Natural Leader",
+  "Gebrechlichkeit": "Frailty",
+  "Gemetzel": "Carnage",
+  "Geruch des Todes": "Scent of Death",
+  "Gestärkte Bosheit": "Heightened Malice",
+  "Grundlegende Entfesslung": "Fundamental Release",
+  "Grundlegende Entfesselung": "Fundamental Release",
+  "Göttlichkeit": "Divinity",
+  "Hünenhafte Monstrosität": "Hulking Monstrosity",
+  "Inbrunst": "Fervent",
+  "Innere Bestie": "Inner Beast",
+  "Irdene Verheerung": "Earthen Devastation",
+  "Jägerhandwerk": "Tricks of the Trade",
+  "Kastell": "Castle",
+  "Keine Zeugen": "No Witnesses",
+  "Knochenbrecher": "Bone Breaker",
+  "Knochentransplantat": "Bone Graft",
+  "Konvergenz": "Convergence",
+  "Kriegshetzer": "Warbringer",
+  "Kultanführer": "Cult Leader",
+  "Leuchtfeuer": "Beacon",
+  "Leyranas Instinkt": "Leyrana's Instinct",
+  "Lust auf Gemetzel": "Lust for Carnage",
+  "Makellose Technik": "Flawless Technique",
+  "Nahkämpfer": "In-Fighter",
+  "Naturgewalt": "Force of Nature",
+  "Offenbarend": "Revealing",
+  "Prediger": "Preacher",
+  "Raffinierte List": "Cunning Stratagem",
+  "Schildträger": "Shield Bearer",
+  "Schwäche ausnutzen": "Exploit Weakness",
+  "Sengende Hitze": "Searing Heat",
+  "Stachelige Haut": "Spiney Skin",
+  "Standhalten": "Endure",
+  "Statische Woge": "Static Surge",
+  "Tödlicher Hinterhalt": "Deadly Ambush",
+  "Unablässige Verbindung": "Ceaseless Conduit",
+  "Ungezähmt": "Untamed",
+  "Unheimliches Kopfgeld": "Eldritch Bounty",
+  "Unnachgiebig": "Relentless",
+  "Unter die Gürtellinie": "Cheap Shot",
+  "Verkümmern": "Wither",
+  "Verurteilend": "Sentencing",
+  "Verzauberungsmeister": "Enchantment Master",
+  "Vom Blitz getroffen": "Thunderstruck",
+  "Waffenmeister": "Weapons Master",
+  "Zäher Schild": "Viscous Shield",
+  "Überlebensinstinkte": "Survival Instincts",
+};
+
+// ============================================================================
 // UNIQUE/MYTHIC ITEM TRANSLATIONS
 // ============================================================================
 const itemTranslations = {
@@ -1818,6 +1888,7 @@ const temperingTranslations = {
 // Combine all translations for pattern matching
 const allTranslations = {
   ...glyphTranslations,
+  ...paragonNodeTranslations,
   ...itemTranslations,
   ...aspectTranslations,
   ...temperingTranslations

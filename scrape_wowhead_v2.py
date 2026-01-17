@@ -48,30 +48,13 @@ class WowheadIDScraper:
 
     def _wait_for_load(self):
         """Wait for page to load."""
-        time.sleep(8)  # Increased wait for JavaScript rendering
+        time.sleep(10)  # Increased wait for JavaScript rendering
 
-    def _extract_from_page(self, url: str) -> Dict[int, Dict]:
+    def _extract_from_page(self, url: str, debug: bool = False) -> Dict[int, Dict]:
         """Extract items with IDs from a Wowhead page."""
         print(f"Loading {url}...")
         self.driver.get(url)
         self._wait_for_load()
-
-        # Try to show all items
-        try:
-            script = """
-            var buttons = document.querySelectorAll('button, a');
-            for (var i = 0; i < buttons.length; i++) {
-                var text = buttons[i].textContent.toLowerCase();
-                if (text.includes('all') || text.includes('alle')) {
-                    buttons[i].click();
-                    break;
-                }
-            }
-            """
-            self.driver.execute_script(script)
-            time.sleep(2)
-        except Exception:
-            pass
 
         items = {}
 
@@ -139,21 +122,24 @@ class WowheadIDScraper:
 
             source = self.driver.page_source
 
-            # Simple pattern for id and name
-            id_name_pattern = r'"id":(\d+),"name":"([^"]+)"'
-            matches = re.findall(id_name_pattern, source)
+            # Pattern that captures id, name, and quality in one go
+            # This handles cases where the order might vary
+            pattern = r'"id":(\d+)[^}]*"name":"([^"]+)"[^}]*"quality":(\d+)'
+            matches = re.findall(pattern, source)
 
             if matches:
                 print(f"  Found {len(matches)} items via regex")
 
-                # For each match, try to find quality nearby
-                for item_id_str, name in matches:
+                for item_id_str, name, quality_str in matches:
                     item_id = int(item_id_str)
+                    quality = int(quality_str) if quality_str else None
 
-                    # Try to find quality for this item (look for quality field near this ID)
-                    quality_pattern = rf'"id":{item_id}[^}}]*"quality":(\d+)'
-                    quality_match = re.search(quality_pattern, source)
-                    quality = int(quality_match.group(1)) if quality_match else None
+                    # Decode Unicode escape sequences (e.g., \u00fc -> ü)
+                    import codecs
+                    try:
+                        name = codecs.decode(name, 'unicode_escape')
+                    except:
+                        pass  # Keep original if decode fails
 
                     items[item_id] = {
                         'name': name,
@@ -220,6 +206,11 @@ class WowheadIDScraper:
                 'glyphs',
                 'https://www.wowhead.com/diablo-4/de/paragon-glyphs',
                 'https://www.wowhead.com/diablo-4/paragon-glyphs'
+            ),
+            'paragon_nodes': self.extract_category(
+                'paragon_nodes',
+                'https://www.wowhead.com/diablo-4/de/paragon-nodes/quality:4',
+                'https://www.wowhead.com/diablo-4/paragon-nodes/quality:4'
             ),
             'items': self.extract_category(
                 'items',
@@ -308,6 +299,7 @@ def export_content_js_v2(data: Dict[str, List[TranslationEntry]], filename: str 
         f.write("// Merge all string-based translations for regex pattern\n")
         f.write("const allTranslations = {\n")
         f.write("  ...glyphsTranslations,\n")
+        f.write("  ...paragon_nodesTranslations,\n")
         f.write("  ...itemsTranslations,\n")
         f.write("  ...aspectsTranslations\n")
         f.write("};\n\n")
@@ -320,13 +312,14 @@ def export_content_js_v2(data: Dict[str, List[TranslationEntry]], filename: str 
         f.write("""
 /**
  * Get translation by ID
- * @param {string} category - 'glyphs', 'items', or 'aspects'
+ * @param {string} category - 'glyphs', 'paragon_nodes', 'items', or 'aspects'
  * @param {number} id - Wowhead item ID
  * @returns {Object|null} Translation object or null
  */
 function getTranslationById(category, id) {
   const db = {
     'glyphs': glyphsById,
+    'paragon_nodes': paragon_nodesById,
     'items': itemsById,
     'aspects': aspectsById
   };
@@ -349,6 +342,7 @@ function getEnglishFromGerman(germanText) {
  */
 function findById(id) {
   if (glyphsById[id]) return { category: 'glyph', translation: glyphsById[id] };
+  if (paragon_nodesById[id]) return { category: 'paragon_node', translation: paragon_nodesById[id] };
   if (itemsById[id]) return { category: 'item', translation: itemsById[id] };
   if (aspectsById[id]) return { category: 'aspect', translation: aspectsById[id] };
   return null;

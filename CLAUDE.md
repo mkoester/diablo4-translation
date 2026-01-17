@@ -2,6 +2,7 @@
 
 Firefox extension that translates German Diablo 4 terms to English on vitablo.de, including:
 - Paragon glyphs
+- Paragon board legendary nodes
 - Unique and mythic items
 - Legendary aspects
 - Tempering recipes
@@ -22,16 +23,22 @@ Firefox extension that translates German Diablo 4 terms to English on vitablo.de
 
 ## Translation Architecture
 
-The extension uses four separate translation dictionaries in `content.js`:
+The extension uses five separate translation dictionaries in `content.js`:
 
 ```javascript
-// Paragon glyphs (~120 translations)
+// Paragon glyphs (~138 translations)
 const glyphTranslations = {
   "Macht": "Might",
   // ...
 };
 
-// Unique and mythic items (~60 translations)
+// Paragon board legendary nodes (~63 translations)
+const paragonNodeTranslations = {
+  "Unnachgiebig": "Relentless",
+  // ...
+};
+
+// Unique and mythic items (~997 translations)
 const itemTranslations = {
   "Ring der Sternenlosen Himmel": "Ring of Starless Skies",
   // ...
@@ -57,9 +64,10 @@ All dictionaries are merged into `allTranslations` for pattern matching.
 Add entries to the appropriate translation object in `content.js`:
 
 1. **Glyphs**: Add to `glyphTranslations`
-2. **Items**: Add to `itemTranslations`
-3. **Aspects**: Add to `aspectTranslations`
-4. **Tempering**: Add to `temperingTranslations`
+2. **Paragon Nodes**: Add to `paragonNodeTranslations`
+3. **Items**: Add to `itemTranslations`
+4. **Aspects**: Add to `aspectTranslations`
+5. **Tempering**: Add to `temperingTranslations`
 
 ### Important Notes
 
@@ -82,6 +90,10 @@ Add entries to the appropriate translation object in `content.js`:
 ### Paragon Glyphs
 - https://www.wowhead.com/diablo-4/paragon-glyphs (English)
 - https://www.wowhead.com/diablo-4/de/paragon-glyphs (German)
+
+### Paragon Board Legendary Nodes
+- https://www.wowhead.com/diablo-4/paragon-nodes/quality:4 (English)
+- https://www.wowhead.com/diablo-4/de/paragon-nodes/quality:4 (German)
 
 ### Unique Items
 - https://www.wowhead.com/diablo-4/items/quality:5,6 (English - Unique/Mythic)
