@@ -64,7 +64,7 @@ Add entries to the appropriate translation object in `content.js`:
 ### Important Notes
 
 **Aspect Name Format Discrepancy:**
-- Wowhead German database uses: `"Aspekt: Name"` (with colon)
+- Wowhead German database uses: `"Aspekt: Name"` (with colon) for some of the items
 - Vitablo.de actually uses: `"Name Aspekt"` (without colon)
 - **Always use the vitablo.de format** (without colon) in translations
 - Examples:
@@ -93,6 +93,44 @@ Add entries to the appropriate translation object in `content.js`:
 
 ### Tempering Recipes
 - Found in-game or on build guides
+
+## Extraction Notes (2026-01-17)
+
+### Wowhead Data Extraction Process
+
+Extracted German terms from Wowhead and added to `content.js` with "TODO" placeholders for English translations.
+
+#### Wowhead Pagination Challenges
+- Wowhead uses dynamic JavaScript loading for data
+- Direct WebFetch only captures initially loaded content
+- **Glyphs**: Successfully extracted all 138 glyphs (single page load)
+- **Items**: Page reports 997 unique items + mythic items, but only shows ~100 per initial load
+- **Aspects**: Page reports 466 total aspects, but only shows sample in initial load
+
+#### Added German Terms with TODO Placeholders
+
+**Paragon Glyphs (11 new):**
+- Fitness, Ausweiden, Hackbeil, Scharfrichter, Stalagmit, Ferne, Infusion, Geübt, Elektrifizieren, Torf, Bann
+
+**Mythic Items (10 new):**
+- Griswolds Opus, Orsivane, Dämmerfeuer, Herold der Zakarum, Geläutertes Horn Duriels, Siegel des Zweiten Horns, Geläutertes Auge Belials, Geläuterte Klaue Andariels, Geläuterte Zunge Azmodans, Silberschleier
+
+**Unique Items (7 new):**
+- Ende des Kaisers, Enigmawürfel, Schlangenstein, Tracht des Unheilvollen Vorhabens, Schmiedetruhe, Außergewöhnliche Rüstung, Skelettierter Beschützer
+
+**Aspects (1 new):**
+- Schlachthäuptlings Aspekt
+
+#### Next Steps for Translation
+1. Visit English Wowhead pages for each category
+2. Match German terms to English equivalents
+3. Replace all "TODO" placeholders with actual translations
+4. Consider building a script to automate Wowhead data extraction for comprehensive coverage
+
+#### Wowhead URL Patterns
+- Unique items only: `https://www.wowhead.com/diablo-4/de/items/quality:5`
+- Mythic items only: `https://www.wowhead.com/diablo-4/de/items/quality:6`
+- Combined: `https://www.wowhead.com/diablo-4/de/items/quality:5,6`
 
 ## Git Flow Convention
 

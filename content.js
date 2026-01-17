@@ -119,7 +119,20 @@ const glyphTranslations = {
   "Mensch": "Human",
   "Fluch": "Bane",
   "Näher": "Closer",
-  "Bluttrinker": "Blood-drinker"
+  "Bluttrinker": "Blood-drinker",
+
+  // Missing glyphs - TODO: Add English translations
+  "Fitness": "TODO",
+  "Ausweiden": "TODO",
+  "Hackbeil": "TODO",
+  "Scharfrichter": "TODO",
+  "Stalagmit": "TODO",
+  "Ferne": "TODO",
+  "Infusion": "TODO",
+  "Geübt": "TODO",
+  "Elektrifizieren": "TODO",
+  "Torf": "TODO",
+  "Bann": "TODO"
 };
 
 // ============================================================================
@@ -137,6 +150,18 @@ const itemTranslations = {
   "Die Großväter": "The Grandfather",
   "Schmelzende Herz aus Selig": "Melted Heart of Selig",
   "Doombringer": "Doombringer",
+
+  // New Mythic Items - TODO: Add English translations
+  "Griswolds Opus": "TODO",
+  "Orsivane": "TODO",
+  "Dämmerfeuer": "TODO",
+  "Herold der Zakarum": "TODO",
+  "Geläutertes Horn Duriels": "TODO",
+  "Siegel des Zweiten Horns": "TODO",
+  "Geläutertes Auge Belials": "TODO",
+  "Geläuterte Klaue Andariels": "TODO",
+  "Geläuterte Zunge Azmodans": "TODO",
+  "Silberschleier": "TODO",
 
   // Unique Items - Barbarian
   "Anziehende Wut": "Rage of Harrogath",
@@ -196,7 +221,16 @@ const itemTranslations = {
   "Tribut des Leuchtens": "Tribute of Radiance",
   "Paladinentschlossenheit": "Paladin Resolve",
   "Niedereisen": "Neathiron",
-  "Akarats Lied": "Akarat's Song"
+  "Akarats Lied": "Akarat's Song",
+
+  // New Unique Items - TODO: Add English translations
+  "Ende des Kaisers": "TODO",
+  "Enigmawürfel": "TODO",
+  "Schlangenstein": "TODO",
+  "Tracht des Unheilvollen Vorhabens": "TODO",
+  "Schmiedetruhe": "TODO",
+  "Außergewöhnliche Rüstung": "TODO",
+  "Skelettierter Beschützer": "TODO"
 };
 
 // ============================================================================
@@ -296,7 +330,13 @@ const aspectTranslations = {
   "Aspekt des Verfalls": "Aspect of Decay",
   "Aspekt des Schattens": "Aspect of Shadow",
   "Seelenzerschmetternder Aspekt": "Shattered Spirit's Aspect",
-  "Aspekt der Grenzenlosen Wut": "Aspect of Limitless Rage"
+  "Aspekt der Grenzenlosen Wut": "Aspect of Limitless Rage",
+
+  // New Aspects from Wowhead - TODO: Add English translations
+  // Note: These need English translations from the English Wowhead page
+  "Keilender Aspekt": "Aspect of Shredding Blades",  // Already had this, keeping it
+  "Eitler Aspekt": "Conceited Aspect",  // Already had this, keeping it
+  "Schlachthäuptlings Aspekt": "TODO"  // New one to translate
 };
 
 // ============================================================================
