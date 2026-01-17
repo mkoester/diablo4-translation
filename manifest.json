@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "D4 Glyph Translator",
+  "name": "D4 German Translator",
   "version": "1.0.1",
-  "description": "Translates German Diablo 4 glyph names to English on vitablo.de",
+  "description": "Translates German Diablo 4 terms (glyphs, items, aspects, tempering) to English on vitablo.de",
   "author": "SML & Mirko Köster",
   "homepage_url": "https://github.com/mkoester/diablo4-translation",
 

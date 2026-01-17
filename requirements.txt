@@ -1,0 +1,11 @@
+# Wowhead scraper dependencies
+
+# Basic HTTP requests (for simple scraper)
+requests>=2.31.0
+
+# Selenium for JavaScript-rendered content (for enhanced scraper)
+selenium>=4.16.0
+
+# Optional: faster parsing
+beautifulsoup4>=4.12.0
+lxml>=5.1.0

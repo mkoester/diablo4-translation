@@ -1,6 +1,10 @@
-# D4 Glyph Translator
+# D4 German Translator
 
-Firefox extension that translates German Diablo 4 paragon glyph names to English on vitablo.de.
+Firefox extension that translates German Diablo 4 terms to English on vitablo.de, including:
+- Paragon glyphs
+- Unique and mythic items
+- Legendary aspects
+- Tempering recipes
 
 Displays translations in the format: `German (English)`
 
@@ -12,4 +16,8 @@ Displays translations in the format: `German (English)`
 
 ## Usage
 
-Visit any build guide on vitablo.de. German glyph names in paragon boards will automatically show their English translations.
+Visit any build guide on vitablo.de. German terms in both the Paragon section and the "Items & Aspekte" section will automatically show their English translations.
+
+## Development
+
+See [CLAUDE.md](CLAUDE.md) for detailed documentation on the translation architecture, adding new translations, and git flow conventions.
