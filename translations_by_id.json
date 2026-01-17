@@ -1,0 +1,7833 @@
+{
+  "glyphs": {
+    "1071719": {
+      "de": "Absorbierer",
+      "en": "Imbiber",
+      "quality": 3
+    },
+    "1029487": {
+      "de": "Besonnen",
+      "en": "Canny",
+      "quality": 3
+    },
+    "2478548": {
+      "de": "Pracht",
+      "en": "Resplendence",
+      "quality": 3
+    },
+    "2477896": {
+      "de": "Geschliffen",
+      "en": "Honed",
+      "quality": 3
+    },
+    "2478561": {
+      "de": "Richter",
+      "en": "Judicator",
+      "quality": 3
+    },
+    "1028237": {
+      "de": "Geist",
+      "en": "Spirit",
+      "quality": 3
+    },
+    "2478228": {
+      "de": "Gesetz",
+      "en": "Law",
+      "quality": 3
+    },
+    "2478580": {
+      "de": "Apostel",
+      "en": "Apostle",
+      "quality": 3
+    },
+    "2073373": {
+      "de": "Herausforderer",
+      "en": "Challenger",
+      "quality": 3
+    },
+    "2478242": {
+      "de": "Gebieter",
+      "en": "Arbiter ",
+      "quality": 3
+    },
+    "1023199": {
+      "de": "Ausbeuten",
+      "en": "Exploit",
+      "quality": 3
+    },
+    "1031004": {
+      "de": "Totenbeleber",
+      "en": "Deadraiser",
+      "quality": 3
+    },
+    "1027089": {
+      "de": "Marschall",
+      "en": "Marshal",
+      "quality": 3
+    },
+    "1027083": {
+      "de": "Macht",
+      "en": "Might",
+      "quality": 3
+    },
+    "1028226": {
+      "de": "Rei\\u00dfer und Klaue",
+      "en": "Fang and Claw",
+      "quality": 3
+    },
+    "1029479": {
+      "de": "Splitter",
+      "en": "Chip",
+      "quality": 3
+    },
+    "1631011": {
+      "de": "Sch\\u00e4ndung",
+      "en": "Desecration",
+      "quality": 3
+    },
+    "1027095": {
+      "de": "Rache",
+      "en": "Revenge",
+      "quality": 3
+    },
+    "1029482": {
+      "de": "Verschlagen",
+      "en": "Devious",
+      "quality": 3
+    },
+    "1023189": {
+      "de": "Aufgeladen",
+      "en": "Charged",
+      "quality": 3
+    },
+    "1027091": {
+      "de": "Zorn",
+      "en": "Wrath",
+      "quality": 3
+    },
+    "2506810": {
+      "de": "Geist",
+      "en": "Spirit",
+      "quality": 3
+    },
+    "1023185": {
+      "de": "Entfesseln",
+      "en": "Unleash",
+      "quality": 3
+    },
+    "1023193": {
+      "de": "Taktiker",
+      "en": "Tactician",
+      "quality": 3
+    },
+    "1622788": {
+      "de": "Poltern",
+      "en": "Rumble",
+      "quality": 3
+    },
+    "1028236": {
+      "de": "\\u00dcbertreffen",
+      "en": "Outmatch",
+      "quality": 3
+    },
+    "2072751": {
+      "de": "Ausl\\u00f6scher",
+      "en": "Eliminator",
+      "quality": 3
+    },
+    "2477888": {
+      "de": "W\\u00e4chter",
+      "en": "Sentinel",
+      "quality": 3
+    },
+    "1023202": {
+      "de": "Zerst\\u00f6rung",
+      "en": "Destruction",
+      "quality": 3
+    },
+    "1027086": {
+      "de": "Zermalmer",
+      "en": "Crusher",
+      "quality": 3
+    },
+    "1023186": {
+      "de": "Elementarist",
+      "en": "Elementalist",
+      "quality": 3
+    },
+    "1028233": {
+      "de": "H\\u00fcter",
+      "en": "Keeper",
+      "quality": 3
+    },
+    "1031001": {
+      "de": "K\\u00f6rperlich",
+      "en": "Corporeal",
+      "quality": 3
+    },
+    "2063983": {
+      "de": "Fitness",
+      "en": "Fitness",
+      "quality": 3
+    },
+    "1031058": {
+      "de": "Abyssal",
+      "en": "Abyssal",
+      "quality": 3
+    },
+    "1027096": {
+      "de": "Unerschrocken",
+      "en": "Undaunted",
+      "quality": 3
+    },
+    "2070631": {
+      "de": "Hybris",
+      "en": "Hubris",
+      "quality": 3
+    },
+    "2066786": {
+      "de": "Gezackte Feder",
+      "en": "Jagged Plume",
+      "quality": 3
+    },
+    "1029491": {
+      "de": "Kontrolle",
+      "en": "Control",
+      "quality": 3
+    },
+    "2506132": {
+      "de": "Ausbeuten",
+      "en": "Exploit",
+      "quality": 3
+    },
+    "1029476": {
+      "de": "Vielseitigkeit",
+      "en": "Versatility",
+      "quality": 3
+    },
+    "1023188": {
+      "de": "Beschw\\u00f6rer",
+      "en": "Conjurer",
+      "quality": 3
+    },
+    "1023194": {
+      "de": "Schlinger",
+      "en": "Guzzler",
+      "quality": 3
+    },
+    "1031006": {
+      "de": "Verst\\u00e4rken",
+      "en": "Amplify",
+      "quality": 3
+    },
+    "1031012": {
+      "de": "Grabh\\u00fcter",
+      "en": "Gravekeeper",
+      "quality": 3
+    },
+    "1023197": {
+      "de": "Territorial",
+      "en": "Territorial",
+      "quality": 3
+    },
+    "1027088": {
+      "de": "Groll",
+      "en": "Ire",
+      "quality": 3
+    },
+    "2067375": {
+      "de": "Klaue",
+      "en": "Talon",
+      "quality": 3
+    },
+    "2478571": {
+      "de": "Inbr\\u00fcnstig",
+      "en": "Feverous",
+      "quality": 3
+    },
+    "2506253": {
+      "de": "\\u00dcbertreffen",
+      "en": "Outmatch",
+      "quality": 3
+    },
+    "1029490": {
+      "de": "Ausbeuten",
+      "en": "Exploit",
+      "quality": 3
+    },
+    "2064639": {
+      "de": "Menagerist",
+      "en": "Menagerist",
+      "quality": 3
+    },
+    "2067363": {
+      "de": "Schleifen",
+      "en": "Hone",
+      "quality": 3
+    },
+    "2067631": {
+      "de": "Lauffeuer",
+      "en": "Wildfire",
+      "quality": 3
+    },
+    "2073378": {
+      "de": "Kopfj\\u00e4ger",
+      "en": "Headhunter",
+      "quality": 3
+    },
+    "1031010": {
+      "de": "Essenz",
+      "en": "Essence",
+      "quality": 3
+    },
+    "1068833": {
+      "de": "Dominieren",
+      "en": "Dominate",
+      "quality": 3
+    },
+    "1027093": {
+      "de": "Waffenmeister",
+      "en": "Weapon Master",
+      "quality": 3
+    },
+    "1029481": {
+      "de": "Fluidit\\u00e4t",
+      "en": "Fluidity",
+      "quality": 3
+    },
+    "2506071": {
+      "de": "Splitter",
+      "en": "Chip",
+      "quality": 3
+    },
+    "1028228": {
+      "de": "Wildnis",
+      "en": "Wilds",
+      "quality": 3
+    },
+    "1031002": {
+      "de": "Bluttrinker",
+      "en": "Blood-drinker",
+      "quality": 3
+    },
+    "1331811": {
+      "de": "Dominieren",
+      "en": "Dominate",
+      "quality": 3
+    },
+    "1023191": {
+      "de": "Pyromane",
+      "en": "Pyromaniac",
+      "quality": 3
+    },
+    "1028234": {
+      "de": "Entladen",
+      "en": "Fulminate",
+      "quality": 3
+    },
+    "1331846": {
+      "de": "Rache",
+      "en": "Revenge",
+      "quality": 3
+    },
+    "2072563": {
+      "de": "Eitern",
+      "en": "Fester",
+      "quality": 3
+    },
+    "2506847": {
+      "de": "Torf",
+      "en": "Turf",
+      "quality": 3
+    },
+    "1027097": {
+      "de": "Dominieren",
+      "en": "Dominate",
+      "quality": 3
+    },
+    "1028227": {
+      "de": "Erde und Himmel",
+      "en": "Earth and Sky",
+      "quality": 3
+    },
+    "1029493": {
+      "de": "Torf",
+      "en": "Turf",
+      "quality": 3
+    },
+    "1023201": {
+      "de": "Elektrifizieren",
+      "en": "Electrocute",
+      "quality": 3
+    },
+    "1029495": {
+      "de": "Hinterhalt",
+      "en": "Ambush",
+      "quality": 3
+    },
+    "1031000": {
+      "de": "Aufopferung",
+      "en": "Sacrificial",
+      "quality": 3
+    },
+    "1621704": {
+      "de": "Tornado",
+      "en": "Twister",
+      "quality": 3
+    },
+    "2069252": {
+      "de": "Kolossal",
+      "en": "Colossal",
+      "quality": 3
+    },
+    "1027075": {
+      "de": "Beidh\\u00e4ndig",
+      "en": "Ambidextrous",
+      "quality": 3
+    },
+    "1027099": {
+      "de": "Rauferei",
+      "en": "Brawl",
+      "quality": 3
+    },
+    "1028232": {
+      "de": "Bann",
+      "en": "Bane",
+      "quality": 3
+    },
+    "2077106": {
+      "de": "Geist",
+      "en": "Spirit",
+      "quality": 3
+    },
+    "2077200": {
+      "de": "\\u00dcbertreffen",
+      "en": "Outmatch",
+      "quality": 3
+    },
+    "1023184": {
+      "de": "Verzauberer",
+      "en": "Enchanter",
+      "quality": 3
+    },
+    "1027087": {
+      "de": "Scharfrichter",
+      "en": "Executioner",
+      "quality": 3
+    },
+    "1028231": {
+      "de": "Mensch",
+      "en": "Human",
+      "quality": 3
+    },
+    "1031003": {
+      "de": "Kontrolle",
+      "en": "Control",
+      "quality": 3
+    },
+    "1027098": {
+      "de": "Ausweiden",
+      "en": "Disembowel",
+      "quality": 3
+    },
+    "1031008": {
+      "de": "Gei\\u00dfel",
+      "en": "Scourge",
+      "quality": 3
+    },
+    "2479306": {
+      "de": "Verringern",
+      "en": "Diminish",
+      "quality": 3
+    },
+    "1023200": {
+      "de": "Winter",
+      "en": "Winter",
+      "quality": 3
+    },
+    "1027084": {
+      "de": "Hackbeil",
+      "en": "Cleaver",
+      "quality": 3
+    },
+    "1028235": {
+      "de": "Verfolger",
+      "en": "Tracker",
+      "quality": 3
+    },
+    "1029497": {
+      "de": "Bann",
+      "en": "Bane",
+      "quality": 3
+    },
+    "1031007": {
+      "de": "Golem",
+      "en": "Golem",
+      "quality": 3
+    },
+    "1028238": {
+      "de": "Gestaltwandler",
+      "en": "Shapeshifter",
+      "quality": 3
+    },
+    "1029486": {
+      "de": "Kampf",
+      "en": "Combat",
+      "quality": 3
+    },
+    "1031005": {
+      "de": "Magier",
+      "en": "Mage",
+      "quality": 3
+    },
+    "1068821": {
+      "de": "Unerschrocken",
+      "en": "Undaunted",
+      "quality": 3
+    },
+    "2067561": {
+      "de": "Angeboren",
+      "en": "Innate",
+      "quality": 3
+    },
+    "2120405": {
+      "de": "Rache",
+      "en": "Revenge",
+      "quality": 3
+    },
+    "1023195": {
+      "de": "Verst\\u00e4rkt",
+      "en": "Reinforced",
+      "quality": 3
+    },
+    "1029489": {
+      "de": "Falle",
+      "en": "Snare",
+      "quality": 3
+    },
+    "1217015": {
+      "de": "Verringern",
+      "en": "Diminish",
+      "quality": 3
+    },
+    "2479231": {
+      "de": "Splitter",
+      "en": "Chip",
+      "quality": 3
+    },
+    "1029488": {
+      "de": "Effizienz",
+      "en": "Efficacy",
+      "quality": 3
+    },
+    "1029494": {
+      "de": "Stolz",
+      "en": "Pride",
+      "quality": 3
+    },
+    "1623724": {
+      "de": "Stalagmit",
+      "en": "Stalagmite",
+      "quality": 3
+    },
+    "1627925": {
+      "de": "Stromschlag",
+      "en": "Electrocution",
+      "quality": 3
+    },
+    "1023198": {
+      "de": "Flammenfresser",
+      "en": "Flamefeeder",
+      "quality": 3
+    },
+    "1028219": {
+      "de": "Haltung",
+      "en": "Poise",
+      "quality": 3
+    },
+    "1029485": {
+      "de": "Infusion",
+      "en": "Infusion",
+      "quality": 3
+    },
+    "1029496": {
+      "de": "Verfolger",
+      "en": "Tracker",
+      "quality": 3
+    },
+    "1294418": {
+      "de": "Dunkelheit",
+      "en": "Darkness",
+      "quality": 3
+    },
+    "1623747": {
+      "de": "Anrufung",
+      "en": "Invocation",
+      "quality": 3
+    },
+    "1624740": {
+      "de": "Tektonisch",
+      "en": "Tectonic",
+      "quality": 3
+    },
+    "1028229": {
+      "de": "Werb\\u00e4r",
+      "en": "Werebear",
+      "quality": 3
+    },
+    "1029478": {
+      "de": "Ferne",
+      "en": "Ranger",
+      "quality": 3
+    },
+    "1029480": {
+      "de": "Frostfresser",
+      "en": "Frostfeeder",
+      "quality": 3
+    },
+    "1622957": {
+      "de": "Nachtpirscher",
+      "en": "Nightstalker",
+      "quality": 3
+    },
+    "1629205": {
+      "de": "Exhumierung",
+      "en": "Exhumation",
+      "quality": 3
+    },
+    "2070496": {
+      "de": "Konsum",
+      "en": "Consumption",
+      "quality": 3
+    },
+    "2077016": {
+      "de": "Entladen",
+      "en": "Fulminate",
+      "quality": 3
+    },
+    "1023190": {
+      "de": "Fackel",
+      "en": "Torch",
+      "quality": 3
+    },
+    "1023203": {
+      "de": "Kontrolle",
+      "en": "Control",
+      "quality": 3
+    },
+    "1027090": {
+      "de": "Blutfresser",
+      "en": "Bloodfeeder",
+      "quality": 3
+    },
+    "1027094": {
+      "de": "T\\u00f6dliche Flinkheit",
+      "en": "Mortal Draw",
+      "quality": 3
+    },
+    "1028230": {
+      "de": "Werwolf",
+      "en": "Werewolf",
+      "quality": 3
+    },
+    "1296014": {
+      "de": "Ausbeuten",
+      "en": "Exploit",
+      "quality": 3
+    },
+    "1622887": {
+      "de": "Explosiv",
+      "en": "Explosive",
+      "quality": 3
+    },
+    "2069914": {
+      "de": "Ritual",
+      "en": "Ritual",
+      "quality": 3
+    },
+    "732443": {
+      "de": "Axe Bad Data",
+      "en": "Axe Bad Data",
+      "quality": 1
+    },
+    "1023192": {
+      "de": "Kryopathie",
+      "en": "Cryopathy",
+      "quality": 3
+    },
+    "1023196": {
+      "de": "Abschirmend",
+      "en": "Warding",
+      "quality": 3
+    },
+    "1027085": {
+      "de": "Brodelnd",
+      "en": "Seething",
+      "quality": 3
+    },
+    "1029477": {
+      "de": "N\\u00e4he",
+      "en": "Closer",
+      "quality": 3
+    },
+    "1031011": {
+      "de": "Krieger",
+      "en": "Warrior",
+      "quality": 3
+    },
+    "1023187": {
+      "de": "Ge\\u00fcbt",
+      "en": "Adept",
+      "quality": 3
+    },
+    "1068816": {
+      "de": "Besch\\u00fctzer",
+      "en": "Protector",
+      "quality": 3
+    },
+    "2117207": {
+      "de": "Kopfj\\u00e4ger",
+      "en": "Headhunter",
+      "quality": 3
+    }
+  },
+  "items": {
+    "592392": {
+      "de": "Auge des Ozelots",
+      "en": "Ocelot's Eye",
+      "quality": 5
+    },
+    "1311599": {
+      "de": "Seelenbeobachter\\u00adreif",
+      "en": "Soulwatch Hoop",
+      "quality": 5
+    },
+    "444433": {
+      "de": "Runenstollen",
+      "en": "Runic Cleats",
+      "quality": 5
+    },
+    "2485144": {
+      "de": "Tribut von Andariel",
+      "en": "Tribute of Andariel",
+      "quality": 5
+    },
+    "1928381": {
+      "de": "Niedereisen",
+      "en": "Neathiron",
+      "quality": 5
+    },
+    "444429": {
+      "de": "Runenhandschuhe",
+      "en": "Runic Gloves",
+      "quality": 5
+    },
+    "2125047": {
+      "de": "Tribut des Leuchtens",
+      "en": "Tribute of Radiance",
+      "quality": 5
+    },
+    "2484363": {
+      "de": "Paladin\\u00adentschlossenheit",
+      "en": "Paladin Resolve",
+      "quality": 5
+    },
+    "1875351": {
+      "de": "Tracht des Unheilvollen Vorhabens",
+      "en": "Vestment of Baleful Intent",
+      "quality": 5
+    },
+    "424852": {
+      "de": "Runenkappe",
+      "en": "Runic Skullcap",
+      "quality": 5
+    },
+    "1921537": {
+      "de": "Schmiedetruhe",
+      "en": "Smithy Cache",
+      "quality": 5
+    },
+    "444425": {
+      "de": "Runenkettenhemd",
+      "en": "Runic Mail",
+      "quality": 5
+    },
+    "1267212": {
+      "de": "Knochenbrecher",
+      "en": "Bonebreaker",
+      "quality": 5
+    },
+    "770192": {
+      "de": "Zerstreutes Prisma",
+      "en": "Scattered Prism",
+      "quality": 5
+    },
+    "1976738": {
+      "de": "Akarats Lied",
+      "en": "Akarat's Song",
+      "quality": 5
+    },
+    "444456": {
+      "de": "Runenhose",
+      "en": "Runic Leggings",
+      "quality": 5
+    },
+    "2167180": {
+      "de": "Gro\\u00dfe Dungeonschl\\u00fcssel\\u00adsammlung",
+      "en": "Greater Collection of Dungeon Keys",
+      "quality": 5
+    },
+    "592010": {
+      "de": "D\\u00e4monenklinge",
+      "en": "Demonblade",
+      "quality": 5
+    },
+    "591450": {
+      "de": "Obsidianklinge",
+      "en": "Obsidian Blade",
+      "quality": 5
+    },
+    "1307041": {
+      "de": "Todesweite",
+      "en": "Death's Reach",
+      "quality": 5
+    },
+    "2077998": {
+      "de": "Tribut des Leuchtens (Resolut)",
+      "en": "Tribute of Radiance (Resolute)",
+      "quality": 5
+    },
+    "1967701": {
+      "de": "Herausforderertruhe der Dunklen Zitadelle",
+      "en": "Dark Citadel Challenger's Cache",
+      "quality": 5
+    },
+    "1875355": {
+      "de": "Krone des Unheilvollen Vorhabens",
+      "en": "Crown of Baleful Intent",
+      "quality": 5
+    },
+    "545570": {
+      "de": "Au\\u00dfergew\\u00f6hnliche R\\u00fcstung",
+      "en": "Exceptional Armor",
+      "quality": 5
+    },
+    "2320006": {
+      "de": "Eskalationssiegel",
+      "en": "Escalation Sigil",
+      "quality": 5
+    },
+    "545569": {
+      "de": "Au\\u00dfergew\\u00f6hnliche Stiefel",
+      "en": "Exceptional Boots",
+      "quality": 5
+    },
+    "1307045": {
+      "de": "Skelettierter Besch\\u00fctzer",
+      "en": "Skeletal Protector",
+      "quality": 5
+    },
+    "2490610": {
+      "de": "Aurainnovation",
+      "en": "Aura Innovation",
+      "quality": 5
+    },
+    "2398486": {
+      "de": "Uralte Erinnerung",
+      "en": "Ancient Memory",
+      "quality": 5
+    },
+    "229468": {
+      "de": "Panzer\\u00adhandschuhe der Verdammnis",
+      "en": "Doom Gauntlets",
+      "quality": 5
+    },
+    "2021219": {
+      "de": "Blick des Hasses",
+      "en": "Hatred's Gaze",
+      "quality": 5
+    },
+    "2332543": {
+      "de": "Eskalationssiegel",
+      "en": "Escalation Sigil",
+      "quality": 5
+    },
+    "2485244": {
+      "de": "J\\u00fcngerinnovation",
+      "en": "Disciple Innovation",
+      "quality": 5
+    },
+    "444431": {
+      "de": "Regentenstulpen",
+      "en": "Sovereign Vambraces",
+      "quality": 5
+    },
+    "1927846": {
+      "de": "Benommenheits\\u00adkontrolle",
+      "en": "Daze Control",
+      "quality": 5
+    },
+    "2167743": {
+      "de": "H\\u00f6llenhordenkompass",
+      "en": "Infernal Hordes Compass",
+      "quality": 5
+    },
+    "1309407": {
+      "de": "Urraubtier\\u00adschutz",
+      "en": "Ur-Predator Ward",
+      "quality": 5
+    },
+    "1805023": {
+      "de": "Ende des Kaisers",
+      "en": "Emperor's End",
+      "quality": 5
+    },
+    "1862434": {
+      "de": "Weltliche Stabilit\\u00e4t",
+      "en": "Worldly Stability",
+      "quality": 5
+    },
+    "229474": {
+      "de": "Knochenzwirn\\u00adpanzer\\u00adhandschuhe",
+      "en": "Boneweave Gauntlets",
+      "quality": 5
+    },
+    "1894943": {
+      "de": "Jade-Macuahuitl",
+      "en": "Jade Macuahuitl",
+      "quality": 5
+    },
+    "2125600": {
+      "de": "Ausr\\u00fcstungstruhe: Erste Reise",
+      "en": "First Journey Equipment Cache",
+      "quality": 5
+    },
+    "2172863": {
+      "de": "Prismatische Zunahmen",
+      "en": "Prismatic Augments",
+      "quality": 5
+    },
+    "444440": {
+      "de": "Archonhelm",
+      "en": "Archon Helm",
+      "quality": 5
+    },
+    "592122": {
+      "de": "Knochenschild",
+      "en": "Bone Shield",
+      "quality": 5
+    },
+    "1266829": {
+      "de": "Enigmaw\\u00fcrfel",
+      "en": "Enigma Cube",
+      "quality": 5
+    },
+    "2481856": {
+      "de": "Finesse des W\\u00e4chters",
+      "en": "Guardian Finesse",
+      "quality": 5
+    },
+    "592164": {
+      "de": "Schlangenstein",
+      "en": "Serpent Stone",
+      "quality": 5
+    },
+    "1205842": {
+      "de": "Vergessene Seele",
+      "en": "Forgotten Soul",
+      "quality": 5
+    },
+    "2058710": {
+      "de": "Geistgeborenen\\u00adentschlossenheit",
+      "en": "Spiritborn Resolve",
+      "quality": 5
+    },
+    "2088131": {
+      "de": "Handwerkstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Crafting Cache",
+      "quality": 5
+    },
+    "240222": {
+      "de": "Knochenzwirn\\u00addiechlinge",
+      "en": "Boneweave Faulds",
+      "quality": 5
+    },
+    "1267248": {
+      "de": "Filigraner Silberbogen",
+      "en": "Silver Filigree Bow",
+      "quality": 5
+    },
+    "1309399": {
+      "de": "F\\u00fcnffach geschmiedetes Siegel",
+      "en": "Pentaforged Seal",
+      "quality": 5
+    },
+    "1311818": {
+      "de": "Vehemenzring",
+      "en": "Vehement Halo",
+      "quality": 5
+    },
+    "2271606": {
+      "de": "Legend\\u00e4re Arkana",
+      "en": "Legendary Arcana",
+      "quality": 5
+    },
+    "2484596": {
+      "de": "Paladinschutz",
+      "en": "Paladin Guard",
+      "quality": 5
+    },
+    "442702": {
+      "de": "Windender Schutz",
+      "en": "Coiling Ward",
+      "quality": 5
+    },
+    "2086146": {
+      "de": "Brutalisten\\u00adinnovation",
+      "en": "Brute Innovation",
+      "quality": 5
+    },
+    "444432": {
+      "de": "Archon\\u00adpanzer\\u00adhandschuhe",
+      "en": "Archon Gauntlets",
+      "quality": 5
+    },
+    "545572": {
+      "de": "Au\\u00dfer\\u00adgew\\u00f6hnliche Handschuhe",
+      "en": "Exceptional Gloves",
+      "quality": 5
+    },
+    "592395": {
+      "de": "Auge des Axolotls",
+      "en": "Axolotl's Eye",
+      "quality": 5
+    },
+    "1686516": {
+      "de": "Grabkammer-Hinrichter",
+      "en": "Sepulcher Executor",
+      "quality": 5
+    },
+    "2016788": {
+      "de": "Ultimative Effizienz\\u00a0\\u2014\\u00a0\\u00a0Druide",
+      "en": "Ultimate Efficiency\\u00a0\\u2014\\u00a0\\u00a0Druid",
+      "quality": 5
+    },
+    "444426": {
+      "de": "Archaische Brustplatte",
+      "en": "Primal Breastplate",
+      "quality": 5
+    },
+    "592029": {
+      "de": "Schlachtbogen",
+      "en": "Battle Bow",
+      "quality": 5
+    },
+    "1092147": {
+      "de": "Gro\\u00dfe Chaossammlung",
+      "en": "Greater Collection of Chaos",
+      "quality": 5
+    },
+    "1311613": {
+      "de": "Blutesschmuck",
+      "en": "Adorned-in-blood",
+      "quality": 5
+    },
+    "1825016": {
+      "de": "Boshafter Blick",
+      "en": "Malefic Gaze",
+      "quality": 5
+    },
+    "2231132": {
+      "de": "Unendliches Goblingeschenk",
+      "en": "Unceasing Goblin Gift",
+      "quality": 5
+    },
+    "2480897": {
+      "de": "Azmodans Beute",
+      "en": "Azmodan's Spoils",
+      "quality": 5
+    },
+    "2484112": {
+      "de": "Gro\\u00dfe Ranglistentruhe",
+      "en": "Greater Ranking Cache",
+      "quality": 5
+    },
+    "421527": {
+      "de": "Kriegsherrnr\\u00fcstung",
+      "en": "Warlord Plate",
+      "quality": 5
+    },
+    "421568": {
+      "de": "Kriegsherrn\\u00adbeinplatten",
+      "en": "Warlord Leg Plates",
+      "quality": 5
+    },
+    "1824059": {
+      "de": "\\u00c4ltesten-Aegis",
+      "en": "Elder Aegis",
+      "quality": 5
+    },
+    "1913839": {
+      "de": "Ungl\\u00fcckszeuge",
+      "en": "Witness to Woe",
+      "quality": 5
+    },
+    "1927453": {
+      "de": "Schockfinesse",
+      "en": "Shock Finesse",
+      "quality": 5
+    },
+    "229466": {
+      "de": "Verdammnisr\\u00fcstung",
+      "en": "Doom Armor",
+      "quality": 5
+    },
+    "421533": {
+      "de": "Topfhelm des Kriegsherrn",
+      "en": "Warlord Greathelm",
+      "quality": 5
+    },
+    "442703": {
+      "de": "Abstruses Siegel",
+      "en": "Abstruse Sigil",
+      "quality": 5
+    },
+    "592228": {
+      "de": "Vajra",
+      "en": "Vajra",
+      "quality": 5
+    },
+    "1915971": {
+      "de": "Zunahmentruhe",
+      "en": "Augment Cache",
+      "quality": 5
+    },
+    "1926288": {
+      "de": "Dornenarmee",
+      "en": "Thorn Army",
+      "quality": 5
+    },
+    "2021221": {
+      "de": "Sitz des Hasses",
+      "en": "Hatred's Seat",
+      "quality": 5
+    },
+    "2102725": {
+      "de": "Gro\\u00dfe Goldsammlung",
+      "en": "Greater Collection of Gold",
+      "quality": 5
+    },
+    "2125616": {
+      "de": "Truhe: Vierte Reise",
+      "en": "Fourth Journey Cache",
+      "quality": 5
+    },
+    "2154372": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Smaragd",
+      "en": "Emerald Jewelry Cache",
+      "quality": 5
+    },
+    "2370974": {
+      "de": "Werb\\u00e4rinnovation",
+      "en": "Werebear Innovation",
+      "quality": 5
+    },
+    "444437": {
+      "de": "Archaische Beckenhaube",
+      "en": "Primal Bascinet",
+      "quality": 5
+    },
+    "545571": {
+      "de": "Au\\u00dfergew\\u00f6hnlicher Helm",
+      "en": "Exceptional Helm",
+      "quality": 5
+    },
+    "592302": {
+      "de": "Urteilshammer",
+      "en": "Doom Hammer",
+      "quality": 5
+    },
+    "1266264": {
+      "de": "Serpentinenstab",
+      "en": "Serpentine Wand",
+      "quality": 5
+    },
+    "1266840": {
+      "de": "Traumf\\u00e4nger",
+      "en": "Dream Catcher",
+      "quality": 5
+    },
+    "1266907": {
+      "de": "Stachelschwert",
+      "en": "Barbed Sword",
+      "quality": 5
+    },
+    "1266966": {
+      "de": "Gro\\u00dfschwert des Gargoyles",
+      "en": "Gargoyle Greatsword",
+      "quality": 5
+    },
+    "1309367": {
+      "de": "Wehklage-Reif",
+      "en": "Lamentation Choker",
+      "quality": 5
+    },
+    "1309396": {
+      "de": "Kontrafluch\\u00adschutz",
+      "en": "Contracurse Ward",
+      "quality": 5
+    },
+    "1720843": {
+      "de": "Abstimmungsstein: Dauer",
+      "en": "Tuning Stone: Duration",
+      "quality": 5
+    },
+    "1741421": {
+      "de": "Kn\\u00f6chelkeule",
+      "en": "Knockhand Club",
+      "quality": 5
+    },
+    "1885021": {
+      "de": "Zorneffizienz",
+      "en": "Wrath Efficiency",
+      "quality": 5
+    },
+    "229467": {
+      "de": "Verdammnistreter",
+      "en": "Doom Treads",
+      "quality": 5
+    },
+    "421529": {
+      "de": "Kriegsherrnstiefel",
+      "en": "Warlord Boots",
+      "quality": 5
+    },
+    "444458": {
+      "de": "Regententassetten",
+      "en": "Sovereign Tassets",
+      "quality": 5
+    },
+    "459650": {
+      "de": "Abenteurerhandschuhe",
+      "en": "Adventurer's Gloves",
+      "quality": 5
+    },
+    "1309569": {
+      "de": "Kreis des Unheilvollen Vorhabens",
+      "en": "Loop of Baleful Intent",
+      "quality": 5
+    },
+    "1309571": {
+      "de": "Tausendf\\u00fc\\u00dfer\\u00adkreis",
+      "en": "Millipedian Circle",
+      "quality": 5
+    },
+    "1862232": {
+      "de": "Berserkermodusfinesse",
+      "en": "Berserking Finesse",
+      "quality": 5
+    },
+    "1862424": {
+      "de": "Weltliche Gunst",
+      "en": "Worldly Fortune",
+      "quality": 5
+    },
+    "1862428": {
+      "de": "Weltliche Best\\u00e4ndigkeit",
+      "en": "Worldly Endurance",
+      "quality": 5
+    },
+    "1997922": {
+      "de": "J\\u00e4gerbeharrlichkeit (Verm\\u00e4chtnis)",
+      "en": "Rogue Persistence (Legacy)",
+      "quality": 5
+    },
+    "2361939": {
+      "de": "Murls \\u00fcberw\\u00e4ltigende Obolustasche",
+      "en": "Murl's Bag of Overwhelming Obols",
+      "quality": 5
+    },
+    "2362049": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Siegel der Alptraum-Eskalation",
+      "en": "PTR Cache - Nightmare Escalation Sigils",
+      "quality": 5
+    },
+    "2479465": {
+      "de": "J\\u00fcngerzunahmen",
+      "en": "Disciple Augments",
+      "quality": 5
+    },
+    "2481526": {
+      "de": "Fanatikereffizienz",
+      "en": "Zealot Efficiency",
+      "quality": 5
+    },
+    "2481729": {
+      "de": "Fanatikerfinesse",
+      "en": "Zealot Finesse",
+      "quality": 5
+    },
+    "52867": {
+      "de": "Axe Bad Data",
+      "en": "Axe Bad Data",
+      "quality": 5
+    },
+    "229469": {
+      "de": "Untergangskaskett",
+      "en": "Doom Casque",
+      "quality": 5
+    },
+    "598884": {
+      "de": "Schriftrolle der Flucht",
+      "en": "Scroll of Escape",
+      "quality": 5
+    },
+    "1266855": {
+      "de": "Knochen\\u00adschuppen\\u00adschild",
+      "en": "Bonescale Shield",
+      "quality": 5
+    },
+    "1266972": {
+      "de": "Ritualdolch",
+      "en": "Ritual Dagger",
+      "quality": 5
+    },
+    "1267237": {
+      "de": "Energiestab",
+      "en": "Energy Staff",
+      "quality": 5
+    },
+    "1311622": {
+      "de": "Schamanistischer Reif",
+      "en": "Shamanistic Hoop",
+      "quality": 5
+    },
+    "1759682": {
+      "de": "Jaguarschneide",
+      "en": "Jaguar's Razor",
+      "quality": 5
+    },
+    "1799169": {
+      "de": "\\u00c4ltesten-Sense",
+      "en": "Elder Scythe",
+      "quality": 5
+    },
+    "1900643": {
+      "de": "Truhe der Vollendung",
+      "en": "Masterworking Cache",
+      "quality": 5
+    },
+    "1928679": {
+      "de": "Elementarwoge\\u00a0\\u2013 Tag",
+      "en": "Elemental Surge \\u2014 Day",
+      "quality": 5
+    },
+    "2058765": {
+      "de": "Jaguarfinesse",
+      "en": "Jaguar Finesse",
+      "quality": 5
+    },
+    "2103070": {
+      "de": "Gro\\u00dfe Materialsammlung",
+      "en": "Greater Collection of Materials",
+      "quality": 5
+    },
+    "2107429": {
+      "de": "Truhe der boshaften Herzen",
+      "en": "Malignant Heart Cache",
+      "quality": 5
+    },
+    "2108327": {
+      "de": "Elementarwoge\\u00a0\\u2013 Nacht",
+      "en": "Elemental Surge \\u2014 Night",
+      "quality": 5
+    },
+    "2169791": {
+      "de": "Ultimative Effizienz\\u00a0\\u2013 J\\u00e4ger",
+      "en": "Ultimate Efficiency \\u2014 Rogue",
+      "quality": 5
+    },
+    "2175950": {
+      "de": "Gro\\u00dfe Herbeirufungstruhe ",
+      "en": "Greater Summoning Cache ",
+      "quality": 5
+    },
+    "2231404": {
+      "de": "&quot;Marsch der Goblins&quot;-Emblem",
+      "en": "March of the Goblins Emblem",
+      "quality": 5
+    },
+    "229475": {
+      "de": "Knochenzwirnhelm",
+      "en": "Boneweave Helm",
+      "quality": 5
+    },
+    "421532": {
+      "de": "Kriegsherrn\\u00adplatten\\u00adhandschuhe",
+      "en": "Warlord Gauntlets",
+      "quality": 5
+    },
+    "444436": {
+      "de": "Archonbeinschienen",
+      "en": "Archon Greaves",
+      "quality": 5
+    },
+    "592310": {
+      "de": "Kristallgro\\u00dfschwert",
+      "en": "Crystal Greatsword",
+      "quality": 5
+    },
+    "592393": {
+      "de": "Auge des Gorillas",
+      "en": "Gorilla's Eye",
+      "quality": 5
+    },
+    "1267235": {
+      "de": "Seherstab",
+      "en": "Seer's Staff",
+      "quality": 5
+    },
+    "1305069": {
+      "de": "Runenkugel",
+      "en": "Runic Orb",
+      "quality": 5
+    },
+    "1306998": {
+      "de": "Verw\\u00fcster",
+      "en": "Ravager",
+      "quality": 5
+    },
+    "1309413": {
+      "de": "Estuarisches Symbol",
+      "en": "Estuarian Symbol",
+      "quality": 5
+    },
+    "1311632": {
+      "de": "Ring des Steinbrechers",
+      "en": "Quarrier's Ring",
+      "quality": 5
+    },
+    "1667656": {
+      "de": "Haufen vampirischen Schuhwerks",
+      "en": "Pile of Vampiric Footwear",
+      "quality": 5
+    },
+    "1703671": {
+      "de": "Nessel-Streitkolben",
+      "en": "Nettle Mace",
+      "quality": 5
+    },
+    "1862444": {
+      "de": "Nat\\u00fcrliche Schemata",
+      "en": "Natural Schemes",
+      "quality": 5
+    },
+    "1873423": {
+      "de": "Fallenzunahmen",
+      "en": "Trap Augments",
+      "quality": 5
+    },
+    "1875357": {
+      "de": "Beinlinge des Unheilvollen Vorhabens",
+      "en": "Breeches of Baleful Intent",
+      "quality": 5
+    },
+    "1880204": {
+      "de": "Dornenk\\u00f6rper",
+      "en": "Thorn Body",
+      "quality": 5
+    },
+    "1893468": {
+      "de": "Truhe des Zerstreuten Prismas",
+      "en": "Scattered Prism Cache",
+      "quality": 5
+    },
+    "1915953": {
+      "de": "[PH] Resource Aspect Cache II",
+      "en": "[PH] Resource Aspect Cache II",
+      "quality": 5
+    },
+    "1931272": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "2057917": {
+      "de": "Geistgeborenen\\u00adbest\\u00e4ndigkeit",
+      "en": "Spiritborn Endurance",
+      "quality": 5
+    },
+    "2106430": {
+      "de": "Zunahmen",
+      "en": "Augmentations",
+      "quality": 5
+    },
+    "2125633": {
+      "de": "Truhe des Champions",
+      "en": "Champion's Cache",
+      "quality": 5
+    },
+    "2222928": {
+      "de": "Legend\\u00e4re Goblin-Tribute der Unterstadt von Kurast",
+      "en": "Goblin's Legendary Kurast Undercity Tributes",
+      "quality": 5
+    },
+    "2521978": {
+      "de": "Gro\\u00dfe J\\u00fcngertruhe ",
+      "en": "Greater Disciple Cache ",
+      "quality": 5
+    },
+    "229476": {
+      "de": "Knochenzwirnr\\u00fcstung",
+      "en": "Boneweave Armor",
+      "quality": 5
+    },
+    "444430": {
+      "de": "Archaische Panzerhandschuhe",
+      "en": "Primal Gauntlets",
+      "quality": 5
+    },
+    "1267253": {
+      "de": "Kreuzaxt",
+      "en": "Cross Axe",
+      "quality": 5
+    },
+    "1309391": {
+      "de": "Krokodilsauge",
+      "en": "Crocodilian Eye",
+      "quality": 5
+    },
+    "1309559": {
+      "de": "L\\u00e4cheln des Axolotls",
+      "en": "Axolotl's Smile",
+      "quality": 5
+    },
+    "1309561": {
+      "de": "Blick des Jaguars",
+      "en": "Jaguar's Gaze",
+      "quality": 5
+    },
+    "1311607": {
+      "de": "Geisteskampf\\u00adkern",
+      "en": "Spiritomachy Core",
+      "quality": 5
+    },
+    "1714802": {
+      "de": "Abstimmungsstein: Initiative",
+      "en": "Tuning Stone: Initiative",
+      "quality": 5
+    },
+    "1861356": {
+      "de": "Berserkerinnovation",
+      "en": "Berserking Innovation",
+      "quality": 5
+    },
+    "1862442": {
+      "de": "Nat\\u00fcrliche Bewegung",
+      "en": "Natural Motion",
+      "quality": 5
+    },
+    "1868569": {
+      "de": "Entweihter K\\u00e4fig",
+      "en": "Profane Cage",
+      "quality": 5
+    },
+    "1873425": {
+      "de": "Infusions\\u00fcberfluss",
+      "en": "Imbuement Abundance",
+      "quality": 5
+    },
+    "1880227": {
+      "de": "Knochenzunahmen",
+      "en": "Bone Augments",
+      "quality": 5
+    },
+    "1885023": {
+      "de": "Gef\\u00e4hrten\\u00adzunahmen",
+      "en": "Companion Augments",
+      "quality": 5
+    },
+    "1989572": {
+      "de": "Beschw\\u00f6rungsgl\\u00fcck",
+      "en": "Conjuration Fortune",
+      "quality": 5
+    },
+    "2007850": {
+      "de": "T\\u00e4uschungsexpertise",
+      "en": "Subterfuge Expertise",
+      "quality": 5
+    },
+    "2025932": {
+      "de": "Bedingungsrunen-Truhe",
+      "en": "Condition Runes Cache",
+      "quality": 5
+    },
+    "2040710": {
+      "de": "Weltliche Finesse",
+      "en": "Worldly Finesse",
+      "quality": 5
+    },
+    "2125622": {
+      "de": "Ausr\\u00fcstungstruhe: Vierte Reise",
+      "en": "Fourth Journey Equipment Cache",
+      "quality": 5
+    },
+    "2152984": {
+      "de": "Elemente des Erzfeindes",
+      "en": "Elements of Nemesis",
+      "quality": 5
+    },
+    "2166159": {
+      "de": "Vehemente Zunahmen",
+      "en": "Vehement Augments",
+      "quality": 5
+    },
+    "2175993": {
+      "de": "Gro\\u00dfe Knochentruhe ",
+      "en": "Greater Bone Cache ",
+      "quality": 5
+    },
+    "2176315": {
+      "de": "Gro\\u00dfe Sturmtruhe ",
+      "en": "Greater Storm Cache ",
+      "quality": 5
+    },
+    "2394973": {
+      "de": "\\u00dcbler Schwenker",
+      "en": "Vile Censer",
+      "quality": 5
+    },
+    "2394985": {
+      "de": "Stachelflegel",
+      "en": "Spiked Flail",
+      "quality": 5
+    },
+    "2431687": {
+      "de": "PTR Cache - Chaos Armor - Helms",
+      "en": "PTR Cache - Chaos Armor - Helms",
+      "quality": 5
+    },
+    "442701": {
+      "de": "Unheilvolles Fragment",
+      "en": "Baleful Fragment",
+      "quality": 5
+    },
+    "589158": {
+      "de": "Legendary Test Mace1H",
+      "en": "Legendary Test Mace1H",
+      "quality": 5
+    },
+    "589227": {
+      "de": "Legendary Test Pants",
+      "en": "Legendary Test Pants",
+      "quality": 5
+    },
+    "592259": {
+      "de": "Schreckensschild",
+      "en": "Dread Shield",
+      "quality": 5
+    },
+    "1307028": {
+      "de": "Knochensense",
+      "en": "Bone Scythe",
+      "quality": 5
+    },
+    "1309394": {
+      "de": "Allwesenskette",
+      "en": "All-Being Chain",
+      "quality": 5
+    },
+    "1311630": {
+      "de": "Fingerkranz",
+      "en": "Finger-wreath",
+      "quality": 5
+    },
+    "1311634": {
+      "de": "Bezauberter Ring",
+      "en": "Ensorcelled Ring",
+      "quality": 5
+    },
+    "1630886": {
+      "de": "Haufen vampirischen Schuhwerks",
+      "en": "Pile of Vampiric Footwear",
+      "quality": 5
+    },
+    "1744398": {
+      "de": "S\\u00e4ugerfluch-Bogen",
+      "en": "Mammalbane Bow",
+      "quality": 5
+    },
+    "1756285": {
+      "de": "\\u00c4ltesten-Stangenwaffe",
+      "en": "Elder Polearm",
+      "quality": 5
+    },
+    "1844886": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "quality": 5
+    },
+    "1873391": {
+      "de": "Basiszunahmen\\u00a0\\u2013 Pr\\u00e4zision",
+      "en": "Marksman Augments\\u00a0\\u2014\\u00a0Basic",
+      "quality": 5
+    },
+    "1893411": {
+      "de": "Truhe des Unheilvollen Fragments",
+      "en": "Baleful Fragments Cache",
+      "quality": 5
+    },
+    "1894947": {
+      "de": "Z\\u00e4hne der Natur",
+      "en": "Nature's Teeth",
+      "quality": 5
+    },
+    "1900640": {
+      "de": "Truhe des Abstrusen Siegels",
+      "en": "Abstruse Sigil Cache",
+      "quality": 5
+    },
+    "1914990": {
+      "de": "Beschw\\u00f6rungstruhe Grigoires",
+      "en": "Grigoire Summoning Cache",
+      "quality": 5
+    },
+    "2021223": {
+      "de": "Herz des Hasses",
+      "en": "Hatred's Heart",
+      "quality": 5
+    },
+    "2086444": {
+      "de": "Kernzunahmen\\u00a0\\u2013 Barbar",
+      "en": "Core Augments\\u00a0\\u2014\\u00a0Barbarian",
+      "quality": 5
+    },
+    "2102987": {
+      "de": "Gro\\u00dfe Truhe voller Edelsteinfragmente",
+      "en": "Greater Cache of Gem Fragments",
+      "quality": 5
+    },
+    "2106127": {
+      "de": "Fenster der Sch\\u00f6pfung",
+      "en": "Window to Creation",
+      "quality": 5
+    },
+    "2125606": {
+      "de": "Ausr\\u00fcstungstruhe: Zweite Reise",
+      "en": "Second Journey Equipment Cache",
+      "quality": 5
+    },
+    "2125629": {
+      "de": "Handwerkstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Crafting Cache",
+      "quality": 5
+    },
+    "2132282": {
+      "de": "Waldjuwelen-Helmbarte",
+      "en": "Forestgem Halberd",
+      "quality": 5
+    },
+    "2156377": {
+      "de": "Vermachte Einhandwaffensammlung ",
+      "en": "Ancestral Collection of One-handed Weapons ",
+      "quality": 5
+    },
+    "2176089": {
+      "de": "Grimoire des Mondlichtschutzes",
+      "en": "Moonlight Ward Grimoire",
+      "quality": 5
+    },
+    "2207727": {
+      "de": "Legend\\u00e4re Urahnen-Tribute der Unterstadt von Kurast",
+      "en": "Ancestors' Legendary Kurast Undercity Tributes",
+      "quality": 5
+    },
+    "2353998": {
+      "de": "Ohrenbet\\u00e4ubender Chor",
+      "en": "Deafening Chorus",
+      "quality": 5
+    },
+    "2481334": {
+      "de": "J\\u00fcngereffizienz",
+      "en": "Disciple Efficiency",
+      "quality": 5
+    },
+    "229473": {
+      "de": "Knochenzwirntreter",
+      "en": "Boneweave Treads",
+      "quality": 5
+    },
+    "444435": {
+      "de": "Regenten\\u00adbeinschienen",
+      "en": "Sovereign Greaves",
+      "quality": 5
+    },
+    "592391": {
+      "de": "Gefangenenstein",
+      "en": "Captive Stone",
+      "quality": 5
+    },
+    "1266876": {
+      "de": "Sch\\u00e4del und Stahl",
+      "en": "Skull and Steel",
+      "quality": 5
+    },
+    "1267124": {
+      "de": "Wolfsbiss",
+      "en": "Wolf's Bite",
+      "quality": 5
+    },
+    "1306594": {
+      "de": "Brillanz",
+      "en": "Brilliance",
+      "quality": 5
+    },
+    "1306653": {
+      "de": "Verderbnis",
+      "en": "Corruption",
+      "quality": 5
+    },
+    "1308443": {
+      "de": "Auge des Adlers",
+      "en": "Eagle's Eye",
+      "quality": 5
+    },
+    "1309129": {
+      "de": "Auge des L\\u00f6wen",
+      "en": "Lion's Eye",
+      "quality": 5
+    },
+    "1309401": {
+      "de": "Schutz",
+      "en": "Ward",
+      "quality": 5
+    },
+    "1311587": {
+      "de": "Opulente Manschette",
+      "en": "Lush Cuff",
+      "quality": 5
+    },
+    "1311825": {
+      "de": "Limbische Grenze",
+      "en": "Limbic Boundary",
+      "quality": 5
+    },
+    "1714808": {
+      "de": "Abstimmungsstein: Greifen",
+      "en": "Tuning Stone: Gripping",
+      "quality": 5
+    },
+    "1754039": {
+      "de": "Waldjuwelen-Helmbarte",
+      "en": "Forestgem Halberd",
+      "quality": 5
+    },
+    "1873385": {
+      "de": "Alchemistenkontrolle",
+      "en": "Alchemist Control",
+      "quality": 5
+    },
+    "1880200": {
+      "de": "\\u00d6dlandzunahmen",
+      "en": "Wasteland Augments",
+      "quality": 5
+    },
+    "1894952": {
+      "de": "Dschungelspalter",
+      "en": "Jungle Cleaver",
+      "quality": 5
+    },
+    "1895369": {
+      "de": "Handschuh\\u00adkiste des Anf\\u00fchrers",
+      "en": "Captain's Glove Case",
+      "quality": 5
+    },
+    "1898519": {
+      "de": "Ring",
+      "en": "Ring",
+      "quality": 5
+    },
+    "1926491": {
+      "de": "Spezialistenevolution",
+      "en": "Specialist Evolution",
+      "quality": 5
+    },
+    "1927405": {
+      "de": "Pyromanie-Best\\u00e4ndigkeit",
+      "en": "Pyromancy Endurance",
+      "quality": 5
+    },
+    "1927415": {
+      "de": "Pyromaniezunahmen",
+      "en": "Pyromancy Augments",
+      "quality": 5
+    },
+    "1931591": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1945846": {
+      "de": "Handwerkstruhe des Champions",
+      "en": "Champion's Crafting Cache",
+      "quality": 5
+    },
+    "1970224": {
+      "de": "Scharfrichter der Ketzer",
+      "en": "Heretic's Executioner",
+      "quality": 5
+    },
+    "1983714": {
+      "de": "Truhe des Scharfrichters",
+      "en": "Beheader's Cache",
+      "quality": 5
+    },
+    "2021211": {
+      "de": "Griff des Hasses",
+      "en": "Hatred's Grasp",
+      "quality": 5
+    },
+    "2086726": {
+      "de": "Raufboldzunahmen",
+      "en": "Brawling Augments",
+      "quality": 5
+    },
+    "2087595": {
+      "de": "Fallenexpertise",
+      "en": "Trap Expertise",
+      "quality": 5
+    },
+    "2100481": {
+      "de": "Himmelszunahmen",
+      "en": "Sky Augments",
+      "quality": 5
+    },
+    "2107434": {
+      "de": "Truhe mit Exquisitem Blut",
+      "en": "Exquisite Blood Cache",
+      "quality": 5
+    },
+    "2125612": {
+      "de": "Handwerkstruhe: Dritte Reise",
+      "en": "Third Journey Crafting Cache",
+      "quality": 5
+    },
+    "2125618": {
+      "de": "Beschw\\u00f6rungstruhe: Vierte Reise",
+      "en": "Fourth Journey Summoning Cache",
+      "quality": 5
+    },
+    "2125635": {
+      "de": "Beschw\\u00f6rungstruhe des Champions",
+      "en": "Champion's Summoning Cache",
+      "quality": 5
+    },
+    "2153287": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Diamant",
+      "en": "Diamond Jewelry Cache",
+      "quality": 5
+    },
+    "2154410": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Sch\\u00e4del",
+      "en": "Skull Jewelry Cache",
+      "quality": 5
+    },
+    "2154418": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Topas",
+      "en": "Topaz Jewelry Cache",
+      "quality": 5
+    },
+    "2162537": {
+      "de": "Vermachte Zirkelkiste",
+      "en": "Ancestral Coven Crate",
+      "quality": 5
+    },
+    "2172952": {
+      "de": "Legend\\u00e4re Goblin-Runensammlung",
+      "en": "Goblins Collection of Legendary Runes",
+      "quality": 5
+    },
+    "2175838": {
+      "de": "Gro\\u00dfe Beschw\\u00f6rungstruhe ",
+      "en": "Greater Conjuration Cache ",
+      "quality": 5
+    },
+    "2176334": {
+      "de": "Gro\\u00dfe Erdtruhe ",
+      "en": "Greater Earth Cache ",
+      "quality": 5
+    },
+    "2176363": {
+      "de": "Gro\\u00dfe Tausendf\\u00fc\\u00dfertruhe ",
+      "en": "Greater Centipede Cache ",
+      "quality": 5
+    },
+    "2231136": {
+      "de": "Unendliche Goblin-Tribute der Unterstadt von Kurast",
+      "en": "Goblin's Unceasing Kurast Undercity Tributes",
+      "quality": 5
+    },
+    "2324940": {
+      "de": "Gro\\u00dfe Reisetruhe",
+      "en": "Greater Journey Cache",
+      "quality": 5
+    },
+    "2353972": {
+      "de": "Verr\\u00fccktes Gebr\\u00e4u",
+      "en": "Crazy Brew",
+      "quality": 5
+    },
+    "2354178": {
+      "de": "Chaotische Granaten",
+      "en": "Chaotic Grenades",
+      "quality": 5
+    },
+    "2362067": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Unterschlupfschl\\u00fcssel",
+      "en": "PTR Cache - Lair Keys",
+      "quality": 5
+    },
+    "2471186": {
+      "de": "Truhe der Geringen \\u00dcbel",
+      "en": "Cache of the Lesser Evils",
+      "quality": 5
+    },
+    "2478348": {
+      "de": "Paladinbewegung",
+      "en": "Paladin Motion",
+      "quality": 5
+    },
+    "2479966": {
+      "de": "Fanatikerzunahmen",
+      "en": "Zealot Augments",
+      "quality": 5
+    },
+    "2485337": {
+      "de": "Molochinnovation",
+      "en": "Juggernaut Innovation",
+      "quality": 5
+    },
+    "444427": {
+      "de": "Archonr\\u00fcstung",
+      "en": "Archon Armor",
+      "quality": 5
+    },
+    "444460": {
+      "de": "Archondiechlinge",
+      "en": "Archon Faulds",
+      "quality": 5
+    },
+    "589212": {
+      "de": "Legendary Test Wand",
+      "en": "Legendary Test Wand",
+      "quality": 5
+    },
+    "598509": {
+      "de": "Truhe der Zierde",
+      "en": "Cache of Ornaments",
+      "quality": 5
+    },
+    "1266105": {
+      "de": "Ber\\u00fchrung des Zauberers",
+      "en": "Wizard's Touch",
+      "quality": 5
+    },
+    "1266836": {
+      "de": "Verzierter Sch\\u00e4del",
+      "en": "Decorated Skull",
+      "quality": 5
+    },
+    "1267098": {
+      "de": "Schlangenaxt",
+      "en": "Snake Axe",
+      "quality": 5
+    },
+    "1267102": {
+      "de": "Krakenklinge",
+      "en": "Octopian Edge",
+      "quality": 5
+    },
+    "1267245": {
+      "de": "Knochenbogen der Schlange",
+      "en": "Serpent's Bone Bow",
+      "quality": 5
+    },
+    "1309353": {
+      "de": "Tr\\u00e4nenschleier-Amulett",
+      "en": "Tearveil Amulet",
+      "quality": 5
+    },
+    "1309383": {
+      "de": "Herrschaftskette",
+      "en": "Dominion Chain",
+      "quality": 5
+    },
+    "1309446": {
+      "de": "Vernarbtes Siegel",
+      "en": "Scarred Seal",
+      "quality": 5
+    },
+    "1309588": {
+      "de": "Verschlungener Dorn",
+      "en": "Intertwined Thorn",
+      "quality": 5
+    },
+    "1309598": {
+      "de": "Blutstill\\u00adreif",
+      "en": "Blood-staunch Hoop",
+      "quality": 5
+    },
+    "1310895": {
+      "de": "Vigos sch\\u00fctzendes Amulett",
+      "en": "Vigo's Protecting Amulet",
+      "quality": 5
+    },
+    "1311692": {
+      "de": "Weltknoten\\u00adring",
+      "en": "Worldknot Ring",
+      "quality": 5
+    },
+    "1311815": {
+      "de": "Schreisiegel",
+      "en": "Screamseal",
+      "quality": 5
+    },
+    "1389739": {
+      "de": "Truhe der Legenden",
+      "en": "Cache of Legends",
+      "quality": 5
+    },
+    "1468409": {
+      "de": "Gileons Gebr\\u00e4u",
+      "en": "Gileon's Brew",
+      "quality": 5
+    },
+    "1667658": {
+      "de": "Pers\\u00f6nliche Habe eines Blutsuchers",
+      "en": "Blood Seekers Personal Effects",
+      "quality": 5
+    },
+    "1808127": {
+      "de": "Schlagender Kampfstab",
+      "en": "Smashing Quarterstaff",
+      "quality": 5
+    },
+    "1831759": {
+      "de": "Grabes\\u00adbollwerk",
+      "en": "Grave Bulwark",
+      "quality": 5
+    },
+    "1841587": {
+      "de": "Ritual-Kampfstab",
+      "en": "Ritual Quarterstaff",
+      "quality": 5
+    },
+    "1861207": {
+      "de": "Barbarenkontrolle",
+      "en": "Barbarian Control",
+      "quality": 5
+    },
+    "1873395": {
+      "de": "Meuchelfinesse",
+      "en": "Cutthroat Finesse",
+      "quality": 5
+    },
+    "1875353": {
+      "de": "Panzer\\u00adhandschuhe des Unheilvollen Vorhabens",
+      "en": "Gauntlets of Baleful Intent",
+      "quality": 5
+    },
+    "1894941": {
+      "de": "Jadehaken",
+      "en": "Jade Hook",
+      "quality": 5
+    },
+    "1900650": {
+      "de": "[PH] Utility Aspect Cache II",
+      "en": "[PH] Utility Aspect Cache II",
+      "quality": 5
+    },
+    "1926624": {
+      "de": "Werb\\u00e4rzunahmen",
+      "en": "Werebear Augments",
+      "quality": 5
+    },
+    "1961637": {
+      "de": "Vermachte Waffentruhe der Triune",
+      "en": "Ancestral Triune Arms Cache",
+      "quality": 5
+    },
+    "2025934": {
+      "de": "Effektrunen-Truhe",
+      "en": "Effect Runes Cache",
+      "quality": 5
+    },
+    "2058904": {
+      "de": "Jaguarzunahmen",
+      "en": "Jaguar Augments",
+      "quality": 5
+    },
+    "2085377": {
+      "de": "Knocheninnovation",
+      "en": "Bone Innovation",
+      "quality": 5
+    },
+    "2085466": {
+      "de": "Enthauptungsinnovation",
+      "en": "Execution Innovation",
+      "quality": 5
+    },
+    "2086084": {
+      "de": "Barbarenbresche",
+      "en": "Barbarian Breach",
+      "quality": 5
+    },
+    "2088103": {
+      "de": "Ausr\\u00fcstungstruhe: Erste Reise",
+      "en": "First Journey Equipment Cache",
+      "quality": 5
+    },
+    "2088146": {
+      "de": "Beschw\\u00f6rungstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Summoning Cache",
+      "quality": 5
+    },
+    "2156392": {
+      "de": "Vermachte Panzerhandschuh\\u00adsammlung ",
+      "en": "Ancestral Collection of Gauntlets ",
+      "quality": 5
+    },
+    "2164968": {
+      "de": "Legend\\u00e4re Zirkelkiste",
+      "en": "Legendary Coven Crate",
+      "quality": 5
+    },
+    "2174162": {
+      "de": "Gro\\u00dfe Meuchlertruhe ",
+      "en": "Greater Cutthroat Cache ",
+      "quality": 5
+    },
+    "2176297": {
+      "de": "Gro\\u00dfe Werb\\u00e4rentruhe ",
+      "en": "Greater Werebear Cache ",
+      "quality": 5
+    },
+    "2361668": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2394979": {
+      "de": "Sch\\u00e4delknacker",
+      "en": "Skullcracker",
+      "quality": 5
+    },
+    "2471239": {
+      "de": "Truhe der Geringen \\u00dcbel",
+      "en": "Cache of the Lesser Evils",
+      "quality": 5
+    },
+    "2485672": {
+      "de": "Richterinnovation",
+      "en": "Judicator Innovation",
+      "quality": 5
+    },
+    "240831": {
+      "de": "Beinschutz des Untergangs",
+      "en": "Doom Cuisses",
+      "quality": 5
+    },
+    "444439": {
+      "de": "Regentenhelm",
+      "en": "Sovereign Helm",
+      "quality": 5
+    },
+    "545573": {
+      "de": "Au\\u00dfergew\\u00f6hnliche Beinlinge",
+      "en": "Exceptional Leggings",
+      "quality": 5
+    },
+    "589183": {
+      "de": "Legendary Test Sword1H",
+      "en": "Legendary Test Sword1H",
+      "quality": 5
+    },
+    "589226": {
+      "de": "Legendary Test Helm",
+      "en": "Legendary Test Helm",
+      "quality": 5
+    },
+    "589239": {
+      "de": "Legendary Test Amulet",
+      "en": "Legendary Test Amulet",
+      "quality": 5
+    },
+    "592229": {
+      "de": "Todeskolben",
+      "en": "Death Mace",
+      "quality": 5
+    },
+    "592304": {
+      "de": "Schreckensschwengel",
+      "en": "Dread Poleaxe",
+      "quality": 5
+    },
+    "592386": {
+      "de": "Dschungeldorn",
+      "en": "Jungle Thorn",
+      "quality": 5
+    },
+    "1266871": {
+      "de": "Sturmschild",
+      "en": "Stormshield",
+      "quality": 5
+    },
+    "1267242": {
+      "de": "Obsidiantotem",
+      "en": "Obsidian Totem",
+      "quality": 5
+    },
+    "1267257": {
+      "de": "Schneller Tod",
+      "en": "Swift Death",
+      "quality": 5
+    },
+    "1307037": {
+      "de": "Drachendorn",
+      "en": "Dragon Spine",
+      "quality": 5
+    },
+    "1307043": {
+      "de": "H\\u00f6llenhauer",
+      "en": "Hell's Fang",
+      "quality": 5
+    },
+    "1307050": {
+      "de": "R\\u00fcckgrat",
+      "en": "Spinal",
+      "quality": 5
+    },
+    "1309356": {
+      "de": "Reif",
+      "en": "Choker",
+      "quality": 5
+    },
+    "1309403": {
+      "de": "Feindliches Siegel",
+      "en": "Inimical Seal",
+      "quality": 5
+    },
+    "1309415": {
+      "de": "Monsunsaum",
+      "en": "Monsoon Line",
+      "quality": 5
+    },
+    "1309444": {
+      "de": "Jagdmedaille",
+      "en": "Hunt Medal",
+      "quality": 5
+    },
+    "1309590": {
+      "de": "Dreimetallener Ring",
+      "en": "Trimetal Ring",
+      "quality": 5
+    },
+    "1311618": {
+      "de": "Band",
+      "en": "Band",
+      "quality": 5
+    },
+    "1393137": {
+      "de": "Beute des Wandelnden Todes",
+      "en": "Wandering Death's Spoils",
+      "quality": 5
+    },
+    "1631285": {
+      "de": "F\\u00fcrst Zirs pers\\u00f6nlicher Vorrat",
+      "en": "Lord Zir's Personal Stash",
+      "quality": 5
+    },
+    "1760906": {
+      "de": "Schwarze Schiene",
+      "en": "Black Rail",
+      "quality": 5
+    },
+    "1783998": {
+      "de": "Jade-Macuahuitl",
+      "en": "Jade Macuahuitl",
+      "quality": 5
+    },
+    "1805827": {
+      "de": "\\u00c4ltesten-Breitaxt",
+      "en": "Elder Broadaxe",
+      "quality": 5
+    },
+    "1814583": {
+      "de": "Gesch\\u00e4rfte Stangenwaffe",
+      "en": "Sharpened Polearm",
+      "quality": 5
+    },
+    "1815187": {
+      "de": "Vergoldete Stangenwaffe",
+      "en": "Gilded Polearm",
+      "quality": 5
+    },
+    "1821146": {
+      "de": "Fokus der Ger\\u00e4chten",
+      "en": "Focus of the Avenged",
+      "quality": 5
+    },
+    "1861360": {
+      "de": "Ultimative Effizienz\\u00a0\\u2013 Barbar",
+      "en": "Ultimate Efficiency \\u2014 Barbarian",
+      "quality": 5
+    },
+    "1873393": {
+      "de": "Wendigkeitseffizienz",
+      "en": "Agility Efficiency",
+      "quality": 5
+    },
+    "1880235": {
+      "de": "Kernzunahmen\\u00a0\\u2013 Pr\\u00e4zision",
+      "en": "Marksman Augments\\u00a0\\u2014\\u00a0Core",
+      "quality": 5
+    },
+    "1885574": {
+      "de": "Zeichen der Ehre II",
+      "en": "Marks of Honor II",
+      "quality": 5
+    },
+    "1898532": {
+      "de": "Amulett",
+      "en": "Amulet",
+      "quality": 5
+    },
+    "1898546": {
+      "de": "Grabes\\u00adbollwerk",
+      "en": "Grave Bulwark",
+      "quality": 5
+    },
+    "1900652": {
+      "de": "Truhe des Vielseitigkeitsaspekts",
+      "en": "Utility Aspect Cache",
+      "quality": 5
+    },
+    "1914837": {
+      "de": "Truhe des Defensivaspekts",
+      "en": "Defensive Aspect Cache",
+      "quality": 5
+    },
+    "1914938": {
+      "de": "Truhe mit wiederverwerteten Materialien",
+      "en": "Salvage Material Cache",
+      "quality": 5
+    },
+    "1919735": {
+      "de": "[PH] Offensive Aspect Cache II",
+      "en": "[PH] Offensive Aspect Cache II",
+      "quality": 5
+    },
+    "1927423": {
+      "de": "Zaubererbewegung",
+      "en": "Sorcerer Motion",
+      "quality": 5
+    },
+    "1927449": {
+      "de": "Frostk\\u00e4fig",
+      "en": "Frost Cage",
+      "quality": 5
+    },
+    "1936692": {
+      "de": "Stab der Grinsenden Schamanin",
+      "en": "Crook of the Grinning Shaman",
+      "quality": 5
+    },
+    "1955536": {
+      "de": "Beschw\\u00f6rungstruhe: Dritte Reise",
+      "en": "Third Journey Summoning Cache",
+      "quality": 5
+    },
+    "1963750": {
+      "de": "Truhe des Champions",
+      "en": "Champion's Cache",
+      "quality": 5
+    },
+    "1963758": {
+      "de": "Truhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Cache",
+      "quality": 5
+    },
+    "2058786": {
+      "de": "Tausendf\\u00fc\\u00dfer\\u00adeffizienz",
+      "en": "Centipede Efficiency",
+      "quality": 5
+    },
+    "2058869": {
+      "de": "Gorillainnovation",
+      "en": "Gorilla Innovation",
+      "quality": 5
+    },
+    "2086175": {
+      "de": "Blitzzunahmen",
+      "en": "Lightning Augments",
+      "quality": 5
+    },
+    "2088109": {
+      "de": "Ausr\\u00fcstungstruhe: Zweite Reise",
+      "en": "Second Journey Equipment Cache",
+      "quality": 5
+    },
+    "2100502": {
+      "de": "Ebenenzunahmen",
+      "en": "Plains Augments",
+      "quality": 5
+    },
+    "2107432": {
+      "de": "Truhe der destillierten Furcht",
+      "en": "Distilled Fear Cache",
+      "quality": 5
+    },
+    "2125643": {
+      "de": "Beschw\\u00f6rungstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Summoning Cache",
+      "quality": 5
+    },
+    "2156382": {
+      "de": "Vermachte Amulettsammlung ",
+      "en": "Ancestral Collection of Amulets ",
+      "quality": 5
+    },
+    "2166760": {
+      "de": "Legend\\u00e4re Zirkelkiste",
+      "en": "Legendary Coven Crate",
+      "quality": 5
+    },
+    "2174911": {
+      "de": "Gro\\u00dfe Schl\\u00e4chtertruhe ",
+      "en": "Greater Slayer Cache ",
+      "quality": 5
+    },
+    "2174920": {
+      "de": "Gro\\u00dfe \\u00d6dl\\u00e4ndertruhe ",
+      "en": "Greater Wastelander Cache ",
+      "quality": 5
+    },
+    "2176351": {
+      "de": "Gro\\u00dfe Jaguartruhe ",
+      "en": "Greater Jaguar Cache ",
+      "quality": 5
+    },
+    "2179155": {
+      "de": "Pryms Tasche der Glanzst\\u00fccke",
+      "en": "Prym's Bag of Shiny",
+      "quality": 5
+    },
+    "2299598": {
+      "de": "Elementarfinesse\\u00a0\\u2013 Tag",
+      "en": "Elemental Finesse \\u2014 Day",
+      "quality": 5
+    },
+    "2354188": {
+      "de": "Manaerf\\u00fcllte Beschw\\u00f6rungen",
+      "en": "Mana Infused Conjurations",
+      "quality": 5
+    },
+    "2404339": {
+      "de": "Chaosmacht",
+      "en": "Chaotic Power",
+      "quality": 5
+    },
+    "2432436": {
+      "de": "PTR Cache - Chaos Armor - Boots",
+      "en": "PTR Cache - Chaos Armor - Boots",
+      "quality": 5
+    },
+    "2484493": {
+      "de": "Paladinbeharrlichkeit",
+      "en": "Paladin Perseverance",
+      "quality": 5
+    },
+    "444457": {
+      "de": "Archaische Kettengamaschen",
+      "en": "Primal Chausses",
+      "quality": 5
+    },
+    "590061": {
+      "de": "Schriftrolle der Amnesie",
+      "en": "Scroll of Amnesia",
+      "quality": 5
+    },
+    "591438": {
+      "de": "Bartaxt",
+      "en": "Bearded Axe",
+      "quality": 5
+    },
+    "591972": {
+      "de": "Sch\\u00e4delspalter",
+      "en": "Skullsplitter",
+      "quality": 5
+    },
+    "592089": {
+      "de": "Gezackter Schnitter",
+      "en": "Toothed Reaper",
+      "quality": 5
+    },
+    "592242": {
+      "de": "Aegis",
+      "en": "Aegis",
+      "quality": 5
+    },
+    "592294": {
+      "de": "Sagaris",
+      "en": "Sagaris",
+      "quality": 5
+    },
+    "592298": {
+      "de": "Skorpion",
+      "en": "Scorpion",
+      "quality": 5
+    },
+    "592299": {
+      "de": "Ball\\u00e4ster",
+      "en": "Cranequin",
+      "quality": 5
+    },
+    "592303": {
+      "de": "Kryptische Partisane",
+      "en": "Cryptic Partizan",
+      "quality": 5
+    },
+    "592387": {
+      "de": "Blutiges Elfenbein",
+      "en": "Blood-tinged Ivory",
+      "quality": 5
+    },
+    "598507": {
+      "de": "Truhe des Sieges",
+      "en": "Cache of Victory",
+      "quality": 5
+    },
+    "1092149": {
+      "de": "Gro\\u00dfe Brustpanzer\\u00adsammlung",
+      "en": "Greater Collection of Chestplates",
+      "quality": 5
+    },
+    "1267110": {
+      "de": "Kannibalenbeil",
+      "en": "Cannibal's Chopper",
+      "quality": 5
+    },
+    "1305033": {
+      "de": "Geh\\u00f6rnter Schl\\u00e4gel",
+      "en": "Horned Cudgel",
+      "quality": 5
+    },
+    "1306651": {
+      "de": "Unheilsbote ",
+      "en": "Doom Harbinger ",
+      "quality": 5
+    },
+    "1306947": {
+      "de": "Totemstab",
+      "en": "Totemic Staff",
+      "quality": 5
+    },
+    "1309378": {
+      "de": "Ungebrochene Kette",
+      "en": "Unbroken Chain",
+      "quality": 5
+    },
+    "1309386": {
+      "de": "St\\u00e4hlerner Reif",
+      "en": "Unbending Choker",
+      "quality": 5
+    },
+    "1309409": {
+      "de": "Vulg\\u00e4re Kette",
+      "en": "Vulgar Chain",
+      "quality": 5
+    },
+    "1309411": {
+      "de": "Aaskette",
+      "en": "Carrion Chain",
+      "quality": 5
+    },
+    "1309567": {
+      "de": "L\\u00f6wenring",
+      "en": "Leonine Loop",
+      "quality": 5
+    },
+    "1309575": {
+      "de": "Ring",
+      "en": "Ring",
+      "quality": 5
+    },
+    "1309586": {
+      "de": "Schn\\u00fcrender Reif",
+      "en": "Enlacing Loop",
+      "quality": 5
+    },
+    "1311823": {
+      "de": "Zeterkern",
+      "en": "Clamor Core",
+      "quality": 5
+    },
+    "1667653": {
+      "de": "R\\u00fcstzeug des Blutf\\u00fcrsten",
+      "en": "Blood Lord's Armory",
+      "quality": 5
+    },
+    "1667670": {
+      "de": "Sack mit vampirischen Torques",
+      "en": "Sack of Vampiric Torques",
+      "quality": 5
+    },
+    "1805228": {
+      "de": "Gro\\u00dfe Erwachte Beute",
+      "en": "Greater Awakened Spoils",
+      "quality": 5
+    },
+    "1809715": {
+      "de": "\\u00c4ltesten-Sandale",
+      "en": "Elder's Sandal",
+      "quality": 5
+    },
+    "1841119": {
+      "de": "Truhe der W\\u00fcrdigen",
+      "en": "Cache of Worthy",
+      "quality": 5
+    },
+    "1861375": {
+      "de": "Waffenbeherrschungs\\u00adeffizienz",
+      "en": "Weapon Mastery Efficiency",
+      "quality": 5
+    },
+    "1861381": {
+      "de": "Raufboldeffizienz",
+      "en": "Brawling Efficiency",
+      "quality": 5
+    },
+    "1893302": {
+      "de": "Truhe der Vergessenen Seele",
+      "en": "Forgotten Soul Cache",
+      "quality": 5
+    },
+    "1893425": {
+      "de": "Truhe der Vollendung",
+      "en": "Masterworking Cache",
+      "quality": 5
+    },
+    "1895491": {
+      "de": "K\\u00e4stchen der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves Vanity Chest",
+      "quality": 5
+    },
+    "1895732": {
+      "de": "Kr\\u00e4utersammler\\u00adschatz der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Herbalist Hoard",
+      "quality": 5
+    },
+    "1895738": {
+      "de": "Botenausr\\u00fcstung der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Messenger Gear",
+      "quality": 5
+    },
+    "1898523": {
+      "de": "Kappe",
+      "en": "Cap",
+      "quality": 5
+    },
+    "1898525": {
+      "de": "Handschuhe",
+      "en": "Gloves",
+      "quality": 5
+    },
+    "1898529": {
+      "de": "Stiefel",
+      "en": "Boots",
+      "quality": 5
+    },
+    "1900974": {
+      "de": "[PH] Bigger Rep Cache",
+      "en": "[PH] Bigger Rep Cache",
+      "quality": 5
+    },
+    "1914948": {
+      "de": "Truhe der Vollendung",
+      "en": "Masterworking Cache",
+      "quality": 5
+    },
+    "1914973": {
+      "de": "Truhe des Zerstreuten Prismas",
+      "en": "Scattered Prism Cache",
+      "quality": 5
+    },
+    "1915941": {
+      "de": "Truhe des Ressourcenaspekts",
+      "en": "Resource Aspect Cache",
+      "quality": 5
+    },
+    "1915969": {
+      "de": "Truhe der Vollendung",
+      "en": "Masterworking Cache",
+      "quality": 5
+    },
+    "1919718": {
+      "de": "Truhe des Offensivaspekts",
+      "en": "Offensive Aspect Cache",
+      "quality": 5
+    },
+    "1919748": {
+      "de": "Truhe des Bewegungsaspekts",
+      "en": "Movement Aspect Cache",
+      "quality": 5
+    },
+    "1919755": {
+      "de": "[PH] Movement Aspect Cache II",
+      "en": "[PH] Movement Aspect Cache II",
+      "quality": 5
+    },
+    "1925846": {
+      "de": "Schattenzunahmen\\u00a0\\u2013 Enthauptung",
+      "en": "Shadow Augments \\u2014 Execution",
+      "quality": 5
+    },
+    "1926187": {
+      "de": "Totenbeschw\\u00f6rer\\u00adkr\\u00e4ftigung",
+      "en": "Necromancer Invigoration",
+      "quality": 5
+    },
+    "1927429": {
+      "de": "Zaubererkontrolle",
+      "en": "Sorcerer Control",
+      "quality": 5
+    },
+    "1931253": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1945821": {
+      "de": "Ausr\\u00fcstungstruhe: Vierte Reise",
+      "en": "Fourth Journey Equipment Cache",
+      "quality": 5
+    },
+    "1947681": {
+      "de": "Etsechekes Gehstock",
+      "en": "Etsecheke's Walking Stick",
+      "quality": 5
+    },
+    "1963744": {
+      "de": "Beschw\\u00f6rungstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Summoning Cache",
+      "quality": 5
+    },
+    "1998716": {
+      "de": "Beschw\\u00f6rungszunahmen",
+      "en": "Conjuration Augments",
+      "quality": 5
+    },
+    "2018132": {
+      "de": "J\\u00e4gerinnovation",
+      "en": "Rogue Innovation",
+      "quality": 5
+    },
+    "2021191": {
+      "de": "Marsch des Hasses",
+      "en": "Hatred's March",
+      "quality": 5
+    },
+    "2058699": {
+      "de": "Geistgeborenen\\u00aderholung",
+      "en": "Spiritborn Recovery",
+      "quality": 5
+    },
+    "2058730": {
+      "de": "Tausendf\\u00fc\\u00dferfinesse",
+      "en": "Centipede Finesse",
+      "quality": 5
+    },
+    "2058832": {
+      "de": "Gorillaeffizienz",
+      "en": "Gorilla Efficiency",
+      "quality": 5
+    },
+    "2058850": {
+      "de": "Jaguareffizienz",
+      "en": "Jaguar Efficiency",
+      "quality": 5
+    },
+    "2058887": {
+      "de": "Adlerzunahmen",
+      "en": "Eagle Augments",
+      "quality": 5
+    },
+    "2085452": {
+      "de": "Verfallinnovation",
+      "en": "Decay Innovation",
+      "quality": 5
+    },
+    "2085676": {
+      "de": "Blutungsinnovation",
+      "en": "Bleed Innovation",
+      "quality": 5
+    },
+    "2086826": {
+      "de": "Waffenzunahmen",
+      "en": "Weapon Augments",
+      "quality": 5
+    },
+    "2087582": {
+      "de": "Assassinenzunahmen",
+      "en": "Assassin Augments",
+      "quality": 5
+    },
+    "2088137": {
+      "de": "Beschw\\u00f6rungstruhe des Champions",
+      "en": "Champion's Summoning Cache",
+      "quality": 5
+    },
+    "2089978": {
+      "de": "Gesch\\u00e4rfte Finesse",
+      "en": "Sharpened Finesse",
+      "quality": 5
+    },
+    "2100070": {
+      "de": "Zuf\\u00e4llige legend\\u00e4re Rune",
+      "en": "Random Legendary Rune",
+      "quality": 5
+    },
+    "2106424": {
+      "de": "Vielseitigkeitsaspekte",
+      "en": "Utility Aspects",
+      "quality": 5
+    },
+    "2111665": {
+      "de": "Elegante Gleve",
+      "en": "Elegant Glaive",
+      "quality": 5
+    },
+    "2162507": {
+      "de": "Geringe Elemente des Erzfeindes",
+      "en": "Lesser Elements of Nemesis",
+      "quality": 5
+    },
+    "2168649": {
+      "de": "Stimme der Sterne",
+      "en": "Voice of the Stars",
+      "quality": 5
+    },
+    "2168655": {
+      "de": "Gedankenkranz",
+      "en": "Mind Wreath",
+      "quality": 5
+    },
+    "2174908": {
+      "de": "Gro\\u00dfe Berserkertruhe ",
+      "en": "Greater Berserker Cache ",
+      "quality": 5
+    },
+    "2175114": {
+      "de": "Gro\\u00dfe Pyromanietruhe ",
+      "en": "Greater Pyromancy Cache ",
+      "quality": 5
+    },
+    "2175138": {
+      "de": "Gro\\u00dfe Frosttruhe ",
+      "en": "Greater Frost Cache ",
+      "quality": 5
+    },
+    "2175880": {
+      "de": "Murls Obolustasche",
+      "en": "Murl's Bag of Obols",
+      "quality": 5
+    },
+    "2176087": {
+      "de": "Grimoire des Staubsteins",
+      "en": "Dust Stone Grimoire",
+      "quality": 5
+    },
+    "2176275": {
+      "de": "Gro\\u00dfe Werwolftruhe ",
+      "en": "Greater Werewolf Cache ",
+      "quality": 5
+    },
+    "2222923": {
+      "de": "Legend\\u00e4re Runentruhe des Goblins",
+      "en": "Goblin's Legendary Rune Cache",
+      "quality": 5
+    },
+    "2348866": {
+      "de": "Mehr Horadrische Phiolen",
+      "en": "More Horadric Phials",
+      "quality": 5
+    },
+    "2361654": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2479380": {
+      "de": "Molochzunahmen",
+      "en": "Juggernaut Augments",
+      "quality": 5
+    },
+    "2481206": {
+      "de": "Molocheffizienz",
+      "en": "Juggernaut Efficiency",
+      "quality": 5
+    },
+    "589186": {
+      "de": "Legendary Test Axe1H",
+      "en": "Legendary Test Axe1H",
+      "quality": 5
+    },
+    "589194": {
+      "de": "Legendary Test Scythe2H",
+      "en": "Legendary Test Scythe2H",
+      "quality": 5
+    },
+    "592263": {
+      "de": "Flammenschwert",
+      "en": "Flammard",
+      "quality": 5
+    },
+    "592264": {
+      "de": "Klinge des Ghulk\\u00f6nigs",
+      "en": "Ghoul King's Blade",
+      "quality": 5
+    },
+    "592266": {
+      "de": "Geehrtes Relikt",
+      "en": "Honored Relic",
+      "quality": 5
+    },
+    "1092135": {
+      "de": "Gro\\u00dfe Einhandwaffen\\u00adsammlung",
+      "en": "Greater Collection of One-handed Weapons",
+      "quality": 5
+    },
+    "1092145": {
+      "de": "Gro\\u00dfe Stiefelsammlung",
+      "en": "Greater Collection of Boots",
+      "quality": 5
+    },
+    "1266266": {
+      "de": "Grausige Troph\\u00e4e",
+      "en": "Grisly Trophy",
+      "quality": 5
+    },
+    "1266883": {
+      "de": "Biss der Schlange",
+      "en": "Serpent's Bite",
+      "quality": 5
+    },
+    "1266975": {
+      "de": "Knochenklinge",
+      "en": "Bone Blade",
+      "quality": 5
+    },
+    "1267078": {
+      "de": "Reinkarnations\\u00adklinge",
+      "en": "Rebirth Edge",
+      "quality": 5
+    },
+    "1305027": {
+      "de": "Wurzelfaust",
+      "en": "Rootfist",
+      "quality": 5
+    },
+    "1308436": {
+      "de": "Auge des Jaguars",
+      "en": "Jaguar's Eye",
+      "quality": 5
+    },
+    "1309565": {
+      "de": "Zunge der Schlange",
+      "en": "Serpent's Tongue",
+      "quality": 5
+    },
+    "1309592": {
+      "de": "Signet der Nachtgeborenen",
+      "en": "Nightborne Signet",
+      "quality": 5
+    },
+    "1311597": {
+      "de": "Amazonenband",
+      "en": "Amazon Band",
+      "quality": 5
+    },
+    "1311610": {
+      "de": "Sippenf\\u00fcrst\\u00adband",
+      "en": "Kin-lord Band",
+      "quality": 5
+    },
+    "1311628": {
+      "de": "Beutebeobachter",
+      "en": "Preywatcher",
+      "quality": 5
+    },
+    "1311783": {
+      "de": "Gro\\u00dfherz\\u00adband",
+      "en": "Greatheart Band",
+      "quality": 5
+    },
+    "1311821": {
+      "de": "Pareidolie\\u00adring",
+      "en": "Pareidolic Ring",
+      "quality": 5
+    },
+    "1393077": {
+      "de": "W\\u00f6chentliche Bonusbeute",
+      "en": "Weekly Bonus Spoils",
+      "quality": 5
+    },
+    "1631019": {
+      "de": "Paket mit Ghulhauthandschuhen",
+      "en": "Pack of Ghoul-Skin Gloves",
+      "quality": 5
+    },
+    "1631036": {
+      "de": "Blutknochenbeinverst\\u00e4rkung",
+      "en": "Blood Bone Leg Reinforcements",
+      "quality": 5
+    },
+    "1667668": {
+      "de": "Blutsucher\\u00adwaffentruhe",
+      "en": "Blood Seeker's Weapon Cache",
+      "quality": 5
+    },
+    "1714790": {
+      "de": "Abstimmungsstein: Volumin\\u00f6s",
+      "en": "Tuning Stone: Voluminous",
+      "quality": 5
+    },
+    "1714810": {
+      "de": "Abstimmungsstein: Registrierter Schaden",
+      "en": "Tuning Stone: Registered Damage",
+      "quality": 5
+    },
+    "1726328": {
+      "de": "Blasses Zeichen",
+      "en": "Pale Mark",
+      "quality": 5
+    },
+    "1741451": {
+      "de": "Wutentbrannter Drescher",
+      "en": "Furious Thresher",
+      "quality": 5
+    },
+    "1746818": {
+      "de": "Gezackte Axt",
+      "en": "Serrated Axe",
+      "quality": 5
+    },
+    "1815270": {
+      "de": "Elegante Stangenwaffe",
+      "en": "Elegant Polearm",
+      "quality": 5
+    },
+    "1821211": {
+      "de": "Aufsteigender Kampfstab",
+      "en": "Ascendant Quarterstaff",
+      "quality": 5
+    },
+    "1862208": {
+      "de": "Barbarenerholung",
+      "en": "Barbarian Recovery",
+      "quality": 5
+    },
+    "1862450": {
+      "de": "Nat\\u00fcrliche Finesse",
+      "en": "Natural Finesse",
+      "quality": 5
+    },
+    "1868200": {
+      "de": "Dienerfinesse",
+      "en": "Minion Finesse",
+      "quality": 5
+    },
+    "1868592": {
+      "de": "Schattenfinesse",
+      "en": "Shadow Finesse",
+      "quality": 5
+    },
+    "1880193": {
+      "de": "Furorzunahmen",
+      "en": "Furious Augments",
+      "quality": 5
+    },
+    "1880225": {
+      "de": "Blutzunahmen",
+      "en": "Blood Augments",
+      "quality": 5
+    },
+    "1885027": {
+      "de": "Gestaltwandel\\u00adbest\\u00e4ndigkeit",
+      "en": "Shapeshifting Endurance",
+      "quality": 5
+    },
+    "1893430": {
+      "de": "Truhe des Offensivaspekts",
+      "en": "Offensive Aspect Cache",
+      "quality": 5
+    },
+    "1894211": {
+      "de": "Waffe der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Weapon",
+      "quality": 5
+    },
+    "1894958": {
+      "de": "Schwarzholz\\u00adkeule",
+      "en": "Blackwood Club",
+      "quality": 5
+    },
+    "1895355": {
+      "de": "Botenkiste der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Messenger Case",
+      "quality": 5
+    },
+    "1895844": {
+      "de": "Unaussprechliche Waren",
+      "en": "Unspeakable Goods",
+      "quality": 5
+    },
+    "1898536": {
+      "de": "Jade-Armbrust",
+      "en": "Jade Crossbow",
+      "quality": 5
+    },
+    "1907191": {
+      "de": "Truhe des Schl\\u00e4chters",
+      "en": "Slayer's Cache",
+      "quality": 5
+    },
+    "1915405": {
+      "de": "Experten-H\\u00e4rtungsset",
+      "en": "Expert Tempering Kit",
+      "quality": 5
+    },
+    "1919713": {
+      "de": "[PH] Offensive Aspect Cache II",
+      "en": "[PH] Offensive Aspect Cache II",
+      "quality": 5
+    },
+    "1926048": {
+      "de": "Entweihte Finesse",
+      "en": "Profane Finesse",
+      "quality": 5
+    },
+    "1927409": {
+      "de": "Pyromanie-Finesse",
+      "en": "Pyromancy Finesse",
+      "quality": 5
+    },
+    "1927431": {
+      "de": "Ultimative Effizienz\\u00a0\\u2013 Zauberer",
+      "en": "Ultimate Efficiency\\u00a0\\u2014\\u00a0\\u00a0Sorcerer",
+      "quality": 5
+    },
+    "1930506": {
+      "de": "Beschw\\u00f6rungstruhe des Champions",
+      "en": "Champion's Summoning Cache",
+      "quality": 5
+    },
+    "1947207": {
+      "de": "Beschw\\u00f6rungstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Summoning Cache",
+      "quality": 5
+    },
+    "1963754": {
+      "de": "Handwerkstruhe des Champions",
+      "en": "Champion's Crafting Cache",
+      "quality": 5
+    },
+    "1963760": {
+      "de": "Beschw\\u00f6rungstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Summoning Cache",
+      "quality": 5
+    },
+    "2025936": {
+      "de": "Bedingungsrunen-Truhe",
+      "en": "Condition Runes Cache",
+      "quality": 5
+    },
+    "2053018": {
+      "de": "Schl\\u00e4chterfinesse",
+      "en": "Slayer's Finesse",
+      "quality": 5
+    },
+    "2058740": {
+      "de": "Adlerfinesse",
+      "en": "Eagle Finesse",
+      "quality": 5
+    },
+    "2058798": {
+      "de": "Adlereffizienz",
+      "en": "Eagle Efficiency",
+      "quality": 5
+    },
+    "2058898": {
+      "de": "Gorillazunahmen",
+      "en": "Gorilla Augments",
+      "quality": 5
+    },
+    "2088140": {
+      "de": "Handwerkstruhe des Champions",
+      "en": "Champion's Crafting Cache",
+      "quality": 5
+    },
+    "2100494": {
+      "de": "Waldzunahmen",
+      "en": "Forest Augments",
+      "quality": 5
+    },
+    "2106125": {
+      "de": "Beute des Eroberers der Reiche",
+      "en": "Spoils of the Realm Conqueror",
+      "quality": 5
+    },
+    "2106397": {
+      "de": "Handwerk",
+      "en": "Crafting",
+      "quality": 5
+    },
+    "2106418": {
+      "de": "Mobilit\\u00e4tsaspekte",
+      "en": "Mobility Aspects",
+      "quality": 5
+    },
+    "2107424": {
+      "de": "Aldkin-Truhe der Vollendung",
+      "en": "Aldkin Masterworking Cache",
+      "quality": 5
+    },
+    "2107443": {
+      "de": "Gro\\u00dfe Varyana-Truhe",
+      "en": "Grand Varyana Cache",
+      "quality": 5
+    },
+    "2107446": {
+      "de": "Gro\\u00dfe Subo-Truhe",
+      "en": "Grand Subo Cache",
+      "quality": 5
+    },
+    "2152986": {
+      "de": "Gro\\u00dfe Elemente der Hexenmacht",
+      "en": "Greater Elements of Witchcraft",
+      "quality": 5
+    },
+    "2154345": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Amethyst",
+      "en": "Legendary Ring Cache - Amethyst",
+      "quality": 5
+    },
+    "2156380": {
+      "de": "Vermachte Zweihandwaffen\\u00adsammlung ",
+      "en": "Ancestral Collection of Two-Handed Weapons ",
+      "quality": 5
+    },
+    "2161083": {
+      "de": "Staubstein",
+      "en": "Dust Stone",
+      "quality": 5
+    },
+    "2161173": {
+      "de": "Legend\\u00e4res Geschenk der Urahnen",
+      "en": "Legendary Gift from the Ancestors",
+      "quality": 5
+    },
+    "2164970": {
+      "de": "Vermachte Zirkelkiste",
+      "en": "Ancestral Coven Crate",
+      "quality": 5
+    },
+    "2166243": {
+      "de": "Gr\\u00e4ssliche Zunahmen",
+      "en": "Dreadful Augments",
+      "quality": 5
+    },
+    "2168662": {
+      "de": "Freund des Sumpfes",
+      "en": "Friend of the Bog",
+      "quality": 5
+    },
+    "2170562": {
+      "de": "Geschenk des Baumes",
+      "en": "Gift of the Tree",
+      "quality": 5
+    },
+    "2172792": {
+      "de": "Nahantu-Schatz\\u00adtasche",
+      "en": "Nahantu Treasure Bag",
+      "quality": 5
+    },
+    "2174171": {
+      "de": "Gro\\u00dfe Truhe des Fallenstellers ",
+      "en": "Greater Trapper Cache ",
+      "quality": 5
+    },
+    "2174180": {
+      "de": "Gro\\u00dfe Alchemistentruhe ",
+      "en": "Greater Alchemist Cache ",
+      "quality": 5
+    },
+    "2174878": {
+      "de": "Gro\\u00dfe Mittwinter\\u00adtasche ",
+      "en": "Greater Midwinter Purse ",
+      "quality": 5
+    },
+    "2176361": {
+      "de": "Gro\\u00dfe Gorillatruhe ",
+      "en": "Greater Gorilla Cache ",
+      "quality": 5
+    },
+    "2179151": {
+      "de": "M\\u00fcnztasche des Barons",
+      "en": "Baron's Bag of Coin",
+      "quality": 5
+    },
+    "2207742": {
+      "de": "Legend\\u00e4re Urahnen-Tribute der Unterstadt von Kurast",
+      "en": "Ancestors' Legendary Kurast Undercity Tributes",
+      "quality": 5
+    },
+    "2224831": {
+      "de": "Pryms Geschenk",
+      "en": "Prym's Gift",
+      "quality": 5
+    },
+    "2226049": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "2253259": {
+      "de": "Schwebefluse",
+      "en": "Floaty Bobble",
+      "quality": 5
+    },
+    "2261657": {
+      "de": "Alptraumkugel",
+      "en": "Nightmare Orb",
+      "quality": 5
+    },
+    "2271222": {
+      "de": "Kesseldruck",
+      "en": "Pressurized Steam",
+      "quality": 5
+    },
+    "2299606": {
+      "de": "Elementarfinesse\\u00a0\\u2013 Nacht",
+      "en": "Elemental Finesse \\u2014 Night",
+      "quality": 5
+    },
+    "2353967": {
+      "de": "Chaotische Abklingzeiten",
+      "en": "Chaotic Cooldowns",
+      "quality": 5
+    },
+    "2354006": {
+      "de": "Wilder Wandel",
+      "en": "Wild Transformations",
+      "quality": 5
+    },
+    "2404345": {
+      "de": "Chaosmacht",
+      "en": "Chaotic Power",
+      "quality": 5
+    },
+    "2404357": {
+      "de": "Chaosmacht",
+      "en": "Chaotic Power",
+      "quality": 5
+    },
+    "2424075": {
+      "de": "Gro\\u00dfe Reisetruhe",
+      "en": "Greater Journey Cache",
+      "quality": 5
+    },
+    "2454911": {
+      "de": "Silberstern",
+      "en": "Silver Star",
+      "quality": 5
+    },
+    "2475321": {
+      "de": "PH Tempering Template",
+      "en": "PH Tempering Template",
+      "quality": 5
+    },
+    "2481637": {
+      "de": "Richtereffizienz",
+      "en": "Judicator Efficiency",
+      "quality": 5
+    },
+    "2482599": {
+      "de": "Richterfinesse",
+      "en": "Judicator Finesse",
+      "quality": 5
+    },
+    "2513227": {
+      "de": "Finaldungeontruhe\\u00a0\\u2013 Rang IV",
+      "en": "Rank IV Capstone Cache",
+      "quality": 5
+    },
+    "589187": {
+      "de": "Legendary Test Axe2H",
+      "en": "Legendary Test Axe2H",
+      "quality": 5
+    },
+    "589196": {
+      "de": "Legendary Test Polearm2H",
+      "en": "Legendary Test Polearm2H",
+      "quality": 5
+    },
+    "589214": {
+      "de": "Legendary Test Bow",
+      "en": "Legendary Test Bow",
+      "quality": 5
+    },
+    "589217": {
+      "de": "Legendary Test Crossbow2H",
+      "en": "Legendary Test Crossbow2H",
+      "quality": 5
+    },
+    "592165": {
+      "de": "Uraltes Totem",
+      "en": "Ancient Effigy",
+      "quality": 5
+    },
+    "592224": {
+      "de": "Kindschal",
+      "en": "Khanjali",
+      "quality": 5
+    },
+    "592241": {
+      "de": "Opfersichel",
+      "en": "Sacrificial Sickle",
+      "quality": 5
+    },
+    "592270": {
+      "de": "Zauberbinder",
+      "en": "Spellbinder",
+      "quality": 5
+    },
+    "592300": {
+      "de": "Schreckenskolben",
+      "en": "Dread Mace",
+      "quality": 5
+    },
+    "592389": {
+      "de": "Spule",
+      "en": "Coil",
+      "quality": 5
+    },
+    "1092131": {
+      "de": "Gro\\u00dfe Kopfschutz\\u00adsammlung",
+      "en": "Greater Collection of Helms",
+      "quality": 5
+    },
+    "1092151": {
+      "de": "Gro\\u00dfe Panzerhandschuh\\u00adsammlung",
+      "en": "Greater Collection of Gauntlets",
+      "quality": 5
+    },
+    "1092153": {
+      "de": "Gro\\u00dfe Beinsch\\u00fctzer\\u00adsammlung",
+      "en": "Greater Collection of Leg Guards",
+      "quality": 5
+    },
+    "1267003": {
+      "de": "Dolchmesser des Todes",
+      "en": "Death's Dirk",
+      "quality": 5
+    },
+    "1267122": {
+      "de": "Blutsauger",
+      "en": "Bloodsucker",
+      "quality": 5
+    },
+    "1267129": {
+      "de": "Hammer der Reue",
+      "en": "Penitent Hammer",
+      "quality": 5
+    },
+    "1267261": {
+      "de": "Buriza-Do Kyanon",
+      "en": "Buriza-Do Kyanon",
+      "quality": 5
+    },
+    "1305025": {
+      "de": "Einschlaghammer",
+      "en": "Impact Hammer",
+      "quality": 5
+    },
+    "1307053": {
+      "de": "Lichklinge",
+      "en": "Lich Blade",
+      "quality": 5
+    },
+    "1309557": {
+      "de": "Unvollendetes Band",
+      "en": "Inchoate Band",
+      "quality": 5
+    },
+    "1309584": {
+      "de": "Ring des Anbeters",
+      "en": "Worshipper's Ring",
+      "quality": 5
+    },
+    "1309594": {
+      "de": "Perplexe Rundung",
+      "en": "Perplex Round",
+      "quality": 5
+    },
+    "1309596": {
+      "de": "Spulenhals\\u00adreif",
+      "en": "Coilneck Loop",
+      "quality": 5
+    },
+    "1311700": {
+      "de": "Irdenes Band",
+      "en": "Earthend Band",
+      "quality": 5
+    },
+    "1311773": {
+      "de": "Lebensreif",
+      "en": "Lifeward Loop",
+      "quality": 5
+    },
+    "1393124": {
+      "de": "Ashavas Beute",
+      "en": "Ashava's Spoils",
+      "quality": 5
+    },
+    "1652520": {
+      "de": "Gro\\u00dfe Mittwinterbeute",
+      "en": "Greater Midwinter Spoils",
+      "quality": 5
+    },
+    "1667664": {
+      "de": "Paket mit Ghulhaut\\u00adhandschuhen",
+      "en": "Pack of Ghoul-Skin Gloves",
+      "quality": 5
+    },
+    "1669256": {
+      "de": "Prahlertruhe",
+      "en": "Braggart's Cache",
+      "quality": 5
+    },
+    "1729873": {
+      "de": "\\u00c4ltesten-Langdolch",
+      "en": "Elder Shiv",
+      "quality": 5
+    },
+    "1741463": {
+      "de": "Seelenexplosion-Stab",
+      "en": "Soulburst Staff",
+      "quality": 5
+    },
+    "1776056": {
+      "de": "Jadehaken",
+      "en": "Jade Hook",
+      "quality": 5
+    },
+    "1781393": {
+      "de": "Dschungelspalter",
+      "en": "Jungle Cleaver",
+      "quality": 5
+    },
+    "1805621": {
+      "de": "Dunkle \\u00c4ltesten-Axt",
+      "en": "Dark Elder Axe",
+      "quality": 5
+    },
+    "1814203": {
+      "de": "Geister-Kampfstab",
+      "en": "Spirit Quarterstaff",
+      "quality": 5
+    },
+    "1815314": {
+      "de": "Bezaubernde Stangenwaffe",
+      "en": "Charming Polearm",
+      "quality": 5
+    },
+    "1861345": {
+      "de": "Blutungszunahmen",
+      "en": "Bleed Augments",
+      "quality": 5
+    },
+    "1862230": {
+      "de": "Arsenalfinesse (Verm\\u00e4chtnis)",
+      "en": "Arsenal Finesse (Legacy)",
+      "quality": 5
+    },
+    "1862234": {
+      "de": "Demolierungsfinesse",
+      "en": "Demolition Finesse",
+      "quality": 5
+    },
+    "1868196": {
+      "de": "Entweihte Innovation",
+      "en": "Profane Innovation",
+      "quality": 5
+    },
+    "1873428": {
+      "de": "T\\u00e4uschungseffizienz",
+      "en": "Subterfuge Efficiency",
+      "quality": 5
+    },
+    "1873430": {
+      "de": "Pr\\u00e4zisionsfinesse",
+      "en": "Marksman Finesse",
+      "quality": 5
+    },
+    "1880229": {
+      "de": "Schattenzunahmen\\u00a0\\u2013 Verfall",
+      "en": "Shadow Augments \\u2014 Decay",
+      "quality": 5
+    },
+    "1885017": {
+      "de": "Naturmagiewand",
+      "en": "Nature Magic Wall",
+      "quality": 5
+    },
+    "1885043": {
+      "de": "Sturmzunahmen",
+      "en": "Storm Augments",
+      "quality": 5
+    },
+    "1885051": {
+      "de": "Erdfinesse",
+      "en": "Earth Finesse",
+      "quality": 5
+    },
+    "1885583": {
+      "de": "Beutegl\\u00fcck II",
+      "en": "Looter's Luck II",
+      "quality": 5
+    },
+    "1893438": {
+      "de": "[PH] Offensive Aspect Cache II",
+      "en": "[PH] Offensive Aspect Cache II",
+      "quality": 5
+    },
+    "1893455": {
+      "de": "Beschw\\u00f6rungstruhe Varshans",
+      "en": "Varshan Summoning Cache",
+      "quality": 5
+    },
+    "1895655": {
+      "de": "Faulige Seelensammlung",
+      "en": "Putrid Soul Collection",
+      "quality": 5
+    },
+    "1895855": {
+      "de": "Unaussprechliche Waren",
+      "en": "Unspeakable Goods",
+      "quality": 5
+    },
+    "1898534": {
+      "de": "Reptilstab",
+      "en": "Reptilian Staff",
+      "quality": 5
+    },
+    "1900968": {
+      "de": "Kriegstruhe der Triune",
+      "en": "Triune War Chest",
+      "quality": 5
+    },
+    "1914942": {
+      "de": "Truhe des Windenden Schutzes",
+      "en": "Coiling Ward Cache",
+      "quality": 5
+    },
+    "1919704": {
+      "de": "Truhe des Offensivaspekts",
+      "en": "Offensive Aspect Cache",
+      "quality": 5
+    },
+    "1924895": {
+      "de": "Nat\\u00fcrlicher Widerstand",
+      "en": "Natural Resistance",
+      "quality": 5
+    },
+    "1927451": {
+      "de": "Frostfinesse",
+      "en": "Frost Finesse",
+      "quality": 5
+    },
+    "1927455": {
+      "de": "Zaubererstabilit\\u00e4t",
+      "en": "Sorcerer Stability",
+      "quality": 5
+    },
+    "1927463": {
+      "de": "Schockzunahmen\\u00a0\\u2013 Woge",
+      "en": "Shock Augments\\u00a0\\u2014 Surge",
+      "quality": 5
+    },
+    "1931255": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1931270": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1960162": {
+      "de": "Vermachte Waffentruhe der Triune",
+      "en": "Ancestral Triune Arms Cache",
+      "quality": 5
+    },
+    "1960173": {
+      "de": "Elemente des Erzfeindes",
+      "en": "Elements of Nemesis",
+      "quality": 5
+    },
+    "1963724": {
+      "de": "Ausr\\u00fcstungstruhe: Zweite Reise",
+      "en": "Second Journey Equipment Cache",
+      "quality": 5
+    },
+    "1963726": {
+      "de": "Truhe: Dritte Reise",
+      "en": "Third Journey Cache",
+      "quality": 5
+    },
+    "1963730": {
+      "de": "Handwerkstruhe: Dritte Reise",
+      "en": "Third Journey Crafting Cache",
+      "quality": 5
+    },
+    "1963736": {
+      "de": "Beschw\\u00f6rungstruhe: Vierte Reise",
+      "en": "Fourth Journey Summoning Cache",
+      "quality": 5
+    },
+    "1963752": {
+      "de": "Beschw\\u00f6rungstruhe des Champions",
+      "en": "Champion's Summoning Cache",
+      "quality": 5
+    },
+    "1963762": {
+      "de": "Handwerkstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Crafting Cache",
+      "quality": 5
+    },
+    "1989556": {
+      "de": "Elementarkontrolle",
+      "en": "Elemental Control",
+      "quality": 5
+    },
+    "2016325": {
+      "de": "Schockzunahmen\\u00a0\\u2013 Entladung",
+      "en": "Shock Augments\\u00a0\\u2014\\u00a0Discharge",
+      "quality": 5
+    },
+    "2017904": {
+      "de": "Naturmagie-Innovation",
+      "en": "Nature Magic Innovation",
+      "quality": 5
+    },
+    "2058755": {
+      "de": "Gorillafinesse",
+      "en": "Gorilla Finesse",
+      "quality": 5
+    },
+    "2058857": {
+      "de": "Tausendf\\u00fc\\u00dfer\\u00adinnovation",
+      "en": "Centipede Innovation",
+      "quality": 5
+    },
+    "2058863": {
+      "de": "Adlerinnovation",
+      "en": "Eagle Innovation",
+      "quality": 5
+    },
+    "2058881": {
+      "de": "Tausendf\\u00fc\\u00dfer\\u00adzunahmen",
+      "en": "Centipede Augments",
+      "quality": 5
+    },
+    "2087380": {
+      "de": "Zelebrantentruhe",
+      "en": "Celebrant's Cache",
+      "quality": 5
+    },
+    "2088117": {
+      "de": "Ausr\\u00fcstungstruhe: Dritte Reise",
+      "en": "Third Journey Equipment Cache",
+      "quality": 5
+    },
+    "2088121": {
+      "de": "Beschw\\u00f6rungstruhe: Vierte Reise",
+      "en": "Fourth Journey Summoning Cache",
+      "quality": 5
+    },
+    "2088148": {
+      "de": "Handwerkstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Crafting Cache",
+      "quality": 5
+    },
+    "2096302": {
+      "de": "Ysevetes Klagelied",
+      "en": "Ysevete's Dirge",
+      "quality": 5
+    },
+    "2100335": {
+      "de": "Truhe mit legend\\u00e4ren Runen ",
+      "en": "[PH] Cache with Legendary Runes ",
+      "quality": 5
+    },
+    "2101081": {
+      "de": "Zaubererinnovation",
+      "en": "Sorcerer Innovation",
+      "quality": 5
+    },
+    "2103845": {
+      "de": "S\\u00f6ldnerkopfschutz",
+      "en": "Mercenary Helm",
+      "quality": 5
+    },
+    "2106531": {
+      "de": "Truhe des lebenden Stahls",
+      "en": "Living Steel Cache",
+      "quality": 5
+    },
+    "2106533": {
+      "de": "Gro\\u00dfe Raheir-Truhe",
+      "en": "Grand Raheir Cache",
+      "quality": 5
+    },
+    "2108268": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Runen des Rituals",
+      "en": "PTR Cache - Runes of Ritual",
+      "quality": 5
+    },
+    "2125637": {
+      "de": "Handwerkstruhe des Champions",
+      "en": "Champion's Crafting Cache",
+      "quality": 5
+    },
+    "2125645": {
+      "de": "Handwerkstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Crafting Cache",
+      "quality": 5
+    },
+    "2154343": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Amethyst",
+      "en": "Amethyst Jewelry Cache",
+      "quality": 5
+    },
+    "2154420": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Topas",
+      "en": "Legendary Ring Cache - Topaz",
+      "quality": 5
+    },
+    "2156394": {
+      "de": "Vermachte Kopfschutzsammlung ",
+      "en": "Ancestral Collection of Helms ",
+      "quality": 5
+    },
+    "2172948": {
+      "de": "Legend\\u00e4re Goblin-Runensammlung",
+      "en": "Goblins Collection of Legendary Runes",
+      "quality": 5
+    },
+    "2172983": {
+      "de": "Leuchtende Schatztasche",
+      "en": "Radiant Treasure Bag",
+      "quality": 5
+    },
+    "2174166": {
+      "de": "Gro\\u00dfe Pr\\u00e4zisionstruhe ",
+      "en": "Greater Marksman Cache ",
+      "quality": 5
+    },
+    "2175094": {
+      "de": "Mittwinter-Runen\\u00adsammlung",
+      "en": "Midwinter Collection of Runes",
+      "quality": 5
+    },
+    "2175965": {
+      "de": "Gro\\u00dfe Schattentruhe ",
+      "en": "Greater Shadow Cache ",
+      "quality": 5
+    },
+    "2176354": {
+      "de": "Gro\\u00dfe Adlertruhe ",
+      "en": "Greater Eagle Cache ",
+      "quality": 5
+    },
+    "2207756": {
+      "de": "Unendliche legend\\u00e4re Urahnen-Tribute der Unterstadt von Kurast",
+      "en": "Unceasing Ancestors' Legendary Kurast Undercity Tributes",
+      "quality": 5
+    },
+    "2252252": {
+      "de": "Gro\\u00dfe Reisetruhe",
+      "en": "Greater Journey Cache",
+      "quality": 5
+    },
+    "2361662": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2361664": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2361666": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2362079": {
+      "de": "PTR-Truhe\\u00a0\\u2013 H\\u00f6llenkompasse",
+      "en": "PTR Cache - Infernal Compasses",
+      "quality": 5
+    },
+    "2394977": {
+      "de": "Kettenhammer",
+      "en": "Chain Hammer",
+      "quality": 5
+    },
+    "2396680": {
+      "de": "Verrottetes Abbild",
+      "en": "Rotted Effigy",
+      "quality": 5
+    },
+    "2482682": {
+      "de": "Molochfinesse (DNS)",
+      "en": "Juggernaut Finesse (DNS)",
+      "quality": 5
+    },
+    "2486402": {
+      "de": "Fanatikerinnovation",
+      "en": "Zealot Innovation",
+      "quality": 5
+    },
+    "2521947": {
+      "de": "Gro\\u00dfe Richtertruhe ",
+      "en": "Greater Judicator Cache ",
+      "quality": 5
+    },
+    "357929": {
+      "de": "Vergessene Seele",
+      "en": "Forgotten Soul",
+      "quality": 5
+    },
+    "385600": {
+      "de": "Torw\\u00e4chterschl\\u00fcssel",
+      "en": "Gate Guardian Key",
+      "quality": 5
+    },
+    "444428": {
+      "de": "Regentenr\\u00fcstung",
+      "en": "Sovereign Mail",
+      "quality": 5
+    },
+    "589173": {
+      "de": "Legendary Test Mace2H",
+      "en": "Legendary Test Mace2H",
+      "quality": 5
+    },
+    "589192": {
+      "de": "Legendary Test Scythe1H",
+      "en": "Legendary Test Scythe1H",
+      "quality": 5
+    },
+    "589195": {
+      "de": "Legendary Test Dagger1H",
+      "en": "Legendary Test Dagger1H",
+      "quality": 5
+    },
+    "591974": {
+      "de": "Jambiya",
+      "en": "Jambiya",
+      "quality": 5
+    },
+    "592018": {
+      "de": "Parashu",
+      "en": "Parashu",
+      "quality": 5
+    },
+    "592062": {
+      "de": "Kriegsschleuder",
+      "en": "Warcaster",
+      "quality": 5
+    },
+    "592216": {
+      "de": "Marodeursaxt",
+      "en": "Marauder Axe",
+      "quality": 5
+    },
+    "592219": {
+      "de": "Bullova",
+      "en": "Bullova",
+      "quality": 5
+    },
+    "592225": {
+      "de": "Sica",
+      "en": "Sica",
+      "quality": 5
+    },
+    "592227": {
+      "de": "Geschmolzener Lotus",
+      "en": "Molten Lotus",
+      "quality": 5
+    },
+    "592231": {
+      "de": "Spalthammer",
+      "en": "Crag Hammer",
+      "quality": 5
+    },
+    "592306": {
+      "de": "Sparr",
+      "en": "Sparr",
+      "quality": 5
+    },
+    "592308": {
+      "de": "Folterstab",
+      "en": "Torment Staff",
+      "quality": 5
+    },
+    "598508": {
+      "de": "Truhe der Habgier",
+      "en": "Cache of Avarice",
+      "quality": 5
+    },
+    "617838": {
+      "de": "Legendary Test Totem",
+      "en": "Legendary Test Totem",
+      "quality": 5
+    },
+    "1266297": {
+      "de": "Klappernde Knochen",
+      "en": "Rattling Bones",
+      "quality": 5
+    },
+    "1266838": {
+      "de": "Jaderelikt",
+      "en": "Jade Relic",
+      "quality": 5
+    },
+    "1267233": {
+      "de": "Beh\\u00e4nder Stab",
+      "en": "Nimble Staff",
+      "quality": 5
+    },
+    "1306592": {
+      "de": "Untergang",
+      "en": "Oblivion",
+      "quality": 5
+    },
+    "1306608": {
+      "de": "Entladung",
+      "en": "Fulmination",
+      "quality": 5
+    },
+    "1306958": {
+      "de": "Schaman\\u00adistischer Stab",
+      "en": "Shamanistic Staff",
+      "quality": 5
+    },
+    "1307058": {
+      "de": "K\\u00f6nigliche Knochenklinge",
+      "en": "Royal Boneblade",
+      "quality": 5
+    },
+    "1309405": {
+      "de": "\\u00d6se des Todlings",
+      "en": "Deathling's Eyelet",
+      "quality": 5
+    },
+    "1309573": {
+      "de": "Kriegsrats\\u00adband",
+      "en": "Warcouncil Band",
+      "quality": 5
+    },
+    "1311616": {
+      "de": "Erdenbad",
+      "en": "Bathed-in-earth",
+      "quality": 5
+    },
+    "1311624": {
+      "de": "Zirkel",
+      "en": "Hoop",
+      "quality": 5
+    },
+    "1311636": {
+      "de": "Anregungskreis",
+      "en": "Innervation Circle",
+      "quality": 5
+    },
+    "1311705": {
+      "de": "Echokreis",
+      "en": "Echo Circle",
+      "quality": 5
+    },
+    "1311777": {
+      "de": "Bezauberter Ring",
+      "en": "Ensorcelled Ring",
+      "quality": 5
+    },
+    "1511389": {
+      "de": "Geschw\\u00e4rzte Essenz",
+      "en": "Blackened Essence",
+      "quality": 5
+    },
+    "1630915": {
+      "de": "Kiste mit Vampirbeute",
+      "en": "Crate of Vampire Spoils",
+      "quality": 5
+    },
+    "1630923": {
+      "de": "Vampirische Signettruhe",
+      "en": "Vampiric Signet Cache",
+      "quality": 5
+    },
+    "1631258": {
+      "de": "Blutsucherwaffentruhe",
+      "en": "Blood Seeker's Weapon Cache",
+      "quality": 5
+    },
+    "1667666": {
+      "de": "Blutknochen\\u00adbeinverst\\u00e4rkung",
+      "en": "Blood Bone Leg Reinforcements",
+      "quality": 5
+    },
+    "1714761": {
+      "de": "Leitstein: Adrenalinschub",
+      "en": "Governing Stone: Flash of Adrenaline",
+      "quality": 5
+    },
+    "1714764": {
+      "de": "Leitstein: Autoverteidigung",
+      "en": "Governing Stone: Autodefense",
+      "quality": 5
+    },
+    "1714768": {
+      "de": "Leitstein: Gl\\u00fchw\\u00fcrmchen",
+      "en": "Governing Stone: Firefly",
+      "quality": 5
+    },
+    "1714804": {
+      "de": "Abstimmungsstein: Mehrfachschuss",
+      "en": "Tuning Stone: Multishot",
+      "quality": 5
+    },
+    "1766948": {
+      "de": "\\u00c4ltesten-Streitkolben",
+      "en": "Elder Mace",
+      "quality": 5
+    },
+    "1770100": {
+      "de": "Elegante Gleve",
+      "en": "Elegant Glaive",
+      "quality": 5
+    },
+    "1784159": {
+      "de": "Teufelszahn-Zauberstab",
+      "en": "Devil Tooth\\u00a0Wand",
+      "quality": 5
+    },
+    "1788514": {
+      "de": "Flammengleve",
+      "en": "Flame Glaive",
+      "quality": 5
+    },
+    "1788951": {
+      "de": "Jade\\u00adzauberstab",
+      "en": "Jade Wand",
+      "quality": 5
+    },
+    "1829398": {
+      "de": "Goldgleve",
+      "en": "Golden Glaive",
+      "quality": 5
+    },
+    "1843221": {
+      "de": "Goldener Kampfstab",
+      "en": "Golden Quarterstaff",
+      "quality": 5
+    },
+    "1861353": {
+      "de": "Barbarenbewegung",
+      "en": "Barbarian Motion",
+      "quality": 5
+    },
+    "1862212": {
+      "de": "Barbarenschutz (Verm\\u00e4chtnis)",
+      "en": "Barbarian Protection (Legacy)",
+      "quality": 5
+    },
+    "1867947": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "quality": 5
+    },
+    "1868588": {
+      "de": "Blutfinesse",
+      "en": "Blood Finesse",
+      "quality": 5
+    },
+    "1868790": {
+      "de": "Meisterwerks\\u00admetall",
+      "en": "Mastercraft Metal",
+      "quality": 5
+    },
+    "1873413": {
+      "de": "J\\u00e4gertarnung",
+      "en": "Rogue Cloaking",
+      "quality": 5
+    },
+    "1873421": {
+      "de": "J\\u00e4gerbewegung",
+      "en": "Rogue Motion",
+      "quality": 5
+    },
+    "1873434": {
+      "de": "Gaunerfinesse",
+      "en": "Scoundrel Finesse",
+      "quality": 5
+    },
+    "1875349": {
+      "de": "Stiefel des Unheilvollen Vorhabens",
+      "en": "Boots of Baleful Intent",
+      "quality": 5
+    },
+    "1880220": {
+      "de": "Dienerzunahmen",
+      "en": "Minion Augments",
+      "quality": 5
+    },
+    "1885041": {
+      "de": "Gef\\u00e4hrten\\u00adinnovation",
+      "en": "Companion Innovation",
+      "quality": 5
+    },
+    "1885047": {
+      "de": "Gef\\u00e4hrteneffizienz",
+      "en": "Companion Efficiency",
+      "quality": 5
+    },
+    "1885053": {
+      "de": "Sturmfinesse",
+      "en": "Storm Finesse",
+      "quality": 5
+    },
+    "1894208": {
+      "de": "Waffenkiste der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Weapon Case",
+      "quality": 5
+    },
+    "1894218": {
+      "de": "Zur\\u00fcckerlangtes Medaillon der Eisenw\\u00f6lfe",
+      "en": "Reclaimed Medallion of the Iron Wolves",
+      "quality": 5
+    },
+    "1895472": {
+      "de": "R\\u00fcstzeugtresor der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Armory Safe",
+      "quality": 5
+    },
+    "1895740": {
+      "de": "K\\u00e4stchen der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves Vanity Chest",
+      "quality": 5
+    },
+    "1895742": {
+      "de": "Anf\\u00fchrer\\u00adhandschuhe",
+      "en": "Captain's Gloves",
+      "quality": 5
+    },
+    "1895745": {
+      "de": "R\\u00fcstzeug der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Armory",
+      "quality": 5
+    },
+    "1898527": {
+      "de": "Tunika",
+      "en": "Tunic",
+      "quality": 5
+    },
+    "1898540": {
+      "de": "Jade\\u00adzauberstab",
+      "en": "Jade Wand",
+      "quality": 5
+    },
+    "1900657": {
+      "de": "Truhe des Zerstreuten Prismas",
+      "en": "Scattered Prism Cache",
+      "quality": 5
+    },
+    "1907193": {
+      "de": "Truhe des Champions",
+      "en": "Champion's Cache",
+      "quality": 5
+    },
+    "1907195": {
+      "de": "Truhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Cache",
+      "quality": 5
+    },
+    "1914903": {
+      "de": "Raheir-Truhe",
+      "en": "Raheir Cache",
+      "quality": 5
+    },
+    "1924568": {
+      "de": "Waffeneinstimmung\\u00a0\\u2013 Barbar",
+      "en": "Weapon Attunement \\u2014 Barbarian",
+      "quality": 5
+    },
+    "1926142": {
+      "de": "Totenbeschw\\u00f6rer\\u00adbewegung",
+      "en": "Necromancer Motion",
+      "quality": 5
+    },
+    "1926183": {
+      "de": "Waffeneinstimmung\\u00a0\\u2013 Totenbeschw\\u00f6rer",
+      "en": "Weapon Attunement \\u2014 Necromancer",
+      "quality": 5
+    },
+    "1927461": {
+      "de": "Frostzunahmen",
+      "en": "Frost Augments",
+      "quality": 5
+    },
+    "1927490": {
+      "de": "Beschw\\u00f6rungsfinesse",
+      "en": "Conjuration Finesse",
+      "quality": 5
+    },
+    "1931250": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1931268": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1931432": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1931593": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1939126": {
+      "de": "[PH] Coiling Ward Cache",
+      "en": "[PH] Coiling Ward Cache",
+      "quality": 5
+    },
+    "1963734": {
+      "de": "Truhe: Vierte Reise",
+      "en": "Fourth Journey Cache",
+      "quality": 5
+    },
+    "1963746": {
+      "de": "Handwerkstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Crafting Cache",
+      "quality": 5
+    },
+    "2017356": {
+      "de": "Barbareninnovation",
+      "en": "Barbarian Innovation",
+      "quality": 5
+    },
+    "2058689": {
+      "de": "Geistgeborenen\\u00adschutz",
+      "en": "Spiritborn Guard",
+      "quality": 5
+    },
+    "2085436": {
+      "de": "Blutinnovation",
+      "en": "Blood Innovation",
+      "quality": 5
+    },
+    "2087588": {
+      "de": "Agilit\\u00e4tszunahmen",
+      "en": "Agile Augments",
+      "quality": 5
+    },
+    "2100471": {
+      "de": "Erdzunahmen",
+      "en": "Soil Augments",
+      "quality": 5
+    },
+    "2106047": {
+      "de": "Fenster der Sch\\u00f6pfung",
+      "en": "Window to Creation",
+      "quality": 5
+    },
+    "2106133": {
+      "de": "Verm\\u00e4chtnis der Schande",
+      "en": "Legacy of Disgrace",
+      "quality": 5
+    },
+    "2106137": {
+      "de": "W\\u00e4rme des Besch\\u00fctzers",
+      "en": "Protectors' Warmth",
+      "quality": 5
+    },
+    "2106426": {
+      "de": "Bossbeschw\\u00f6rung",
+      "en": "Boss Summoning",
+      "quality": 5
+    },
+    "2106428": {
+      "de": "Ressourcenaspekte",
+      "en": "Resource Aspects",
+      "quality": 5
+    },
+    "2107422": {
+      "de": "Varyana-Truhe der Vollendung",
+      "en": "Varyana Masterworking Cache",
+      "quality": 5
+    },
+    "2108257": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Klassenspezifische H\\u00e4rtungsanleitungen",
+      "en": "PTR Cache - Class Temper Manuals",
+      "quality": 5
+    },
+    "2108266": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Runen der Anrufung",
+      "en": "PTR Cache - Runes of Invocation",
+      "quality": 5
+    },
+    "2108287": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Zuf\\u00e4llige legend\\u00e4re Gegenst\\u00e4nde",
+      "en": "PTR Cache - Random Legendaries",
+      "quality": 5
+    },
+    "2112099": {
+      "de": "Zunahmen\\u00a0\\u2013 Meucheln",
+      "en": "Cutthroat Augments",
+      "quality": 5
+    },
+    "2125003": {
+      "de": "Zaubererinnovation\\u00a0\\u2013 Feurig",
+      "en": "Sorcerer Innovation \\u2014 Fiery",
+      "quality": 5
+    },
+    "2125624": {
+      "de": "Truhe des Schl\\u00e4chters",
+      "en": "Slayer's Cache",
+      "quality": 5
+    },
+    "2125626": {
+      "de": "Beschw\\u00f6rungstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Summoning Cache",
+      "quality": 5
+    },
+    "2153270": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Rubin",
+      "en": "Legendary Ring Cache - Ruby",
+      "quality": 5
+    },
+    "2154388": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Saphir",
+      "en": "Sapphire Jewelry Cache",
+      "quality": 5
+    },
+    "2154391": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Saphir",
+      "en": "Legendary Ring Cache - Sapphire",
+      "quality": 5
+    },
+    "2156388": {
+      "de": "Vermachte Chaossammlung ",
+      "en": "Ancestral Collection of Chaos ",
+      "quality": 5
+    },
+    "2162467": {
+      "de": "Legend\\u00e4re Zirkelkiste",
+      "en": "Legendary Coven Crate",
+      "quality": 5
+    },
+    "2162498": {
+      "de": "Elemente des Erzfeindes",
+      "en": "Elements of Nemesis",
+      "quality": 5
+    },
+    "2162539": {
+      "de": "Gro\\u00dfe Elemente der Hexenmacht",
+      "en": "Greater Elements of Witchcraft",
+      "quality": 5
+    },
+    "2168647": {
+      "de": "Geisterstunde",
+      "en": "Witching Hour",
+      "quality": 5
+    },
+    "2172693": {
+      "de": "Schatztasche",
+      "en": "Treasure Bag",
+      "quality": 5
+    },
+    "2172975": {
+      "de": "Gro\\u00dfe Schatztasche ",
+      "en": "Greater Treasure Bag ",
+      "quality": 5
+    },
+    "2173014": {
+      "de": "Gro\\u00dfe Schatztasche ",
+      "en": "Greater Treasure Bag ",
+      "quality": 5
+    },
+    "2173021": {
+      "de": "Zitadellen-Schatztasche",
+      "en": "Citadel Treasure Bag",
+      "quality": 5
+    },
+    "2178158": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Horadrische Juwelen",
+      "en": "PTR Cache - Horadric Jewels",
+      "quality": 5
+    },
+    "2180752": {
+      "de": "Werwolf-Finesse",
+      "en": "Werewolf Finesse",
+      "quality": 5
+    },
+    "2297696": {
+      "de": "[PH] Fear Jewel",
+      "en": "[PH] Fear Jewel",
+      "quality": 5
+    },
+    "2394970": {
+      "de": "Bestienbrecher",
+      "en": "Beastbreaker",
+      "quality": 5
+    },
+    "2401594": {
+      "de": "Beute Sanktuarios",
+      "en": "Spoils of Sanctuary",
+      "quality": 5
+    },
+    "2432322": {
+      "de": "PTR Cache - Chaos Armor - Chest Armor",
+      "en": "PTR Cache - Chaos Armor - Chest Armor",
+      "quality": 5
+    },
+    "2480090": {
+      "de": "Richterzunahmen",
+      "en": "Judicator Augments",
+      "quality": 5
+    },
+    "444434": {
+      "de": "Archaische Sabatons",
+      "en": "Primal Sabatons",
+      "quality": 5
+    },
+    "589184": {
+      "de": "Legendary Test Sword2H",
+      "en": "Legendary Test Sword2H",
+      "quality": 5
+    },
+    "589191": {
+      "de": "Legendary Test Staff2H",
+      "en": "Legendary Test Staff2H",
+      "quality": 5
+    },
+    "589219": {
+      "de": "Legendary Test Focus",
+      "en": "Legendary Test Focus",
+      "quality": 5
+    },
+    "589221": {
+      "de": "Legendary Test Chest",
+      "en": "Legendary Test Chest",
+      "quality": 5
+    },
+    "589229": {
+      "de": "Legendary Test Boots",
+      "en": "Legendary Test Boots",
+      "quality": 5
+    },
+    "589235": {
+      "de": "Legendary Test Gloves",
+      "en": "Legendary Test Gloves",
+      "quality": 5
+    },
+    "589237": {
+      "de": "Legendary Test Shield",
+      "en": "Legendary Test Shield",
+      "quality": 5
+    },
+    "589238": {
+      "de": "Legendary Test Ring",
+      "en": "Legendary Test Ring",
+      "quality": 5
+    },
+    "592006": {
+      "de": "Knochenzauberstab",
+      "en": "Bone Wand",
+      "quality": 5
+    },
+    "592009": {
+      "de": "Chepesch",
+      "en": "Khopesh",
+      "quality": 5
+    },
+    "592071": {
+      "de": "Kriegslanze",
+      "en": "War Crest",
+      "quality": 5
+    },
+    "592240": {
+      "de": "Steinerne Sense",
+      "en": "Stone Scythe",
+      "quality": 5
+    },
+    "592265": {
+      "de": "Urzeitfetisch",
+      "en": "Primordial Fetish",
+      "quality": 5
+    },
+    "592296": {
+      "de": "Wiederg\\u00e4ngerbogen",
+      "en": "Revenant Bow",
+      "quality": 5
+    },
+    "592297": {
+      "de": "Belagerungsbogen",
+      "en": "Siege Bow",
+      "quality": 5
+    },
+    "592307": {
+      "de": "Glorreicher Stab",
+      "en": "Glorious Staff",
+      "quality": 5
+    },
+    "592388": {
+      "de": "Unentzifferbares Signet",
+      "en": "Indecipherable Signet",
+      "quality": 5
+    },
+    "592390": {
+      "de": "S\\u00fcdlandring",
+      "en": "Southland Loop",
+      "quality": 5
+    },
+    "1092140": {
+      "de": "Gro\\u00dfe Zweihandwaffen\\u00adsammlung",
+      "en": "Greater Collection of Two-Handed Weapons",
+      "quality": 5
+    },
+    "1092142": {
+      "de": "Gro\\u00dfe Amulettsammlung",
+      "en": "Greater Collection of Amulets",
+      "quality": 5
+    },
+    "1092155": {
+      "de": "Gro\\u00dfe Ringsammlung",
+      "en": "Greater Collection of Rings",
+      "quality": 5
+    },
+    "1266271": {
+      "de": "Wirbelstab",
+      "en": "Spinal Wand",
+      "quality": 5
+    },
+    "1266989": {
+      "de": "Zwillingsklinge",
+      "en": "Twin-blade",
+      "quality": 5
+    },
+    "1267240": {
+      "de": "H\\u00fcgelstein",
+      "en": "Cairnstone",
+      "quality": 5
+    },
+    "1267255": {
+      "de": "Stechender Wind",
+      "en": "Piercing Wind",
+      "quality": 5
+    },
+    "1305064": {
+      "de": "Gezackter Spalter",
+      "en": "Serrated  Cleaver",
+      "quality": 5
+    },
+    "1306610": {
+      "de": "Glorreicher Stab",
+      "en": "Glorious Staff",
+      "quality": 5
+    },
+    "1306893": {
+      "de": "Ritualstab",
+      "en": "Ritual Staff",
+      "quality": 5
+    },
+    "1306950": {
+      "de": "Mondlicht",
+      "en": "Moonlight",
+      "quality": 5
+    },
+    "1306956": {
+      "de": "Runenstab",
+      "en": "Runic Staff",
+      "quality": 5
+    },
+    "1309347": {
+      "de": "Schlund des Tausendf\\u00fc\\u00dfers",
+      "en": "Centipede's Maw",
+      "quality": 5
+    },
+    "1309365": {
+      "de": "Kette",
+      "en": "Chain",
+      "quality": 5
+    },
+    "1311638": {
+      "de": "Kreis",
+      "en": "Circle",
+      "quality": 5
+    },
+    "1393126": {
+      "de": "Beute der Habgier",
+      "en": "Avarice's Spoils",
+      "quality": 5
+    },
+    "1520478": {
+      "de": "Truhe: Siebte Reise",
+      "en": "Seventh Journey Cache",
+      "quality": 5
+    },
+    "1630826": {
+      "de": "R\\u00fcstzeug des Blutf\\u00fcrsten",
+      "en": "Blood Lord's Armory",
+      "quality": 5
+    },
+    "1630905": {
+      "de": "Pers\\u00f6nliche Habe eines Blutsuchers",
+      "en": "Blood Seekers Personal Effects",
+      "quality": 5
+    },
+    "1653055": {
+      "de": "Sack mit vampirischen Torques",
+      "en": "Sack of Vampiric Torques",
+      "quality": 5
+    },
+    "1667662": {
+      "de": "Vampirische Signettruhe",
+      "en": "Vampiric Signet Cache",
+      "quality": 5
+    },
+    "1680126": {
+      "de": "[PH]Scroll of Fast Growth",
+      "en": "[PH]Scroll of Fast Growth",
+      "quality": 5
+    },
+    "1714766": {
+      "de": "Leitstein: Auflauern",
+      "en": "Governing Stone: Bushwhack",
+      "quality": 5
+    },
+    "1714774": {
+      "de": "Leitstein: Pf\\u00e4hlen",
+      "en": "Governing Stone: Impale",
+      "quality": 5
+    },
+    "1714788": {
+      "de": "Leitstein: Orkan",
+      "en": "Governing Stone: Tempest",
+      "quality": 5
+    },
+    "1714806": {
+      "de": "Abstimmungsstein: Durchbohren",
+      "en": "Tuning Stone: Piercing",
+      "quality": 5
+    },
+    "1716785": {
+      "de": "Truhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Cache",
+      "quality": 5
+    },
+    "1720855": {
+      "de": "Abstimmungsstein: Brechen",
+      "en": "Tuning Stone: Breaking",
+      "quality": 5
+    },
+    "1723628": {
+      "de": "Abstimmungsstein: Taktisch",
+      "en": "Tuning Stone: Tactical",
+      "quality": 5
+    },
+    "1738246": {
+      "de": "S\\u00e4belzahnsichel",
+      "en": "Sawtooth\\u00a0Sickle",
+      "quality": 5
+    },
+    "1764754": {
+      "de": "Vielf\\u00e4ltiger Stock",
+      "en": "Manifold Cane",
+      "quality": 5
+    },
+    "1768297": {
+      "de": "Z\\u00e4hne der Natur",
+      "en": "Nature's Teeth",
+      "quality": 5
+    },
+    "1772371": {
+      "de": "Scharfe Gleve",
+      "en": "Sharp Glaive",
+      "quality": 5
+    },
+    "1781093": {
+      "de": "Kriegsversammlung-Totem",
+      "en": "Warmuster Totem",
+      "quality": 5
+    },
+    "1788779": {
+      "de": "Malaphische Kurve",
+      "en": "Malaphic Curve",
+      "quality": 5
+    },
+    "1805530": {
+      "de": "Truhe der Pr\\u00fcfungen",
+      "en": "Cache of Trials",
+      "quality": 5
+    },
+    "1805548": {
+      "de": "Truhe der W\\u00fcrdigen",
+      "en": "Cache of Worthy",
+      "quality": 5
+    },
+    "1809574": {
+      "de": "Jade-Armbrust",
+      "en": "Jade Crossbow",
+      "quality": 5
+    },
+    "1814707": {
+      "de": "Panzergleve",
+      "en": "Armored Glaive",
+      "quality": 5
+    },
+    "1814709": {
+      "de": "Goldene Stangenwaffe",
+      "en": "Golden Polearm",
+      "quality": 5
+    },
+    "1814724": {
+      "de": "Gewobener Kampfstab",
+      "en": "Woven Quarterstaff",
+      "quality": 5
+    },
+    "1814943": {
+      "de": "\\u00c4ltesten-Geisterarmbrust",
+      "en": "Elder Spirit Crossbow",
+      "quality": 5
+    },
+    "1821789": {
+      "de": "Jadegleve",
+      "en": "Jade Glaive",
+      "quality": 5
+    },
+    "1821898": {
+      "de": "Schicker Kampfstab",
+      "en": "Fancy Quarterstaff",
+      "quality": 5
+    },
+    "1828575": {
+      "de": "Stangenwaffe des Teufels",
+      "en": "Devil's Polearm",
+      "quality": 5
+    },
+    "1830211": {
+      "de": "Schwarzholzkeule",
+      "en": "Blackwood Club",
+      "quality": 5
+    },
+    "1836224": {
+      "de": "Reptilstab",
+      "en": "Reptilian Staff",
+      "quality": 5
+    },
+    "1837329": {
+      "de": "Gefiederte Stangenwaffe",
+      "en": "Feathered Polearm",
+      "quality": 5
+    },
+    "1861324": {
+      "de": "Barbaren\\u00adstrategie",
+      "en": "Barbarian Strategy",
+      "quality": 5
+    },
+    "1868198": {
+      "de": "Totenbeschw\\u00f6rer\\u00adeffizienz",
+      "en": "Necromancer Efficiency",
+      "quality": 5
+    },
+    "1868565": {
+      "de": "Blutbest\\u00e4ndigkeit",
+      "en": "Blood Endurance",
+      "quality": 5
+    },
+    "1868590": {
+      "de": "Knochenfinesse",
+      "en": "Bone Finesse",
+      "quality": 5
+    },
+    "1873022": {
+      "de": "[PH] Hell Affix",
+      "en": "[PH] Hell Affix",
+      "quality": 5
+    },
+    "1873418": {
+      "de": "J\\u00e4gererholung",
+      "en": "Rogue Recovery",
+      "quality": 5
+    },
+    "1873432": {
+      "de": "Geschickte Finesse",
+      "en": "Skillful Finesse",
+      "quality": 5
+    },
+    "1880202": {
+      "de": "\\u00d6dlandinnovation",
+      "en": "Wasteland Innovation",
+      "quality": 5
+    },
+    "1881993": {
+      "de": "J\\u00e4gerkr\\u00e4ftigung",
+      "en": "Rogue Invigoration",
+      "quality": 5
+    },
+    "1885019": {
+      "de": "Erdzunahmen",
+      "en": "Earth Augments",
+      "quality": 5
+    },
+    "1885045": {
+      "de": "Werwolfzunahmen",
+      "en": "Werewolf Augments",
+      "quality": 5
+    },
+    "1885049": {
+      "de": "Druidenkr\\u00e4ftigung",
+      "en": "Druid Invigoration",
+      "quality": 5
+    },
+    "1885055": {
+      "de": "Gestaltwandelfinesse",
+      "en": "Shapeshifting Finesse",
+      "quality": 5
+    },
+    "1894945": {
+      "de": "Stangenwaffe des Teufels",
+      "en": "Devil's Polearm",
+      "quality": 5
+    },
+    "1894950": {
+      "de": "Nessel-Streitkolben",
+      "en": "Nettle Mace",
+      "quality": 5
+    },
+    "1894954": {
+      "de": "Schwarze Schiene",
+      "en": "Black Rail",
+      "quality": 5
+    },
+    "1894956": {
+      "de": "S\\u00e4belzahn\\u00adsichel",
+      "en": "Sawtooth\\u00a0Sickle",
+      "quality": 5
+    },
+    "1894960": {
+      "de": "Nobler Schlitzer",
+      "en": "Noble Slice",
+      "quality": 5
+    },
+    "1895549": {
+      "de": "Faulige Seelensammlung",
+      "en": "Putrid Soul Collection",
+      "quality": 5
+    },
+    "1895728": {
+      "de": "Kr\\u00e4utersammler\\u00adschatz der Eisenw\\u00f6lfe",
+      "en": "Iron Wolves' Herbalist Hoard",
+      "quality": 5
+    },
+    "1898521": {
+      "de": "Beinschutz",
+      "en": "Pants",
+      "quality": 5
+    },
+    "1898538": {
+      "de": "S\\u00e4ugerfluch-Bogen",
+      "en": "Mammalbane Bow",
+      "quality": 5
+    },
+    "1898542": {
+      "de": "Kriegsversammlung-Totem",
+      "en": "Warmuster Totem",
+      "quality": 5
+    },
+    "1898544": {
+      "de": "Ende des Kaisers",
+      "en": "Emperor's End",
+      "quality": 5
+    },
+    "1900648": {
+      "de": "Bossbeschw\\u00f6rungs\\u00adtruhe",
+      "en": "Boss Summoning Cache",
+      "quality": 5
+    },
+    "1907187": {
+      "de": "Truhe: Dritte Reise",
+      "en": "Third Journey Cache",
+      "quality": 5
+    },
+    "1907189": {
+      "de": "Truhe: Vierte Reise",
+      "en": "Fourth Journey Cache",
+      "quality": 5
+    },
+    "1915959": {
+      "de": "Truhe des Abstrusen Siegels",
+      "en": "Abstruse Sigil Cache",
+      "quality": 5
+    },
+    "1915973": {
+      "de": "Beschw\\u00f6rungstruhe der Bestie im Eis",
+      "en": "Beast in the Ice Summoning Cache",
+      "quality": 5
+    },
+    "1919725": {
+      "de": "Truhe des Offensivaspekts",
+      "en": "Offensive Aspect Cache",
+      "quality": 5
+    },
+    "1919741": {
+      "de": "[PH] Offensive Aspect Cache II",
+      "en": "[PH] Offensive Aspect Cache II",
+      "quality": 5
+    },
+    "1925125": {
+      "de": "Beschw\\u00f6rungstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Summoning Cache",
+      "quality": 5
+    },
+    "1927398": {
+      "de": "Druidenbewegung",
+      "en": "Druid Motion",
+      "quality": 5
+    },
+    "1927494": {
+      "de": "Beschw\\u00f6rungseffizienz",
+      "en": "Conjuration Efficiency",
+      "quality": 5
+    },
+    "1931436": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1931440": {
+      "de": "Gro\\u00dfe Schatztasche",
+      "en": "Greater Treasure Bag",
+      "quality": 5
+    },
+    "1942925": {
+      "de": "Ausr\\u00fcstungstruhe: Erste Reise",
+      "en": "First Journey Equipment Cache",
+      "quality": 5
+    },
+    "1945815": {
+      "de": "Ausr\\u00fcstungstruhe: Zweite Reise",
+      "en": "Second Journey Equipment Cache",
+      "quality": 5
+    },
+    "1945817": {
+      "de": "Ausr\\u00fcstungstruhe: Dritte Reise",
+      "en": "Third Journey Equipment Cache",
+      "quality": 5
+    },
+    "1945840": {
+      "de": "Handwerkstruhe: Dritte Reise",
+      "en": "Third Journey Crafting Cache",
+      "quality": 5
+    },
+    "1945842": {
+      "de": "Handwerkstruhe: Vierte Reise",
+      "en": "Fourth Journey Crafting Cache",
+      "quality": 5
+    },
+    "1945844": {
+      "de": "Handwerkstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Crafting Cache",
+      "quality": 5
+    },
+    "1945848": {
+      "de": "Handwerkstruhe des Zerst\\u00f6rers",
+      "en": "Destroyer's Crafting Cache",
+      "quality": 5
+    },
+    "1947200": {
+      "de": "Beschw\\u00f6rungstruhe: Vierte Reise",
+      "en": "Fourth Journey Summoning Cache",
+      "quality": 5
+    },
+    "1954469": {
+      "de": "Verl\\u00e4ssliche Truhe der Eisenw\\u00f6lfe",
+      "en": "The Iron Wolves' Dependable Cache",
+      "quality": 5
+    },
+    "1954471": {
+      "de": "Verl\\u00e4ssliches Trio der Eisenw\\u00f6lfe",
+      "en": "The Iron Wolves' Most Dependable",
+      "quality": 5
+    },
+    "1960152": {
+      "de": "Heilige Waffentruhe der Triune",
+      "en": "Sacred Triune Arms Cache",
+      "quality": 5
+    },
+    "1962936": {
+      "de": "Gro\\u00dfe Obduzit-Truhe II",
+      "en": "Large Obducite Cache II",
+      "quality": 5
+    },
+    "1962938": {
+      "de": "Gro\\u00dfe Obduzit-Truhe I",
+      "en": "Large Obducite Cache I",
+      "quality": 5
+    },
+    "1963718": {
+      "de": "Ausr\\u00fcstungstruhe: Erste Reise",
+      "en": "First Journey Equipment Cache",
+      "quality": 5
+    },
+    "1963728": {
+      "de": "Beschw\\u00f6rungstruhe: Dritte Reise",
+      "en": "Third Journey Summoning Cache",
+      "quality": 5
+    },
+    "1963732": {
+      "de": "Ausr\\u00fcstungstruhe: Dritte Reise",
+      "en": "Third Journey Equipment Cache",
+      "quality": 5
+    },
+    "1963738": {
+      "de": "Handwerkstruhe: Vierte Reise",
+      "en": "Fourth Journey Crafting Cache",
+      "quality": 5
+    },
+    "1963740": {
+      "de": "Ausr\\u00fcstungstruhe: Vierte Reise",
+      "en": "Fourth Journey Equipment Cache",
+      "quality": 5
+    },
+    "1963742": {
+      "de": "Truhe des Schl\\u00e4chters",
+      "en": "Slayer's Cache",
+      "quality": 5
+    },
+    "1970413": {
+      "de": "Zepter des Weltenw\\u00e4chters",
+      "en": "Realmwarden's Scepter",
+      "quality": 5
+    },
+    "2007697": {
+      "de": "Totenbeschw\\u00f6rer-Mauer",
+      "en": "Necromancer Wall",
+      "quality": 5
+    },
+    "2025930": {
+      "de": "Effektrunen-Truhe",
+      "en": "Effect Runes Cache",
+      "quality": 5
+    },
+    "2058721": {
+      "de": "Geistgeborenen\\u00adbewegung",
+      "en": "Spiritborn Motion",
+      "quality": 5
+    },
+    "2058820": {
+      "de": "Eignungseffizienz",
+      "en": "Fitness Efficiency",
+      "quality": 5
+    },
+    "2058875": {
+      "de": "Jaguarinnovation",
+      "en": "Jaguar Innovation",
+      "quality": 5
+    },
+    "2088111": {
+      "de": "Truhe: Dritte Reise",
+      "en": "Third Journey Cache",
+      "quality": 5
+    },
+    "2088113": {
+      "de": "Beschw\\u00f6rungstruhe: Dritte Reise",
+      "en": "Third Journey Summoning Cache",
+      "quality": 5
+    },
+    "2088115": {
+      "de": "Handwerkstruhe: Dritte Reise",
+      "en": "Third Journey Crafting Cache",
+      "quality": 5
+    },
+    "2088119": {
+      "de": "Truhe: Vierte Reise",
+      "en": "Fourth Journey Cache",
+      "quality": 5
+    },
+    "2088125": {
+      "de": "Ausr\\u00fcstungstruhe: Vierte Reise",
+      "en": "Fourth Journey Equipment Cache",
+      "quality": 5
+    },
+    "2088127": {
+      "de": "Truhe des Schl\\u00e4chters",
+      "en": "Slayer's Cache",
+      "quality": 5
+    },
+    "2088129": {
+      "de": "Beschw\\u00f6rungstruhe des Schl\\u00e4chters",
+      "en": "Slayer's Summoning Cache",
+      "quality": 5
+    },
+    "2088135": {
+      "de": "Truhe des Champions",
+      "en": "Champion's Cache",
+      "quality": 5
+    },
+    "2088153": {
+      "de": "Handwerkstruhe: Vierte Reise",
+      "en": "Fourth Journey Crafting Cache",
+      "quality": 5
+    },
+    "2101067": {
+      "de": "Pyromaniezunahmen\\u00a0\\u2013 Feurig",
+      "en": "Pyromancy Augments \\u2014\\u00a0\\u00a0Fiery",
+      "quality": 5
+    },
+    "2101074": {
+      "de": "Frostzunahmen\\u00a0\\u2013 Eingefroren",
+      "en": "Frost Augments \\u2014\\u00a0\\u00a0Frozen",
+      "quality": 5
+    },
+    "2106015": {
+      "de": "Unterstadt-Almosen",
+      "en": "Undercity Alms",
+      "quality": 5
+    },
+    "2106040": {
+      "de": "Beute des Eroberers der Reiche",
+      "en": "Spoils of the Realm Conqueror",
+      "quality": 5
+    },
+    "2106062": {
+      "de": "Verm\\u00e4chtnis der Schande",
+      "en": "Legacy of Disgrace",
+      "quality": 5
+    },
+    "2106066": {
+      "de": "W\\u00e4rme des Besch\\u00fctzers",
+      "en": "Protectors' Warmth",
+      "quality": 5
+    },
+    "2106068": {
+      "de": "Que-Hegan-Stahl",
+      "en": "Que-Hegan Steel",
+      "quality": 5
+    },
+    "2106139": {
+      "de": "Que-Hegan-Stahl",
+      "en": "Que-Hegan Steel",
+      "quality": 5
+    },
+    "2106395": {
+      "de": "Defensivaspekte",
+      "en": "Defensive Aspects",
+      "quality": 5
+    },
+    "2106422": {
+      "de": "Vollendung",
+      "en": "Masterworking",
+      "quality": 5
+    },
+    "2106505": {
+      "de": "Raheir-Truhe der Vollendung",
+      "en": "Raheir Masterworking Cache",
+      "quality": 5
+    },
+    "2106568": {
+      "de": "Ausr\\u00fcstungstruhe",
+      "en": "Equipment Cache",
+      "quality": 5
+    },
+    "2107416": {
+      "de": "Varyana-Truhe",
+      "en": "Varyana Cache",
+      "quality": 5
+    },
+    "2107418": {
+      "de": "Aldkin-Truhe",
+      "en": "Aldkin Cache",
+      "quality": 5
+    },
+    "2107420": {
+      "de": "Subo-Truhe",
+      "en": "Subo Cache",
+      "quality": 5
+    },
+    "2107426": {
+      "de": "Subo-Truhe der Vollendung",
+      "en": "Subo Masterworking Cache",
+      "quality": 5
+    },
+    "2107436": {
+      "de": "Gro\\u00dfe Aldkin-Truhe",
+      "en": "Grand Aldkin Cache",
+      "quality": 5
+    },
+    "2108050": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Generische H\\u00e4rtungsanleitungen",
+      "en": "PTR Cache - Generic Temper Manuals",
+      "quality": 5
+    },
+    "2111667": {
+      "de": "Ritual-Kampfstab",
+      "en": "Ritual Quarterstaff",
+      "quality": 5
+    },
+    "2125608": {
+      "de": "Truhe: Dritte Reise",
+      "en": "Third Journey Cache",
+      "quality": 5
+    },
+    "2125610": {
+      "de": "Beschw\\u00f6rungstruhe: Dritte Reise",
+      "en": "Third Journey Summoning Cache",
+      "quality": 5
+    },
+    "2125614": {
+      "de": "Ausr\\u00fcstungstruhe: Dritte Reise",
+      "en": "Third Journey Equipment Cache",
+      "quality": 5
+    },
+    "2125620": {
+      "de": "Handwerkstruhe: Vierte Reise",
+      "en": "Fourth Journey Crafting Cache",
+      "quality": 5
+    },
+    "2152966": {
+      "de": "Kriegstruhe der Triune",
+      "en": "Triune War Chest",
+      "quality": 5
+    },
+    "2152982": {
+      "de": "Vermachte Waffentruhe des Zirkels",
+      "en": "Ancestral Coven Arms Cache",
+      "quality": 5
+    },
+    "2153196": {
+      "de": "Schmucktruhe\\u00a0\\u2013 Rubin",
+      "en": "Ruby Jewelry Cache",
+      "quality": 5
+    },
+    "2153294": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Diamant",
+      "en": "Legendary Ring Cache - Diamond",
+      "quality": 5
+    },
+    "2154374": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Smaragd",
+      "en": "Legendary Ring Cache - Emerald",
+      "quality": 5
+    },
+    "2154412": {
+      "de": "Truhe mit legend\\u00e4rem Ring\\u00a0\\u2013 Sch\\u00e4del",
+      "en": "Legendary Ring Cache - Skull",
+      "quality": 5
+    },
+    "2156386": {
+      "de": "Vermachte Stiefelsammlung ",
+      "en": "Ancestral Collection of Boots ",
+      "quality": 5
+    },
+    "2156390": {
+      "de": "Vermachte Brustpanzersammlung ",
+      "en": "Ancestral Collection of Chestplates ",
+      "quality": 5
+    },
+    "2156396": {
+      "de": "Vermachte Beinsch\\u00fctzersammlung ",
+      "en": "Ancestral Collection of Leg Guards ",
+      "quality": 5
+    },
+    "2156398": {
+      "de": "Vermachte Ringsammlung ",
+      "en": "Ancestral Collection of Rings ",
+      "quality": 5
+    },
+    "2160565": {
+      "de": "Mondlichtschutz",
+      "en": "Moonlight Ward",
+      "quality": 5
+    },
+    "2161198": {
+      "de": "Unendliche Geschenke der Urahnen",
+      "en": "Unceasing Gifts from the Ancestors",
+      "quality": 5
+    },
+    "2164979": {
+      "de": "Geringe Elemente des Erzfeindes",
+      "en": "Lesser Elements of Nemesis",
+      "quality": 5
+    },
+    "2172921": {
+      "de": "Schatztasche",
+      "en": "Treasure Bag",
+      "quality": 5
+    },
+    "2172923": {
+      "de": "Nahantu-Schatz\\u00adtasche",
+      "en": "Nahantu Treasure Bag",
+      "quality": 5
+    },
+    "2174915": {
+      "de": "Gro\\u00dfe Raufboldtruhe ",
+      "en": "Greater Brawler Cache ",
+      "quality": 5
+    },
+    "2174959": {
+      "de": "Gro\\u00dfe Schocktruhe ",
+      "en": "Greater Shock Cache ",
+      "quality": 5
+    },
+    "2176081": {
+      "de": "Grimoire der Geisterstunde",
+      "en": "Witching Hour Grimoire",
+      "quality": 5
+    },
+    "2176083": {
+      "de": "Grimoire der Stimme der Sterne",
+      "en": "Voice of the Stars Grimoire",
+      "quality": 5
+    },
+    "2176085": {
+      "de": "Grimoire des Gedankenkranzes",
+      "en": "Mind Wreath Grimoire",
+      "quality": 5
+    },
+    "2176091": {
+      "de": "Grimoire des Freunds des Sumpfes",
+      "en": "Friend of the Bog Grimoire",
+      "quality": 5
+    },
+    "2176182": {
+      "de": "Gro\\u00dfe Bluttruhe ",
+      "en": "Greater Blood Cache ",
+      "quality": 5
+    },
+    "2177241": {
+      "de": "Geheimnisvolle gro\\u00dfe Archetyp-Truhe ",
+      "en": "Mystery Greater Archetype Cache ",
+      "quality": 5
+    },
+    "2177536": {
+      "de": "Gro\\u00dfe Chaossammlung",
+      "en": "Greater Collection of Chaos",
+      "quality": 5
+    },
+    "2179149": {
+      "de": "Ectors Materialtasche",
+      "en": "Ector's Bag of Materials",
+      "quality": 5
+    },
+    "2179157": {
+      "de": "Syrus' Riesentasche",
+      "en": "Syrus's Heaping Bag",
+      "quality": 5
+    },
+    "2182078": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Saisonale W\\u00e4hrung",
+      "en": "PTR Cache - Seasonal Activity Items",
+      "quality": 5
+    },
+    "2203497": {
+      "de": "Legend\\u00e4re Runentruhe der Urahnen",
+      "en": "Ancestors' Legendary Runes Cache",
+      "quality": 5
+    },
+    "2211564": {
+      "de": "Unendliche legend\\u00e4re Runentruhe der Urahnen",
+      "en": "Unceasing Ancestors' Legendary Runes Cache",
+      "quality": 5
+    },
+    "2222918": {
+      "de": "Legend\\u00e4res Goblingeschenk",
+      "en": "Legendary Goblin Gift",
+      "quality": 5
+    },
+    "2231134": {
+      "de": "Unendliche Runentruhe des Goblins",
+      "en": "Goblin's Unceasing Rune Cache",
+      "quality": 5
+    },
+    "2264511": {
+      "de": "Eiskaltes Herz",
+      "en": "Frigid Heart",
+      "quality": 5
+    },
+    "2271800": {
+      "de": "Blutiger Zauber",
+      "en": "Bloody Charm",
+      "quality": 5
+    },
+    "2353965": {
+      "de": "Verzerrter Schutz",
+      "en": "Marred Guard",
+      "quality": 5
+    },
+    "2354015": {
+      "de": "Entweihung der Toten",
+      "en": "Defile the Dead",
+      "quality": 5
+    },
+    "2354196": {
+      "de": "Fernhalten",
+      "en": "Back Off!",
+      "quality": 5
+    },
+    "2361656": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2361658": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2361660": {
+      "de": "Belohnungstruhe der Horadrim",
+      "en": "Horadric Reward Cache",
+      "quality": 5
+    },
+    "2362069": {
+      "de": "PTR-Truhe\\u00a0\\u2013 Tribute",
+      "en": "PTR Cache - Tributes",
+      "quality": 5
+    },
+    "2394975": {
+      "de": "Grauensstachel",
+      "en": "Dreadspike",
+      "quality": 5
+    },
+    "2394981": {
+      "de": "Hautrei\\u00dfer",
+      "en": "Skinripper",
+      "quality": 5
+    },
+    "2400800": {
+      "de": "Gro\\u00dfe Truhe der Vollendung",
+      "en": "Greater Masterwork Cache",
+      "quality": 5
+    },
+    "2404341": {
+      "de": "Chaosmacht",
+      "en": "Chaotic Power",
+      "quality": 5
+    },
+    "2432346": {
+      "de": "PTR Cache - Chaos Armor - Gloves",
+      "en": "PTR Cache - Chaos Armor - Gloves",
+      "quality": 5
+    },
+    "2432400": {
+      "de": "PTR Cache - Chaos Armor - Legs",
+      "en": "PTR Cache - Chaos Armor - Legs",
+      "quality": 5
+    },
+    "2484677": {
+      "de": "Paladinerholung",
+      "en": "Paladin Recovery",
+      "quality": 5
+    },
+    "2516769": {
+      "de": "Geheimnisvolle gro\\u00dfe Archetyp-Truhe ",
+      "en": "Mystery Greater Archetype Cache ",
+      "quality": 5
+    },
+    "2519338": {
+      "de": "Gro\\u00dfe Fanatikertruhe ",
+      "en": "Greater Zealot Cache ",
+      "quality": 5
+    },
+    "2521907": {
+      "de": "Gro\\u00dfe Molochtruhe ",
+      "en": "Greater Juggernaut Cache ",
+      "quality": 5
+    }
+  },
+  "aspects": {
+    "2448316": {
+      "de": "Aspekt des Aufstiegs",
+      "en": "Aspect of Ascension",
+      "quality": null
+    },
+    "2419796": {
+      "de": "Aspekt des himmlischen Zwists",
+      "en": "Aspect of Celestial Strife",
+      "quality": null
+    },
+    "1925377": {
+      "de": "Aspekt des aufgeladenen Blitzes",
+      "en": "Aspect of Charged Flash",
+      "quality": null
+    },
+    "2465855": {
+      "de": "Aspekt des Gebieterzephyrs",
+      "en": "Aspect of the Arbiter's Zephyr",
+      "quality": null
+    },
+    "2164939": {
+      "de": "Keilender Aspekt",
+      "en": "Vehement Brawler's Aspect",
+      "quality": null
+    },
+    "578845": {
+      "de": "Eitler Aspekt",
+      "en": "Conceited Aspect",
+      "quality": null
+    },
+    "578784": {
+      "de": "Aspekt der Vergeltung",
+      "en": "Aspect of Retribution",
+      "quality": null
+    },
+    "2439349": {
+      "de": "Aspekt der Unbeugsamen",
+      "en": "Aspect of the Indomitable",
+      "quality": null
+    },
+    "1919997": {
+      "de": "Wildblitzender Aspekt",
+      "en": "Wildbolt Aspect",
+      "quality": null
+    },
+    "578764": {
+      "de": "Aspekt der Erdbeben",
+      "en": "Aspect of Earthquakes",
+      "quality": null
+    },
+    "1814245": {
+      "de": "Aspekt der tollw\\u00fctigen Bestie",
+      "en": "Aspect of the Rabid Beast",
+      "quality": null
+    },
+    "578792": {
+      "de": "Aspekt des Ungehorsams",
+      "en": "Aspect of Disobedience",
+      "quality": null
+    },
+    "2470741": {
+      "de": "Aspekt der heiligen Bestrafung",
+      "en": "Aspect of Holy Punishment",
+      "quality": null
+    },
+    "667442": {
+      "de": "Schlachth\\u00e4uptlings Aspekt",
+      "en": "Bold Chieftain's Aspect",
+      "quality": null
+    },
+    "1743946": {
+      "de": "Aspekt der zerfetzenden Klingen",
+      "en": "Aspect of Shredding Blades",
+      "quality": null
+    },
+    "1229076": {
+      "de": "Aspekt der z\\u00fcgigen Verbindung",
+      "en": "Aspect of the Bounding Conduit",
+      "quality": null
+    },
+    "578933": {
+      "de": "Aspekt der inneren Ruhe",
+      "en": "Aspect of Inner Calm",
+      "quality": null
+    },
+    "1741829": {
+      "de": "Aspekt der Anpassungsf\\u00e4higkeit",
+      "en": "Aspect of Adaptability",
+      "quality": null
+    },
+    "578875": {
+      "de": "Klingenmeisters Aspekt",
+      "en": "Edgemaster's Aspect",
+      "quality": null
+    },
+    "2447675": {
+      "de": "Aspekt der Rechtsprechung Tyraels",
+      "en": "Aspect of Tyrael's Jurisdiction",
+      "quality": null
+    },
+    "1225581": {
+      "de": "Ausbeutender Aspekt",
+      "en": "Exploiter's Aspect",
+      "quality": null
+    },
+    "1946028": {
+      "de": "Aspekt der verfluchten Aura",
+      "en": "Aspect of the Cursed Aura",
+      "quality": null
+    },
+    "578708": {
+      "de": "Aspekt der Macht",
+      "en": "Aspect of Might",
+      "quality": null
+    },
+    "2445850": {
+      "de": "Aspekt des Fanatikerbundes",
+      "en": "Aspect of the Zealot's Covenant",
+      "quality": null
+    },
+    "1223323": {
+      "de": "Aspekt der Reanimation",
+      "en": "Aspect of Reanimation",
+      "quality": null
+    },
+    "1882773": {
+      "de": "Aspekt der teuflischen V\\u00f6llerei",
+      "en": "Aspect of Fel Gluttony",
+      "quality": null
+    },
+    "578779": {
+      "de": "Beschleunigender Aspekt",
+      "en": "Accelerating Aspect",
+      "quality": null
+    },
+    "1485369": {
+      "de": "Aspekt des elementaren Schicksals",
+      "en": "Aspect of Elemental Fate",
+      "quality": null
+    },
+    "1943568": {
+      "de": "Eisgriffs Aspekt",
+      "en": "Coldclip Aspect",
+      "quality": null
+    },
+    "1822329": {
+      "de": "Aspekt der unnachgiebigen Treffer",
+      "en": "Aspect of Unyielding Hits",
+      "quality": null
+    },
+    "2463911": {
+      "de": "Aspekt der Goldenen Stunde",
+      "en": "Aspect of the Golden Hour",
+      "quality": null
+    },
+    "1858284": {
+      "de": "Aspekt der umgelenkten Macht",
+      "en": "Aspect of Redirected Force",
+      "quality": null
+    },
+    "2467143": {
+      "de": "Aspekt des strikten Erlasses",
+      "en": "Aspect of Firm Decree",
+      "quality": null
+    },
+    "2164685": {
+      "de": "Aspekt des gipfelnden Furors",
+      "en": "Aspect of Apogeic Furor",
+      "quality": null
+    },
+    "1926782": {
+      "de": "Aspekt der Wutkontrolle",
+      "en": "Aspect of Anger Management",
+      "quality": null
+    },
+    "2439343": {
+      "de": "Aspekt von Akarats Segen",
+      "en": "Aspect of Akarat's Blessing",
+      "quality": null
+    },
+    "579686": {
+      "de": "Aspekt der Rachsucht",
+      "en": "Aspect of Retaliation",
+      "quality": null
+    },
+    "2448361": {
+      "de": "Aspekt des Richters",
+      "en": "Aspect of the Judicator",
+      "quality": null
+    },
+    "2420884": {
+      "de": "Aspekt der Souver\\u00e4nit\\u00e4t Lageras",
+      "en": "Aspect of Lagera's Sovereignty",
+      "quality": null
+    },
+    "2420653": {
+      "de": "Aspekt der Bekehrung",
+      "en": "Aspect of Proselytizing",
+      "quality": null
+    },
+    "884984": {
+      "de": "Aspekt des B\\u00e4renschreckens",
+      "en": "Aspect of the Ursine Horror",
+      "quality": null
+    },
+    "621929": {
+      "de": "Aspekt der greifenden Adern",
+      "en": "Aspect of Grasping Veins",
+      "quality": null
+    },
+    "2445818": {
+      "de": "Aspekt des Molochbundes",
+      "en": "Aspect of the Juggernaut's Covenant",
+      "quality": null
+    },
+    "2239052": {
+      "de": "Aspekt des Dienstes und der Opfer",
+      "en": "Aspect of Service and Sacrifice",
+      "quality": null
+    },
+    "1860795": {
+      "de": "Aspekt des Mondaufgangs",
+      "en": "Aspect of the Moonrise",
+      "quality": null
+    },
+    "2467629": {
+      "de": "Aspekt des h\\u00f6chsten Ruhms",
+      "en": "Aspect of Utmost Glory",
+      "quality": null
+    },
+    "579701": {
+      "de": "\\u00dcberrollender Aspekt",
+      "en": "Shockwave Aspect",
+      "quality": null
+    },
+    "1205995": {
+      "de": "Aspekt der tobenden Werbestie",
+      "en": "Aspect of the Rampaging Werebeast",
+      "quality": null
+    },
+    "1867840": {
+      "de": "Aspekt der verfluchten Ber\\u00fchrung",
+      "en": "Aspect of Accursed Touch",
+      "quality": null
+    },
+    "2107188": {
+      "de": "Aspekt der Assistenz",
+      "en": "Aspect of Assistance",
+      "quality": null
+    },
+    "1929337": {
+      "de": "Scharfrichters Aspekt",
+      "en": "Executioner's Aspect",
+      "quality": null
+    },
+    "2466880": {
+      "de": "Aspekt der Salbung Hales",
+      "en": "Aspect of Hale's Salve",
+      "quality": null
+    },
+    "1229701": {
+      "de": "Gravitativer Aspekt",
+      "en": "Gravitational Aspect",
+      "quality": null
+    },
+    "1222268": {
+      "de": "Opfernder Aspekt",
+      "en": "Sacrificial Aspect",
+      "quality": null
+    },
+    "578840": {
+      "de": "Sternenbeschienener Aspekt",
+      "en": "Starlight Aspect",
+      "quality": null
+    },
+    "1868257": {
+      "de": "Hitzbl\\u00fctiger Aspekt",
+      "en": "Blood Boiling Aspect",
+      "quality": null
+    },
+    "579653": {
+      "de": "Aspekt der Ahnenmacht",
+      "en": "Aspect of Ancestral Force",
+      "quality": null
+    },
+    "615173": {
+      "de": "Aspekt der okkulten Herrschaft",
+      "en": "Aspect of Occult Dominion",
+      "quality": null
+    },
+    "2040941": {
+      "de": "Aspekt der Sternensplitter",
+      "en": "Aspect of Star Shards",
+      "quality": null
+    },
+    "578874": {
+      "de": "Aspekt des Pfeilsturms",
+      "en": "Aspect of Arrow Storms",
+      "quality": null
+    },
+    "578893": {
+      "de": "Aspekt der berstenden Gifte",
+      "en": "Aspect of Bursting Venoms",
+      "quality": null
+    },
+    "1220102": {
+      "de": "Schattiger Aspekt",
+      "en": "Umbrous Aspect",
+      "quality": null
+    },
+    "578894": {
+      "de": "T\\u00e4uschender Aspekt",
+      "en": "Trickster's Aspect",
+      "quality": null
+    },
+    "1822350": {
+      "de": "Duellierender Aspekt",
+      "en": "Duelist's Aspect",
+      "quality": null
+    },
+    "2461971": {
+      "de": "Tugendhafter Aspekt",
+      "en": "Virtuous Aspect",
+      "quality": null
+    },
+    "1211283": {
+      "de": "Schneeverschleierter Aspekt",
+      "en": "Snowveiled Aspect",
+      "quality": null
+    },
+    "1220474": {
+      "de": "Verpesteter Aspekt",
+      "en": "Blighted Aspect",
+      "quality": null
+    },
+    "1222592": {
+      "de": "Aspekt der geh\\u00e4rteten Knochen",
+      "en": "Aspect of Hardened Bones",
+      "quality": null
+    },
+    "1746093": {
+      "de": "Molochs Aspekt",
+      "en": "Juggernaut's Aspect",
+      "quality": null
+    },
+    "1934644": {
+      "de": "Aspekt der elementaren Konstellation",
+      "en": "Aspect of Elemental Constellation",
+      "quality": null
+    },
+    "2464860": {
+      "de": "Aspekt des J\\u00fcngers",
+      "en": "Aspect of the Disciple",
+      "quality": null
+    },
+    "2468693": {
+      "de": "Aspekt der Z\\u00fcchtigung",
+      "en": "Aspect of Chastisement",
+      "quality": null
+    },
+    "1858276": {
+      "de": "Aspekt der dornigen Rache",
+      "en": "Aspect of Bristling Vengeance",
+      "quality": null
+    },
+    "1184525": {
+      "de": "Rachs\\u00fcchtiger Aspekt",
+      "en": "Vengeful Aspect",
+      "quality": null
+    },
+    "1186856": {
+      "de": "Aspekt des geraubten Elans",
+      "en": "Aspect of Stolen Vigor",
+      "quality": null
+    },
+    "1221534": {
+      "de": "Aspekt des Verfalls",
+      "en": "Aspect of Decay",
+      "quality": null
+    },
+    "1225423": {
+      "de": "Geistwandelnder Aspekt",
+      "en": "Ghostwalker Aspect",
+      "quality": null
+    },
+    "1302634": {
+      "de": "Frostbei\\u00dfender Aspekt",
+      "en": "Frostbitten Aspect",
+      "quality": null
+    },
+    "1215682": {
+      "de": "Aspekt der Konzentration",
+      "en": "Aspect of Concentration",
+      "quality": null
+    },
+    "1859813": {
+      "de": "Unverg\\u00e4nglicher Aspekt",
+      "en": "Undying Aspect",
+      "quality": null
+    },
+    "1950503": {
+      "de": "Aspekt des gro\\u00dfen Festmahls",
+      "en": "Aspect of the Great Feast",
+      "quality": null
+    },
+    "2465656": {
+      "de": "Aspekt der engelsgleichen Vollendung",
+      "en": "Aspect of Angelic Masterwork",
+      "quality": null
+    },
+    "1859769": {
+      "de": "Hektischer Aspekt",
+      "en": "Hectic Aspect",
+      "quality": null
+    },
+    "2156287": {
+      "de": "Aspekt der feurigen Spalten",
+      "en": "Aspect of Incendiary Fissures",
+      "quality": null
+    },
+    "578702": {
+      "de": "Aspekt von Bul-Kathos",
+      "en": "Aspect of Bul-Kathos",
+      "quality": null
+    },
+    "579752": {
+      "de": "Z\\u00fcngelnder Aspekt",
+      "en": "Serpentine Aspect",
+      "quality": null
+    },
+    "1221015": {
+      "de": "Aspekt der Verdammten",
+      "en": "Aspect of the Damned",
+      "quality": null
+    },
+    "1919349": {
+      "de": "Aspekt der ersch\\u00fctternden Schl\\u00e4ge",
+      "en": "Aspect of Concussive Strikes",
+      "quality": null
+    },
+    "578842": {
+      "de": "Aspekt des Besch\\u00fctzers",
+      "en": "Aspect of the Protector",
+      "quality": null
+    },
+    "1215396": {
+      "de": "Ewiglebender Aspekt",
+      "en": "Everliving Aspect",
+      "quality": null
+    },
+    "1215769": {
+      "de": "Aspekt der Kontrolle",
+      "en": "Aspect of Control",
+      "quality": null
+    },
+    "2420856": {
+      "de": "Trutziger Aspekt",
+      "en": "Bulwark's Aspect",
+      "quality": null
+    },
+    "1924068": {
+      "de": "Aspekt der peitschenden Winde",
+      "en": "Aspect of Fierce Winds",
+      "quality": null
+    },
+    "1858278": {
+      "de": "Uners\\u00e4ttlicher Aspekt",
+      "en": "Insatiable Aspect",
+      "quality": null
+    },
+    "1950266": {
+      "de": "Aspekt des besonnenen Herzens",
+      "en": "Aspect of the Prudent Heart",
+      "quality": null
+    },
+    "578925": {
+      "de": "Hei\\u00dflodernder Aspekt",
+      "en": "Flash Fire Aspect",
+      "quality": null
+    },
+    "652950": {
+      "de": "Staubteufels Aspekt",
+      "en": "Dust Devil's Aspect",
+      "quality": null
+    },
+    "1225570": {
+      "de": "Aspekt der Energief\\u00fclle",
+      "en": "Aspect of Abundant Energy",
+      "quality": null
+    },
+    "1438479": {
+      "de": "Aspekt der K\\u00fchnheit",
+      "en": "Aspect of Audacity",
+      "quality": null
+    },
+    "1981977": {
+      "de": "Bedrohlicher Aspekt",
+      "en": "Menacing Aspect",
+      "quality": null
+    },
+    "1223890": {
+      "de": "Entwischender Aspekt",
+      "en": "Eluding Aspect",
+      "quality": null
+    },
+    "1225295": {
+      "de": "Aspekt der zersplitternden Energie",
+      "en": "Aspect of Splintering Energy",
+      "quality": null
+    },
+    "1755013": {
+      "de": "Flammenwerfers Aspekt",
+      "en": "Flamethrower's Aspect",
+      "quality": null
+    },
+    "578868": {
+      "de": "Aspekt der umkreisenden Klingen",
+      "en": "Aspect of Encircling Blades",
+      "quality": null
+    },
+    "578897": {
+      "de": "Aspekt des Schattens",
+      "en": "Aspect of the Umbral",
+      "quality": null
+    },
+    "1740178": {
+      "de": "Seelenzerschmetternder Aspekt",
+      "en": "Shattered Spirit's Aspect",
+      "quality": null
+    },
+    "1225218": {
+      "de": "Aufladender Aspekt",
+      "en": "Recharging Aspect",
+      "quality": null
+    },
+    "1964483": {
+      "de": "Aspekt des orangefarbenen Herolds",
+      "en": "Aspect of the Orange Herald",
+      "quality": null
+    },
+    "1965062": {
+      "de": "Blitzbogens Aspekt",
+      "en": "Lightning Rod Aspect",
+      "quality": null
+    },
+    "578755": {
+      "de": "Aspekt der Grenzenlosen Wut",
+      "en": "Aspect of Limitless Rage",
+      "quality": null
+    },
+    "1064169": {
+      "de": "Sch\\u00e4fers Aspekt",
+      "en": "Shepherd's Aspect",
+      "quality": null
+    },
+    "2462321": {
+      "de": "Aspekt der unaufhaltsamen Macht",
+      "en": "Aspect of Unstoppable Force",
+      "quality": null
+    },
+    "1926363": {
+      "de": "Aspekt des heiklen \\u00dcberlebens",
+      "en": "Aspect of Tenuous Survival",
+      "quality": null
+    },
+    "1950261": {
+      "de": "Aspekt des schleichenden Todes",
+      "en": "Aspect of Creeping Death",
+      "quality": null
+    },
+    "2445856": {
+      "de": "Aspekt der Inbrunst Jacques'",
+      "en": "Aspect of Jacques' Fervor",
+      "quality": null
+    },
+    "578885": {
+      "de": "Aspekt der \\u00dcberraschung",
+      "en": "Aspect of Surprise",
+      "quality": null
+    },
+    "1222123": {
+      "de": "H\\u00fcnenhafter Aspekt",
+      "en": "Hulking Aspect",
+      "quality": null
+    },
+    "1224681": {
+      "de": "Sturmschwel\\u00adlender Aspekt",
+      "en": "Storm Swell Aspect",
+      "quality": null
+    },
+    "1457950": {
+      "de": "Mondzorn Aspekt",
+      "en": "Moonrage Aspect",
+      "quality": null
+    },
+    "1983766": {
+      "de": "Aspekt der Hartn\\u00e4ckigkeit",
+      "en": "Aspect of Tenacity",
+      "quality": null
+    },
+    "2249121": {
+      "de": "Schaudernder Aspekt",
+      "en": "Shivering Aspect",
+      "quality": null
+    },
+    "2468273": {
+      "de": "Aspekt der Loyalit\\u00e4t",
+      "en": "Aspect of Loyalty",
+      "quality": null
+    },
+    "578699": {
+      "de": "Blutberserkers Aspekt",
+      "en": "Relentless Berserker's Aspect",
+      "quality": null
+    },
+    "1227651": {
+      "de": "Nadelfeuriger Aspekt",
+      "en": "Needleflare Aspect",
+      "quality": null
+    },
+    "1858274": {
+      "de": "Aspekt der Pestilenz",
+      "en": "Aspect of Pestilence",
+      "quality": null
+    },
+    "1865132": {
+      "de": "Aspekt der Metamorphose",
+      "en": "Aspect of Metamorphosis",
+      "quality": null
+    },
+    "1950240": {
+      "de": "Aspekt des dunklen Tanzes",
+      "en": "Aspect of the Dark Dance",
+      "quality": null
+    },
+    "578710": {
+      "de": "Schneller Aspekt",
+      "en": "Rapid Aspect",
+      "quality": null
+    },
+    "1201951": {
+      "de": "Aspekt der Schuld des Wechselbalgs",
+      "en": "Aspect of the Changeling's Debt",
+      "quality": null
+    },
+    "1822324": {
+      "de": "Aspekt der wilden Klauen",
+      "en": "Aspect of Wild Claws",
+      "quality": null
+    },
+    "1937739": {
+      "de": "Aspekt der \\u00dcberhitzung",
+      "en": "Aspect of Overheating",
+      "quality": null
+    },
+    "2469489": {
+      "de": "Offenbarender Aspekt",
+      "en": "Revelator's Aspect",
+      "quality": null
+    },
+    "578707": {
+      "de": "Aspekt der Berserkerwut",
+      "en": "Aspect of Berserk Fury",
+      "quality": null
+    },
+    "578788": {
+      "de": "W\\u00f6lfischer Aspekt",
+      "en": "Dire Wolf's Aspect",
+      "quality": null
+    },
+    "1222402": {
+      "de": "Aspekt der Stampede",
+      "en": "Aspect of the Stampede",
+      "quality": null
+    },
+    "578860": {
+      "de": "Verh\\u00fcllender Aspekt",
+      "en": "Enshrouding Aspect",
+      "quality": null
+    },
+    "616076": {
+      "de": "Aspekt des Ultimativen Schattens",
+      "en": "Aspect of Ultimate Shadow",
+      "quality": null
+    },
+    "610216": {
+      "de": "Aspekt der Leere",
+      "en": "Aspect of the Void",
+      "quality": null
+    },
+    "1983349": {
+      "de": "Aspekt der Turbulenz",
+      "en": "Aspect of Turbulence",
+      "quality": null
+    },
+    "579652": {
+      "de": "Aspekt der ausgesprochenen Erm\\u00e4chtigung",
+      "en": "Aspect of Vocalized Empowerment",
+      "quality": null
+    },
+    "1202541": {
+      "de": "Sturmwandelnder Aspekt",
+      "en": "Stormshifter's Aspect",
+      "quality": null
+    },
+    "1212474": {
+      "de": "Aspekt des Funkenschlags",
+      "en": "Aspect of Conflagration",
+      "quality": null
+    },
+    "1815979": {
+      "de": "Sturmkr\\u00e4hes Aspekt",
+      "en": "Stormcrow's Aspect",
+      "quality": null
+    },
+    "2042271": {
+      "de": "Aspekt des herkulischen Spektakels",
+      "en": "Aspect of Herculean Spectacle",
+      "quality": null
+    },
+    "2147318": {
+      "de": "Aspekt des erweckten Geistes",
+      "en": "Aspect of Mind's Awakening",
+      "quality": null
+    },
+    "578876": {
+      "de": "Klingentanzender Aspekt",
+      "en": "Bladedancer's Aspect",
+      "quality": null
+    },
+    "1208172": {
+      "de": "Aspekt der abzweigenden Salven",
+      "en": "Aspect of Branching Volleys",
+      "quality": null
+    },
+    "1226355": {
+      "de": "Assimilierender Aspekt",
+      "en": "Assimilation Aspect",
+      "quality": null
+    },
+    "1936204": {
+      "de": "Brandstiftender Aspekt",
+      "en": "Firestarter Aspect",
+      "quality": null
+    },
+    "607856": {
+      "de": "Aspekt des rasenden Todes",
+      "en": "Aspect of Frenzied Dead",
+      "quality": null
+    },
+    "621955": {
+      "de": "Blutholender Aspekt",
+      "en": "Blood Getter's Aspect",
+      "quality": null
+    },
+    "1189297": {
+      "de": "Opportuner Aspekt",
+      "en": "Opportunist's Aspect",
+      "quality": null
+    },
+    "1212469": {
+      "de": "Aspekt der verzehrenden Flammen",
+      "en": "Aspect of Engulfing Flames",
+      "quality": null
+    },
+    "1858272": {
+      "de": "Abprallender Aspekt",
+      "en": "Rebounding Aspect",
+      "quality": null
+    },
+    "610241": {
+      "de": "Verrottender Aspekt",
+      "en": "Rotting Aspect",
+      "quality": null
+    },
+    "1212493": {
+      "de": "Aspekt der uralten Flamme",
+      "en": "Aspect of Ancient Flame",
+      "quality": null
+    },
+    "1220424": {
+      "de": "Aspekt des entbl\\u00f6\\u00dften Fleisches",
+      "en": "Aspect of Exposed Flesh",
+      "quality": null
+    },
+    "1934391": {
+      "de": "Geistverbundener Aspekt",
+      "en": "Spirit Bond Aspect",
+      "quality": null
+    },
+    "578826": {
+      "de": "Windw\\u00fctender Aspekt",
+      "en": "Wind Striker Aspect",
+      "quality": null
+    },
+    "1199204": {
+      "de": "Erdw\\u00fcters Aspekt",
+      "en": "Earthstriker's Aspect",
+      "quality": null
+    },
+    "1205051": {
+      "de": "Aspekt des Wildzorns",
+      "en": "Aspect of the Wildrage",
+      "quality": null
+    },
+    "1221467": {
+      "de": "Peinigender Aspekt",
+      "en": "Torturous Aspect",
+      "quality": null
+    },
+    "1976569": {
+      "de": "Aspekt der heimkehrenden Federn",
+      "en": "Aspect of Recalling Feathers",
+      "quality": null
+    },
+    "578909": {
+      "de": "Sch\\u00fctzender Aspekt",
+      "en": "Protecting Aspect",
+      "quality": null
+    },
+    "1622932": {
+      "de": "Des Kampfmagiers Aspekt",
+      "en": "Battle Caster's Aspect",
+      "quality": null
+    },
+    "1923692": {
+      "de": "Aspekt der heimlichen Schritte",
+      "en": "Aspect of Sly Steps",
+      "quality": null
+    },
+    "1956797": {
+      "de": "Aspekt der heiklen Wendigkeit",
+      "en": "Aspect of Tenuous Agility",
+      "quality": null
+    },
+    "578865": {
+      "de": "Aspekt der Erwartungsvollen",
+      "en": "Aspect of the Expectant",
+      "quality": null
+    },
+    "1186574": {
+      "de": "Sprengfallenstellender Aspekt",
+      "en": "Blast-Trapper's Aspect",
+      "quality": null
+    },
+    "1213533": {
+      "de": "Elementarer Aspekt",
+      "en": "Elementalist's Aspect",
+      "quality": null
+    },
+    "1754892": {
+      "de": "Aphotischer Aspekt",
+      "en": "Aphotic Aspect",
+      "quality": null
+    },
+    "1969083": {
+      "de": "Halsbrecherischer Aspekt",
+      "en": "Breakneck Bandit's Aspect",
+      "quality": null
+    },
+    "1987425": {
+      "de": "Aspekt der vielschichtigen Schutze",
+      "en": "Aspect of Layered Wards",
+      "quality": null
+    },
+    "578706": {
+      "de": "Aspekt des berserkerhaften Zerrei\\u00dfens",
+      "en": "Aspect of Berserk Ripping",
+      "quality": null
+    },
+    "578738": {
+      "de": "Aspekt der Brennenden Wut",
+      "en": "Aspect of Burning Rage",
+      "quality": null
+    },
+    "1186374": {
+      "de": "Betr\\u00fcgender Aspekt",
+      "en": "Cheat's Aspect",
+      "quality": null
+    },
+    "1227283": {
+      "de": "Aspekt des geteilten Leids",
+      "en": "Aspect of Shared Misery",
+      "quality": null
+    },
+    "1603698": {
+      "de": "Brechender Aspekt",
+      "en": "Wanton Rupture Aspect",
+      "quality": null
+    },
+    "1858270": {
+      "de": "Unnachgiebiger Aspekt",
+      "en": "Unrelenting Aspect",
+      "quality": null
+    },
+    "1968061": {
+      "de": "Aspekt der Hast",
+      "en": "Aspect of Haste",
+      "quality": null
+    },
+    "2044227": {
+      "de": "Verborgener Aspekt",
+      "en": "Clandestine Aspect",
+      "quality": null
+    },
+    "2416740": {
+      "de": "Aspekt der Nordwache",
+      "en": "Aspect of the Northern Guard",
+      "quality": null
+    },
+    "2420868": {
+      "de": "Vorderster Aspekt",
+      "en": "Vanguard's Aspect",
+      "quality": null
+    },
+    "578703": {
+      "de": "Schmetternder Aspekt",
+      "en": "Smiting Aspect",
+      "quality": null
+    },
+    "578723": {
+      "de": "Aspekt des bet\\u00e4ubenden Zorns",
+      "en": "Aspect of Numbing Wrath",
+      "quality": null
+    },
+    "578749": {
+      "de": "Eisenbl\\u00fctiger Aspekt",
+      "en": "Iron Blood Aspect",
+      "quality": null
+    },
+    "578793": {
+      "de": "Aspekt der zertrampelten Erde",
+      "en": "Aspect of the Trampled Earth",
+      "quality": null
+    },
+    "1225298": {
+      "de": "Aspekt der ungebrochenen Kette",
+      "en": "Aspect of the Unbroken Tether",
+      "quality": null
+    },
+    "1822334": {
+      "de": "Aspekt des Befalls",
+      "en": "Aspect of Infestation",
+      "quality": null
+    },
+    "2175683": {
+      "de": "Aspekt der endlosen Klauen",
+      "en": "Aspect of Endless Talons",
+      "quality": null
+    },
+    "578741": {
+      "de": "Erfahrener Aspekt",
+      "en": "Veteran Brawler's Aspect",
+      "quality": null
+    },
+    "578745": {
+      "de": "Aspekt des unerbittlichen Waffenmeisters",
+      "en": "Aspect of the Relentless Armsmaster",
+      "quality": null
+    },
+    "578803": {
+      "de": "Runenbindender Aspekt",
+      "en": "Runeworker's Conduit Aspect",
+      "quality": null
+    },
+    "578854": {
+      "de": "Aspekt der fl\\u00fcchtigen Schatten",
+      "en": "Aspect of Volatile Shadows",
+      "quality": null
+    },
+    "578927": {
+      "de": "Aspekt des gefrorenen Orbits",
+      "en": "Aspect of Frozen Orbit",
+      "quality": null
+    },
+    "610372": {
+      "de": "K\\u00e4ltebringender Aspekt",
+      "en": "Coldbringer's Aspect",
+      "quality": null
+    },
+    "849401": {
+      "de": "Aspekt des Alphas",
+      "en": "Aspect of the Alpha",
+      "quality": null
+    },
+    "1186380": {
+      "de": "Aspekt der Verderbnis",
+      "en": "Aspect of Corruption",
+      "quality": null
+    },
+    "1199626": {
+      "de": "Teuflischer Aspekt",
+      "en": "Devilish Aspect",
+      "quality": null
+    },
+    "1212483": {
+      "de": "Z\\u00fcndelnder Aspekt",
+      "en": "Incendiary Aspect",
+      "quality": null
+    },
+    "1221645": {
+      "de": "Aspekt des m\\u00e4chtigen Blutes",
+      "en": "Aspect of Potent Blood",
+      "quality": null
+    },
+    "1223790": {
+      "de": "Blutwogender Aspekt",
+      "en": "Tidal Aspect",
+      "quality": null
+    },
+    "1922389": {
+      "de": "Dornliebender Aspekt",
+      "en": "Sticker-thought Aspect",
+      "quality": null
+    },
+    "1975355": {
+      "de": "Aspekt der fesselnden Furcht",
+      "en": "Aspect of Apprehension",
+      "quality": null
+    },
+    "1981714": {
+      "de": "Aspekt der Ablenkung",
+      "en": "Aspect of Deflection",
+      "quality": null
+    },
+    "2439231": {
+      "de": "Aspekt der gr\\u00fcnen Wiederherstellung",
+      "en": "Aspect of Verdant Restoration",
+      "quality": null
+    },
+    "608902": {
+      "de": "Splitternder Aspekt",
+      "en": "Splintering Aspect",
+      "quality": null
+    },
+    "1186690": {
+      "de": "Zerfleischers Aspekt",
+      "en": "Mangler's Aspect",
+      "quality": null
+    },
+    "1199208": {
+      "de": "B\\u00e4renklan-Berserkers Aspekt",
+      "en": "Bear Clan Berserker's Aspect",
+      "quality": null
+    },
+    "1213812": {
+      "de": "Aspekt der versengten Extremit\\u00e4ten",
+      "en": "Aspect of Singed Extremities",
+      "quality": null
+    },
+    "1222472": {
+      "de": "Aspekt des Einbalsamierens",
+      "en": "Aspect of the Embalmer",
+      "quality": null
+    },
+    "1301738": {
+      "de": "Aspekt der Synergie",
+      "en": "Aspect of Synergy",
+      "quality": null
+    },
+    "1602954": {
+      "de": "Aspekt des Abschlachtens",
+      "en": "Aspect of Slaughter",
+      "quality": null
+    },
+    "1739655": {
+      "de": "Widerst\\u00e4ndiger Aspekt",
+      "en": "Resistant Assailant's Aspect",
+      "quality": null
+    },
+    "1971366": {
+      "de": "Aspekt des Eisernen Regens",
+      "en": "Aspect of Iron Rain",
+      "quality": null
+    },
+    "2445870": {
+      "de": "Reum\\u00fctiger Aspekt",
+      "en": "The Penitent's Aspect",
+      "quality": null
+    },
+    "2467527": {
+      "de": "Aspekt des glei\\u00dfenden Lichts",
+      "en": "Aspect of Dazzling Light",
+      "quality": null
+    },
+    "578712": {
+      "de": "Kampfw\\u00fctiger Aspekt",
+      "en": "Battle-Mad Aspect",
+      "quality": null
+    },
+    "578751": {
+      "de": "Aspekt des einnehmenden Zorns",
+      "en": "Aspect of Encroaching Wrath",
+      "quality": null
+    },
+    "578762": {
+      "de": "Aspekt der uners\\u00e4ttlichen Rage",
+      "en": "Aspect of Voracious Rage",
+      "quality": null
+    },
+    "578880": {
+      "de": "Aspekt der imitierten Infusion",
+      "en": "Aspect of Imitated Imbuement",
+      "quality": null
+    },
+    "1211552": {
+      "de": "Aspekt der gefrorenen Erinnerungen",
+      "en": "Aspect of Frozen Memories",
+      "quality": null
+    },
+    "1212318": {
+      "de": "Vergletscherter Aspekt",
+      "en": "Glacial Aspect",
+      "quality": null
+    },
+    "1977735": {
+      "de": "Geistgefangener Aspekt",
+      "en": "Imprisoned Spirit's Aspect",
+      "quality": null
+    },
+    "1978628": {
+      "de": "Aspekt der Ebenenst\\u00e4rke",
+      "en": "Aspect of Plains Power",
+      "quality": null
+    },
+    "1980708": {
+      "de": "Bolzenschie\\u00dfender Aspekt",
+      "en": "Mired Sharpshooter's  Aspect",
+      "quality": null
+    },
+    "2192357": {
+      "de": "Aspekt des aufgeschobenen Aussterbens",
+      "en": "Aspect of Delayed Extinction",
+      "quality": null
+    },
+    "1221651": {
+      "de": "Schnellbl\\u00fctiger Aspekt",
+      "en": "Fastblood Aspect",
+      "quality": null
+    },
+    "1221659": {
+      "de": "Blutgebadeter Aspekt",
+      "en": "Blood-bathed Aspect",
+      "quality": null
+    },
+    "1738556": {
+      "de": "Virulenter Aspekt",
+      "en": "Virulent Aspect",
+      "quality": null
+    },
+    "1968381": {
+      "de": "Aspekt der nebul\\u00f6sen Gebr\\u00e4ue",
+      "en": "Aspect of Nebulous Brews",
+      "quality": null
+    },
+    "1976571": {
+      "de": "Aspekt der verst\\u00e4rkten Federn",
+      "en": "Aspect of Empowered Feathers",
+      "quality": null
+    },
+    "2457976": {
+      "de": "Aspekt der Hingabe",
+      "en": "Aspect of Dedication",
+      "quality": null
+    },
+    "578765": {
+      "de": "Aspekt der Ahnenechos",
+      "en": "Aspect of Ancestral Echoes",
+      "quality": null
+    },
+    "578786": {
+      "de": "Blitzt\\u00e4nzelnder Aspekt",
+      "en": "Lightning Dancer's Aspect",
+      "quality": null
+    },
+    "578787": {
+      "de": "\\u00dcberladener Aspekt",
+      "en": "Overcharged Aspect",
+      "quality": null
+    },
+    "579746": {
+      "de": "Aspekt der durchdringenden Statik",
+      "en": "Aspect of Piercing Static",
+      "quality": null
+    },
+    "1040952": {
+      "de": "Aspekt des Armageddon",
+      "en": "Aspect of Armageddon",
+      "quality": null
+    },
+    "1822343": {
+      "de": "Aspekt der fallenden Federn",
+      "en": "Aspect of Falling Feathers",
+      "quality": null
+    },
+    "579699": {
+      "de": "Sturmklaues Aspekt",
+      "en": "Stormclaw's Aspect",
+      "quality": null
+    },
+    "616486": {
+      "de": "Des Totengenerals Aspekt",
+      "en": "Unyielding Commander's Aspect",
+      "quality": null
+    },
+    "1433953": {
+      "de": "Unterirdischer Aspekt",
+      "en": "Subterranean Aspect",
+      "quality": null
+    },
+    "1737620": {
+      "de": "Aspekt des gebrochenen Bodens",
+      "en": "Aspect of Sundered Ground",
+      "quality": null
+    },
+    "1822332": {
+      "de": "Aspekt der kombinierten Schl\\u00e4ge",
+      "en": "Aspect of Combined Strikes",
+      "quality": null
+    },
+    "1822341": {
+      "de": "Aspekt des bindenden Morasts",
+      "en": "Aspect of Binding Morass",
+      "quality": null
+    },
+    "1906504": {
+      "de": "Aspekt des unausweichlichen Schicksals",
+      "en": "Aspect of Inevitable Fate",
+      "quality": null
+    },
+    "2176630": {
+      "de": "Aspekt des Wolfssturms",
+      "en": "Aspect of Wolf's Rain",
+      "quality": null
+    },
+    "2246466": {
+      "de": "Aspekt der Verseuchung",
+      "en": "Aspect of Contamination",
+      "quality": null
+    },
+    "2448539": {
+      "de": "Aspekt der Pilgerreise",
+      "en": "Aspect of Pilgrim's Progress",
+      "quality": null
+    },
+    "578816": {
+      "de": "Aspekt des nat\\u00fcrlichen Gleichgewichts",
+      "en": "Aspect of Natural Balance",
+      "quality": null
+    },
+    "610047": {
+      "de": "Aspekt des Explosiven Nebels",
+      "en": "Aspect of Explosive Mist",
+      "quality": null
+    },
+    "1200856": {
+      "de": "Aspekt der h\\u00e4rtenden Schl\\u00e4ge",
+      "en": "Aspect of Tempering Blows",
+      "quality": null
+    },
+    "1202439": {
+      "de": "Ballistischer Aspekt",
+      "en": "Ballistic Aspect",
+      "quality": null
+    },
+    "1212316": {
+      "de": "Aspekt des Gefrorenen Sogs",
+      "en": "Aspect of the Frozen Wake",
+      "quality": null
+    },
+    "1212515": {
+      "de": "Aspekt der zerborstenen Sterne",
+      "en": "Aspect of Shattered Stars",
+      "quality": null
+    },
+    "1214265": {
+      "de": "Flammenwandlers Aspekt",
+      "en": "Flamewalker's Aspect",
+      "quality": null
+    },
+    "1224521": {
+      "de": "Aspekt der bei\\u00dfenden K\\u00e4lte",
+      "en": "Aspect of Biting Cold",
+      "quality": null
+    },
+    "1338011": {
+      "de": "Aspekt des metamorphen Steins",
+      "en": "Aspect of Metamorphic Stone",
+      "quality": null
+    },
+    "1848038": {
+      "de": "Phasenpoltergeists Aspekt",
+      "en": "Phasing Poltergeist's Aspect",
+      "quality": null
+    },
+    "1942672": {
+      "de": "Aspekt der wahren Sicht",
+      "en": "Aspect of True Sight",
+      "quality": null
+    },
+    "1949276": {
+      "de": "Schattennebels Aspekt",
+      "en": "Shademist Aspect",
+      "quality": null
+    },
+    "1989503": {
+      "de": "Aspekt des kr\\u00e4ftigenden Willens",
+      "en": "Aspect of Invigorating Will",
+      "quality": null
+    },
+    "2148881": {
+      "de": "Knochenzerst\\u00e4ubender Aspekt",
+      "en": "Bone Duster's Aspect",
+      "quality": null
+    },
+    "2208083": {
+      "de": "Entzweirei\\u00dfender Aspekt",
+      "en": "Rip and Tear Aspect",
+      "quality": null
+    },
+    "2420751": {
+      "de": "Aspekt des Valintyr",
+      "en": "Aspect of the Valintyr",
+      "quality": null
+    },
+    "578735": {
+      "de": "Aspekt des schrecklichen Wirbelwinds",
+      "en": "Aspect of the Dire Whirlwind",
+      "quality": null
+    },
+    "579683": {
+      "de": "Seismischer Aspekt",
+      "en": "Seismic-shift Aspect",
+      "quality": null
+    },
+    "1199206": {
+      "de": "Gl\\u00fcckbringender Aspekt",
+      "en": "Luckbringer Aspect",
+      "quality": null
+    },
+    "1201315": {
+      "de": "Aspekt der Blutarmut",
+      "en": "Aspect of Anemia",
+      "quality": null
+    },
+    "1227270": {
+      "de": "Stabiler Aspekt",
+      "en": "Stable Aspect",
+      "quality": null
+    },
+    "1304554": {
+      "de": "Verw\\u00fcstender Aspekt",
+      "en": "Ravager's Aspect",
+      "quality": null
+    },
+    "1338285": {
+      "de": "Aspekt der verschwommenen Bestie",
+      "en": "Aspect of the Blurred Beast",
+      "quality": null
+    },
+    "1439762": {
+      "de": "Aspekt des sengenden Schutzes",
+      "en": "Aspect of Searing Wards",
+      "quality": null
+    },
+    "2445862": {
+      "de": "Apostolischer Aspekt",
+      "en": "Apostle's Aspect",
+      "quality": null
+    },
+    "578731": {
+      "de": "Todessehns\\u00fcchtiger Aspekt",
+      "en": "Death Wish Aspect",
+      "quality": null
+    },
+    "579641": {
+      "de": "Aspekt der Riesenschritte",
+      "en": "Aspect of Giant Strides",
+      "quality": null
+    },
+    "872356": {
+      "de": "Aspekt der Naturgewalt",
+      "en": "Aspect of Nature's Savagery",
+      "quality": null
+    },
+    "1206103": {
+      "de": "Wiederholender Aspekt",
+      "en": "Repeating Aspect",
+      "quality": null
+    },
+    "1222415": {
+      "de": "Leichenhafter Aspekt",
+      "en": "Cadaverous Aspect",
+      "quality": null
+    },
+    "1302491": {
+      "de": "Aspekt des Giftigen Eises",
+      "en": "Aspect of Noxious Ice",
+      "quality": null
+    },
+    "1858282": {
+      "de": "Qu\\u00e4lers Aspekt",
+      "en": "Tormentor's Aspect",
+      "quality": null
+    },
+    "1884339": {
+      "de": "Hochgeschwindigkeit Aspekt",
+      "en": "High Velocity Aspect",
+      "quality": null
+    },
+    "1967627": {
+      "de": "Hungerleidender Aspekt",
+      "en": "Starving Ravager's  Aspect",
+      "quality": null
+    },
+    "1974301": {
+      "de": "Ewigschnitters Aspekt",
+      "en": "Inexorable Reaper's Aspect",
+      "quality": null
+    },
+    "1981761": {
+      "de": "Aspekt der einfachen Vergeltung",
+      "en": "Aspect of Simple Reprisal",
+      "quality": null
+    },
+    "1987452": {
+      "de": "Aspekt der zeitweiligen Schnitte",
+      "en": "Aspect of Temporal Incisions",
+      "quality": null
+    },
+    "2014186": {
+      "de": "Aspekt der Festung",
+      "en": "Aspect of the Fortress",
+      "quality": null
+    },
+    "2019033": {
+      "de": "Aspekt der Vorw\\u00e4rtsbewegung",
+      "en": "Aspect of Forward Momentum",
+      "quality": null
+    },
+    "2445175": {
+      "de": "Aspekt von Glynns Amboss",
+      "en": "Aspect of Glynn's Anvil",
+      "quality": null
+    },
+    "578728": {
+      "de": "Aspekt des packenden Wirbelwinds",
+      "en": "Aspect of Grasping Whirlwind",
+      "quality": null
+    },
+    "578919": {
+      "de": "Schneewachender Aspekt",
+      "en": "Snowguard's Aspect",
+      "quality": null
+    },
+    "579643": {
+      "de": "Waffenmeisters Aspekt",
+      "en": "Weapon Master's Aspect",
+      "quality": null
+    },
+    "579702": {
+      "de": "Sturmjagender Aspekt",
+      "en": "Stormchaser's Aspect",
+      "quality": null
+    },
+    "1212281": {
+      "de": "Aspekt der gefrorenen Tundra",
+      "en": "Aspect of the Frozen Tundra",
+      "quality": null
+    },
+    "1212506": {
+      "de": "Aspekt der schneidenden K\\u00e4lte",
+      "en": "Aspect of Piercing Cold",
+      "quality": null
+    },
+    "1223239": {
+      "de": "Bestattender Aspekt",
+      "en": "Requiem Aspect",
+      "quality": null
+    },
+    "1304822": {
+      "de": "Eindringender Aspekt",
+      "en": "Infiltrator's Aspect",
+      "quality": null
+    },
+    "1437499": {
+      "de": "Feiger Aspekt",
+      "en": "Craven Aspect",
+      "quality": null
+    },
+    "1439746": {
+      "de": "Aspekt der Seuchenspitzen",
+      "en": "Aspect of Pestilent Points",
+      "quality": null
+    },
+    "1768379": {
+      "de": "Aspekt der zersplitternden Scherben",
+      "en": "Aspect of Splintering Shards",
+      "quality": null
+    },
+    "1966074": {
+      "de": "Grauenwahrsagers Aspekt",
+      "en": "Fell Soothsayer's Aspect",
+      "quality": null
+    },
+    "1978374": {
+      "de": "Aspekt der Himmelsst\\u00e4rke",
+      "en": "Aspect of Sky Power",
+      "quality": null
+    },
+    "1983255": {
+      "de": "Aspekt der kinetischen Unterdr\\u00fcckung",
+      "en": "Aspect of Kinetic Suppression",
+      "quality": null
+    },
+    "1987429": {
+      "de": "Aspekt der Untersagung",
+      "en": "Aspect of Interdiction",
+      "quality": null
+    },
+    "2117213": {
+      "de": "Aspekt der destillierten Anima",
+      "en": "Aspect of Distilled Anima",
+      "quality": null
+    },
+    "2241686": {
+      "de": "Aspekt der hereinbrechenden Flut",
+      "en": "Aspect of Impending Deluge",
+      "quality": null
+    },
+    "2457471": {
+      "de": "Aspekt der Besinnung",
+      "en": "Aspect of Contemplation",
+      "quality": null
+    },
+    "578879": {
+      "de": "Energiespendender Aspekt",
+      "en": "Energizing Aspect",
+      "quality": null
+    },
+    "578882": {
+      "de": "Giftalchemischer Aspekt",
+      "en": "Toxic Alchemist's Aspect",
+      "quality": null
+    },
+    "579639": {
+      "de": "Stahlberserkers Aspekt",
+      "en": "Steadfast Berserker's Aspect",
+      "quality": null
+    },
+    "579680": {
+      "de": "Ausbalancierter Aspekt",
+      "en": "Balanced Aspect",
+      "quality": null
+    },
+    "579682": {
+      "de": "Sturmgewaltiger Aspekt",
+      "en": "Mighty Storm's Aspect",
+      "quality": null
+    },
+    "579688": {
+      "de": "Aspekt des lindernden Steins",
+      "en": "Aspect of Mending Stone",
+      "quality": null
+    },
+    "579747": {
+      "de": "Frostblitzender Aspekt",
+      "en": "Frostblitz Aspect",
+      "quality": null
+    },
+    "609903": {
+      "de": "Aspekt der einbrechenden Dunkelheit",
+      "en": "Aspect of Plunging Darkness",
+      "quality": null
+    },
+    "614832": {
+      "de": "Blutsuchender Aspekt",
+      "en": "Blood Seeker's Aspect",
+      "quality": null
+    },
+    "616063": {
+      "de": "Aspekt des verfallenden Humerus",
+      "en": "Aspect of Decaying Humerus",
+      "quality": null
+    },
+    "988683": {
+      "de": "Aspekt des Treibsands",
+      "en": "Aspect of Quicksand",
+      "quality": null
+    },
+    "1211656": {
+      "de": "Zerschmetterter Aspekt",
+      "en": "Shattered Aspect",
+      "quality": null
+    },
+    "1212246": {
+      "de": "Aspekt der Effizienz",
+      "en": "Aspect of Efficiency",
+      "quality": null
+    },
+    "1212462": {
+      "de": "Aspekt der Gunst",
+      "en": "Aspect of Fortune",
+      "quality": null
+    },
+    "1221426": {
+      "de": "Aspekt der Verzahnung",
+      "en": "Aspect of Serration",
+      "quality": null
+    },
+    "1225191": {
+      "de": "Aspekt des Unersch\\u00fctterlichen",
+      "en": "Aspect of the Unwavering",
+      "quality": null
+    },
+    "1812312": {
+      "de": "Aspekt des agilen Wolfs",
+      "en": "Aspect of the Agile Wolf",
+      "quality": null
+    },
+    "1934512": {
+      "de": "Winterhands Aspekt",
+      "en": "Winter Touch Aspect",
+      "quality": null
+    },
+    "1972587": {
+      "de": "Aspekt der flinken Fl\\u00fcgel",
+      "en": "Aspect of Fleet Wings",
+      "quality": null
+    },
+    "1977089": {
+      "de": "Aspekt des kriechenden Kadavers",
+      "en": "Aspect of Creeping Cadaver",
+      "quality": null
+    },
+    "2447225": {
+      "de": "Aspekt von Lapas Schriften",
+      "en": "Aspect of Lapa's Scripture",
+      "quality": null
+    },
+    "2467583": {
+      "de": "Aspekt der heiligen Kadenz",
+      "en": "Aspect of Holy Cadence",
+      "quality": null
+    },
+    "578756": {
+      "de": "Aspekt des eisernen Kriegers",
+      "en": "Aspect of the Iron Warrior",
+      "quality": null
+    },
+    "578758": {
+      "de": "Windpeitschender Aspekt",
+      "en": "Windlasher Aspect",
+      "quality": null
+    },
+    "578825": {
+      "de": "Aspekt des umringten Weisen",
+      "en": "Aspect of the Crowded Sage",
+      "quality": null
+    },
+    "578914": {
+      "de": "Geladener Aspekt",
+      "en": "Charged Aspect",
+      "quality": null
+    },
+    "579704": {
+      "de": "Aspekt der Uners\\u00e4ttlichen",
+      "en": "Aspect of the Unsatiated",
+      "quality": null
+    },
+    "579709": {
+      "de": "Trickreicher Aspekt",
+      "en": "Trickshot Aspect",
+      "quality": null
+    },
+    "880500": {
+      "de": "Aspekt des w\\u00fctenden Sturms",
+      "en": "Aspect of the Tempest",
+      "quality": null
+    },
+    "1185976": {
+      "de": "Entfesselnder Aspekt",
+      "en": "Escape Artist's Aspect",
+      "quality": null
+    },
+    "1206645": {
+      "de": "Steinbr\\u00fcchiger Aspekt",
+      "en": "Crashstone Aspect",
+      "quality": null
+    },
+    "1221707": {
+      "de": "Aspekt des fr\\u00fchzeitigen Todes",
+      "en": "Aspect of Untimely Death",
+      "quality": null
+    },
+    "1225181": {
+      "de": "Aspekt der \\u00fcberw\\u00e4ltigenden Str\\u00f6mung",
+      "en": "Aspect of Overwhelming Currents",
+      "quality": null
+    },
+    "1620630": {
+      "de": "Aspekt der kunstvollen Initiative",
+      "en": "Aspect of Artful Initiative",
+      "quality": null
+    },
+    "1822320": {
+      "de": "Aspekt des sammelnden Konters",
+      "en": "Aspect of Rallying Reversal",
+      "quality": null
+    },
+    "1822339": {
+      "de": "Prellender Aspekt",
+      "en": "Bruiser's Aspect",
+      "quality": null
+    },
+    "1822347": {
+      "de": "Seelenerntender Aspekt",
+      "en": "Reaper's Aspect",
+      "quality": null
+    },
+    "1841369": {
+      "de": "Lotuserntender Aspekt",
+      "en": "Reaping Lotus' Aspect",
+      "quality": null
+    },
+    "1858280": {
+      "de": "Kratzb\\u00fcrstiger Aspekt",
+      "en": "Bristleback Aspect",
+      "quality": null
+    },
+    "579700": {
+      "de": "Aspekt des Nachbebens",
+      "en": "Aspect of The Aftershock",
+      "quality": null
+    },
+    "854661": {
+      "de": "Nachtheulers Aspekt",
+      "en": "Nighthowler's Aspect",
+      "quality": null
+    },
+    "1202013": {
+      "de": "L\\u00f6schender Aspekt",
+      "en": "Slaking Aspect",
+      "quality": null
+    },
+    "1206400": {
+      "de": "Lebhafter Aspekt",
+      "en": "Vigorous Aspect",
+      "quality": null
+    },
+    "1214116": {
+      "de": "Wunderkinds Aspekt",
+      "en": "Prodigy's Aspect",
+      "quality": null
+    },
+    "1224753": {
+      "de": "Aspekt der Qual",
+      "en": "Aspect of Torment",
+      "quality": null
+    },
+    "1225449": {
+      "de": "Aspekt der ablenkenden Barriere",
+      "en": "Aspect of the Deflecting Barrier",
+      "quality": null
+    },
+    "1227240": {
+      "de": "Magierf\\u00fcrstlicher Aspekt",
+      "en": "Mage-Lord's Aspect",
+      "quality": null
+    },
+    "1933286": {
+      "de": "Verj\\u00fcngender Aspekt",
+      "en": "Rejuvenating Aspect",
+      "quality": null
+    },
+    "1965000": {
+      "de": "Aspekt der Elementarsch\\u00e4rfe",
+      "en": "Aspect of Elemental Acuity",
+      "quality": null
+    },
+    "1970962": {
+      "de": "Galvanoschlitzers Aspekt",
+      "en": "Galvanized Slasher's  Aspect",
+      "quality": null
+    },
+    "1978626": {
+      "de": "Aspekt der Waldst\\u00e4rke",
+      "en": "Aspect of Forest Power",
+      "quality": null
+    },
+    "2014637": {
+      "de": "Aspekt der rauschenden Wildnis",
+      "en": "Aspect of the Rushing Wilds",
+      "quality": null
+    },
+    "2458224": {
+      "de": "Aspekt der Lichtlinderung",
+      "en": "Aspect of the Light's Mending",
+      "quality": null
+    },
+    "578736": {
+      "de": "Aspekt des best\\u00e4ndigen Stampfens",
+      "en": "Aspect of Perpetual Stomping",
+      "quality": null
+    },
+    "578754": {
+      "de": "Sch\\u00e4delbrechender Aspekt",
+      "en": "Skullbreaker's Aspect",
+      "quality": null
+    },
+    "578791": {
+      "de": "Aspekt der Zyklonmacht",
+      "en": "Aspect of Cyclonic Force",
+      "quality": null
+    },
+    "578807": {
+      "de": "Verst\\u00fcmmelter Aspekt",
+      "en": "Mangled Aspect",
+      "quality": null
+    },
+    "578858": {
+      "de": "Eisalchemischer Aspekt",
+      "en": "Icy Alchemist's Aspect",
+      "quality": null
+    },
+    "579749": {
+      "de": "Aspekt der bindenden Glut",
+      "en": "Aspect of Binding Embers",
+      "quality": null
+    },
+    "607884": {
+      "de": "Zerfleischender Aspekt",
+      "en": "Flesh-Rending Aspect",
+      "quality": null
+    },
+    "616122": {
+      "de": "Aspekt der berstenden Knochen",
+      "en": "Aspect of Bursting Bones",
+      "quality": null
+    },
+    "1200309": {
+      "de": "Gestaltwandelnder Aspekt",
+      "en": "Skinwalker's Aspect",
+      "quality": null
+    },
+    "1212894": {
+      "de": "Symbiotischer Aspekt",
+      "en": "Symbiotic Aspect",
+      "quality": null
+    },
+    "1301761": {
+      "de": "Aspekt der t\\u00f6dlichen D\\u00e4mmerung",
+      "en": "Aspect of Lethal Dusk",
+      "quality": null
+    },
+    "1304681": {
+      "de": "Aspekt der Fl\\u00fcchtigen Bedrohung",
+      "en": "Aspect of Elusive Menace",
+      "quality": null
+    },
+    "1619483": {
+      "de": "M\\u00e4chtiger Aspekt",
+      "en": "Raw Might Aspect",
+      "quality": null
+    },
+    "1822322": {
+      "de": "Aspekt des Hochgef\\u00fchls",
+      "en": "Aspect of Exhilaration",
+      "quality": null
+    },
+    "1983319": {
+      "de": "Aspekt der reaktiven R\\u00fcstung",
+      "en": "Aspect of Reactive Armor",
+      "quality": null
+    },
+    "1983612": {
+      "de": "Aspekt des Moments",
+      "en": "Aspect of Momentum",
+      "quality": null
+    },
+    "2099442": {
+      "de": "Aspekt der antiklinalen Explosion",
+      "en": "Aspect of Anticline Burst",
+      "quality": null
+    },
+    "2464389": {
+      "de": "Aspekt der Militanz",
+      "en": "Aspect of Militance",
+      "quality": null
+    },
+    "578814": {
+      "de": "Aspekt der sanften Brise",
+      "en": "Aspect of the Calm Breeze",
+      "quality": null
+    },
+    "578878": {
+      "de": "Schattenschnitters Aspekt",
+      "en": "Shadowslicer Aspect",
+      "quality": null
+    },
+    "615483": {
+      "de": "Blutgetr\\u00e4nkter Aspekt",
+      "en": "Blood-soaked Aspect",
+      "quality": null
+    },
+    "1184469": {
+      "de": "Gefr\\u00e4\\u00dfiger Aspekt",
+      "en": "Ravenous Aspect",
+      "quality": null
+    },
+    "1187879": {
+      "de": "Aspekt des stimulierenden Nebels",
+      "en": "Aspect of Quickening Fog",
+      "quality": null
+    },
+    "1218948": {
+      "de": "Aspekt des explosiven Schwungs",
+      "en": "Aspect of Explosive Verve",
+      "quality": null
+    },
+    "1221702": {
+      "de": "Aspekt der Auserw\\u00e4hlten Rathmas",
+      "en": "Aspect of Rathma's Chosen",
+      "quality": null
+    },
+    "1811514": {
+      "de": "Skrupelloser Aspekt",
+      "en": "Ruthless Aspect",
+      "quality": null
+    },
+    "1935062": {
+      "de": "Ersch\\u00fctternder Aspekt",
+      "en": "Jolting Aspect",
+      "quality": null
+    },
+    "1963371": {
+      "de": "Aspekt des Feuervogels",
+      "en": "Aspect of the Firebird",
+      "quality": null
+    },
+    "1974257": {
+      "de": "Aspekt der Vermeidung",
+      "en": "Aspect of Avoidance",
+      "quality": null
+    },
+    "2145128": {
+      "de": "Aspekt der elektrischen Klauen",
+      "en": "Aspect of Electrified Claws",
+      "quality": null
+    },
+    "2448369": {
+      "de": "Aspekt von Watkins Gesetz",
+      "en": "Aspect of Watkins' Law",
+      "quality": null
+    },
+    "2468455": {
+      "de": "Aspekt der Auszeichnung",
+      "en": "Aspect of Excellence",
+      "quality": null
+    },
+    "2468717": {
+      "de": "Aspekt des Exorzismus ",
+      "en": "Aspect of Exorcism ",
+      "quality": null
+    },
+    "578716": {
+      "de": "Rauffreudiger Aspekt",
+      "en": "Brawler's Aspect",
+      "quality": null
+    },
+    "616507": {
+      "de": "Aspekt des sch\\u00fctzenden Sturms",
+      "en": "Aspect of Shielding Storm",
+      "quality": null
+    },
+    "1186378": {
+      "de": "Aspekt der abgesch\\u00f6pften Verpflegung",
+      "en": "Aspect of Siphoned Victuals",
+      "quality": null
+    },
+    "1201797": {
+      "de": "Aspekt des dunklen Heulens",
+      "en": "Aspect of the Dark Howl",
+      "quality": null
+    },
+    "1978616": {
+      "de": "Aspekt der Bodenst\\u00e4rke",
+      "en": "Aspect of Soil Power",
+      "quality": null
+    },
+    "2098752": {
+      "de": "Aspekt der gebrochenen Verteidigung",
+      "en": "Aspect of Shattered Defenses",
+      "quality": null
+    },
+    "2445852": {
+      "de": "Dienender Aspekt",
+      "en": "Squire's Aspect",
+      "quality": null
+    },
+    "2460066": {
+      "de": "Aspekt der Erl\\u00f6sung",
+      "en": "Aspect of Salvation",
+      "quality": null
+    },
+    "578850": {
+      "de": "Aspekt der instabilen Infusionen",
+      "en": "Aspect of Unstable Imbuements",
+      "quality": null
+    },
+    "610368": {
+      "de": "Aspekt des st\\u00e4rkenden Seelenernters",
+      "en": "Aspect of Empowering Reaper",
+      "quality": null
+    },
+    "614914": {
+      "de": "Aspekt des hungernden Blutes",
+      "en": "Aspect of Hungry Blood",
+      "quality": null
+    },
+    "1184418": {
+      "de": "Aspekt des unheimlichen Verrats",
+      "en": "Aspect of Uncanny Treachery",
+      "quality": null
+    },
+    "1219216": {
+      "de": "Schockgefrorener Aspekt",
+      "en": "Snap Frozen Aspect",
+      "quality": null
+    },
+    "1220408": {
+      "de": "Knochenst\\u00fcrmender Aspekt",
+      "en": "Osseous Gale Aspect",
+      "quality": null
+    },
+    "1427873": {
+      "de": "Aspekt des Ahnensturms",
+      "en": "Aspect of Ancestral Charge",
+      "quality": null
+    },
+    "1926238": {
+      "de": "Aspekt des fieberhaften Anfallens",
+      "en": "Aspect of Fevered Mauling",
+      "quality": null
+    },
+    "1972501": {
+      "de": "Aspekt der unheiligen Fesseln",
+      "en": "Aspect of the Unholy Tether",
+      "quality": null
+    },
+    "1987443": {
+      "de": "Aspekt des potenten Austauschs",
+      "en": "Aspect of Potent Exchange",
+      "quality": null
+    },
+    "2152208": {
+      "de": "Zerst\\u00fcckelnder Aspekt",
+      "en": "Slice and Dice Aspect",
+      "quality": null
+    },
+    "2420858": {
+      "de": "Blutgeborener Aspekt",
+      "en": "Lord of Blood's Aspect",
+      "quality": null
+    },
+    "2455492": {
+      "de": "Aspekt des Heldenmuts",
+      "en": "Aspect of Valiance",
+      "quality": null
+    },
+    "2461692": {
+      "de": "Aspekt der Herrschaft",
+      "en": "Aspect of Dominance",
+      "quality": null
+    },
+    "1184010": {
+      "de": "Aspekt der grausamen Versorgung",
+      "en": "Aspect of Cruel Sustenance",
+      "quality": null
+    },
+    "1212497": {
+      "de": "Umh\\u00fcllter Aspekt",
+      "en": "Encased Aspect",
+      "quality": null
+    },
+    "1214292": {
+      "de": "Erdsch\\u00fctzender Aspekt",
+      "en": "Earthguard Aspect",
+      "quality": null
+    },
+    "1439751": {
+      "de": "Aspekt der Blutstacheln",
+      "en": "Aspect of Gore Quills",
+      "quality": null
+    },
+    "1622847": {
+      "de": "Aspekt des langen Schattens",
+      "en": "Aspect of the Long Shadow",
+      "quality": null
+    },
+    "1761328": {
+      "de": "Aspekt der Giftwolken",
+      "en": "Aspect of Poisonous Clouds",
+      "quality": null
+    },
+    "1791939": {
+      "de": "Aspekt des berstenden Stahls",
+      "en": "Aspect of Shattering Steel",
+      "quality": null
+    },
+    "1803887": {
+      "de": "Aspekt der brennenden Tobsucht",
+      "en": "Aspect of the Flaming Rampage",
+      "quality": null
+    },
+    "1822345": {
+      "de": "Brandschatzender Aspekt",
+      "en": "Raider's Aspect",
+      "quality": null
+    },
+    "1893589": {
+      "de": "Aspekt der Eisschritte",
+      "en": "Aspect of Frosty Strides",
+      "quality": null
+    },
+    "1985480": {
+      "de": "Aspekt der Best\\u00e4ndigkeit",
+      "en": "Aspect of Endurance",
+      "quality": null
+    },
+    "1987448": {
+      "de": "Aspekt der Schnelligkeit",
+      "en": "Aspect of Alacrity",
+      "quality": null
+    },
+    "2152638": {
+      "de": "Aspekt der bitteren Infektion",
+      "en": "Aspect of Bitter Infection",
+      "quality": null
+    },
+    "2466053": {
+      "de": "Aspekt des flinken Geists",
+      "en": "Aspect of Swift Spirit",
+      "quality": null
+    },
+    "2484503": {
+      "de": "Aspekt der himmlischen St\\u00e4rke",
+      "en": "Aspect of Heavenly Strength",
+      "quality": null
+    }
+  }
+}

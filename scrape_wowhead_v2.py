@@ -48,7 +48,7 @@ class WowheadIDScraper:
 
     def _wait_for_load(self):
         """Wait for page to load."""
-        time.sleep(3)
+        time.sleep(8)  # Increased wait for JavaScript rendering
 
     def _extract_from_page(self, url: str) -> Dict[int, Dict]:
         """Extract items with IDs from a Wowhead page."""
@@ -75,39 +75,99 @@ class WowheadIDScraper:
 
         items = {}
 
-        # Extract from HTML table rows
+        # METHOD 1: Try JavaScript data extraction
+        try:
+            js_data = self.driver.execute_script("""
+                // Try various Wowhead data structures
+                if (typeof listviews !== 'undefined' && listviews.length > 0) {
+                    return listviews[0].data;
+                }
+                if (typeof window.g_listviews !== 'undefined' && window.g_listviews.length > 0) {
+                    return window.g_listviews[0].data;
+                }
+                return null;
+            """)
+
+            if js_data and len(js_data) > 0:
+                print(f"  Found {len(js_data)} items via JavaScript")
+                for item in js_data:
+                    if 'id' in item and 'name' in item:
+                        items[item['id']] = {
+                            'name': item['name'],
+                            'quality': item.get('quality')
+                        }
+                if len(items) > 0:
+                    return items
+            # DEBUG: If JavaScript returns null or empty, continue to next method
+        except Exception as e:
+            pass  # Silent fail, try next method
+
+        # METHOD 2: Try HTML table rows
         try:
             rows = self.driver.find_elements(By.CSS_SELECTOR, "tr[data-id]")
-            print(f"  Found {len(rows)} items")
+            if len(rows) > 0:
+                print(f"  Found {len(rows)} items via HTML rows")
+                for row in rows:
+                    try:
+                        item_id = int(row.get_attribute('data-id'))
+                        name_cell = row.find_element(By.CLASS_NAME, "listview-cell-name")
+                        link = name_cell.find_element(By.TAG_NAME, "a")
+                        name = link.text.strip()
 
-            for row in rows:
-                try:
-                    item_id = int(row.get_attribute('data-id'))
+                        quality = None
+                        classes = row.get_attribute('class') or ''
+                        if 'quality5' in classes:
+                            quality = 5
+                        elif 'quality6' in classes:
+                            quality = 6
 
-                    # Get name
-                    name_cell = row.find_element(By.CLASS_NAME, "listview-cell-name")
-                    link = name_cell.find_element(By.TAG_NAME, "a")
-                    name = link.text.strip()
+                        items[item_id] = {
+                            'name': name,
+                            'quality': quality
+                        }
+                    except Exception:
+                        continue
+                if len(items) > 0:
+                    return items
+            # DEBUG: If no rows found, continue to regex method
+        except Exception as e:
+            pass  # Silent fail, try next method
 
-                    # Get quality if available
-                    quality = None
-                    classes = row.get_attribute('class') or ''
-                    if 'quality5' in classes:
-                        quality = 5
-                    elif 'quality6' in classes:
-                        quality = 6
+        # METHOD 3: Parse page source with regex (fallback)
+        try:
+            import re
+
+            source = self.driver.page_source
+
+            # Simple pattern for id and name
+            id_name_pattern = r'"id":(\d+),"name":"([^"]+)"'
+            matches = re.findall(id_name_pattern, source)
+
+            if matches:
+                print(f"  Found {len(matches)} items via regex")
+
+                # For each match, try to find quality nearby
+                for item_id_str, name in matches:
+                    item_id = int(item_id_str)
+
+                    # Try to find quality for this item (look for quality field near this ID)
+                    quality_pattern = rf'"id":{item_id}[^}}]*"quality":(\d+)'
+                    quality_match = re.search(quality_pattern, source)
+                    quality = int(quality_match.group(1)) if quality_match else None
 
                     items[item_id] = {
                         'name': name,
                         'quality': quality
                     }
 
-                except Exception as e:
-                    continue
-
+                # Always return if we found matches, even if items dict is somehow empty
+                return items
         except Exception as e:
-            print(f"  Error extracting: {e}")
+            print(f"  Regex extraction error: {type(e).__name__}: {e}")
+            import traceback
+            traceback.print_exc()
 
+        print(f"  No items found")
         return items
 
     def extract_category(self, category: str, de_url: str, en_url: str) -> List[TranslationEntry]:
