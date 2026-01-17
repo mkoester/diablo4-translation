@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Noscript Behavior</title>
+</head>
+<body>
+    <h1>Testing how noscript works with JavaScript enabled</h1>
+
+    <div class="test-item">
+        <noscript>
+            <img alt="Ring der Sternenlosen Himmel" src="test.jpg">
+        </noscript>
+        <p>Some visible text</p>
+    </div>
+
+    <script>
+        console.log('=== Testing noscript ===');
+
+        // Test 1: Can we find noscript tags?
+        const noscripts = document.querySelectorAll('noscript');
+        console.log('Noscript tags found:', noscripts.length);
+
+        // Test 2: What's in them?
+        noscripts.forEach(ns => {
+            console.log('Noscript textContent:', ns.textContent);
+            console.log('Noscript innerHTML:', ns.innerHTML);
+        });
+
+        // Test 3: TreeWalker
+        const item = document.querySelector('.test-item');
+        const walker = document.createTreeWalker(item, NodeFilter.SHOW_TEXT);
+        console.log('\nText nodes via TreeWalker:');
+        while (walker.nextNode()) {
+            const node = walker.currentNode;
+            console.log('  Text:', node.textContent.trim());
+            console.log('  Parent:', node.parentElement.tagName);
+        }
+
+        // Test 4: Can we access the alt attribute?
+        console.log('\nLooking for img tags:');
+        const imgs = item.querySelectorAll('img');
+        console.log('Images found:', imgs.length);
+        imgs.forEach(img => {
+            console.log('  Alt:', img.getAttribute('alt'));
+        });
+    </script>
+</body>
+</html>
