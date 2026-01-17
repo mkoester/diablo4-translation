@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python scrape_wowhead_selenium.py
 ```
 
-### 3. `scrape_wowhead_advanced.py` - Advanced Scraper (RECOMMENDED)
+### 3. `scrape_wowhead_advanced.py` - Advanced Scraper
 **Uses Selenium with ID-based matching for accurate translations.**
 
 **Pros:**
@@ -58,6 +58,23 @@ python scrape_wowhead_selenium.py
 **Cons:**
 - Requires Firefox/geckodriver installation
 - Slower (needs to fetch both German and English pages)
+- Exports string-based format only
+
+### 4. `scrape_wowhead_v2.py` - ID-Based Scraper (RECOMMENDED ⭐)
+**Next-generation scraper with ID-based data architecture.**
+
+**Pros:**
+- ✅ All benefits of advanced scraper
+- ✅ Stores Wowhead IDs as primary keys
+- ✅ Enables metadata storage (quality, class, etc.)
+- ✅ Supports multi-language expansion
+- ✅ Easier to detect updates and changes
+- ✅ Exports in both ID-based AND string-based formats
+- ✅ Backward compatible with current content.js
+
+**Cons:**
+- Requires Firefox/geckodriver installation
+- Slightly larger output files (includes IDs)
 
 **Usage:**
 ```bash
@@ -71,6 +88,17 @@ python scrape_wowhead_advanced.py
 **Output:**
 - `wowhead_translations.json` - JSON format for programmatic use
 - `translations_output.js` - JavaScript format ready to copy into `content.js`
+
+**Usage (V2):**
+```bash
+# Run V2 scraper (recommended)
+python scrape_wowhead_v2.py
+```
+
+**Output:**
+- `translations_by_id.json` - ID-based format (primary)
+- `translations_by_string.json` - String-based format (compatibility)
+- `content_v2.js` - Enhanced content.js with both ID and string lookups
 
 ## Installation
 
@@ -217,6 +245,42 @@ sudo apt install firefox-geckodriver  # Ubuntu
 - Wowhead may be rate-limiting
 - Try adding delays between requests
 - Some items may require multiple pagination clicks
+
+## ID-Based vs String-Based Architecture
+
+### Why Use IDs?
+
+**String-based** (current `content.js`):
+```javascript
+const glyphTranslations = {
+  "Macht": "Might"  // What if two glyphs have the same German name?
+};
+```
+
+**ID-based** (new `content_v2.js`):
+```javascript
+const glyphsById = {
+  12345: { de: "Macht", en: "Might", ... }  // Unique by Wowhead ID
+};
+```
+
+### Benefits of ID-Based Approach
+
+1. **No Collisions**: Guaranteed unique by Wowhead ID
+2. **Metadata Support**: Store quality, class, season, etc.
+3. **Change Detection**: Know when Wowhead renames items
+4. **Multi-Language**: Easy to add French, Spanish, etc.
+5. **Incremental Updates**: Fetch only new items
+6. **Backward Compatible**: Also exports string-based format
+
+### See [ID_BASED_ARCHITECTURE.md](ID_BASED_ARCHITECTURE.md) for detailed explanation.
+
+### Quick Comparison
+
+Run this interactive demo:
+```bash
+python3 compare_architectures.py
+```
 
 ## Limitations
 

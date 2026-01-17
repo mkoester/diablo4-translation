@@ -134,11 +134,20 @@ Extracted German terms from Wowhead and added to `content.js` with "TODO" placeh
    - Attempts pagination handling
    - Requires Firefox/geckodriver
 
-3. **`scrape_wowhead_advanced.py`** - ⭐ **RECOMMENDED**
+3. **`scrape_wowhead_advanced.py`** - Advanced scraper
    - ID-based German-English matching (accurate translations)
    - Full JavaScript support and pagination
    - Exports to JSON and JavaScript formats
    - Requires Firefox/geckodriver
+
+4. **`scrape_wowhead_v2.py`** - ⭐ **RECOMMENDED (ID-Based Architecture)**
+   - All features of advanced scraper PLUS:
+   - Stores Wowhead IDs as primary keys (prevents name collisions)
+   - Enables metadata storage (quality, class, season, etc.)
+   - Future-proof for multi-language support (French, Spanish, etc.)
+   - Exports both ID-based AND string-based formats
+   - Backward compatible with current content.js
+   - **See [ID_BASED_ARCHITECTURE.md](ID_BASED_ARCHITECTURE.md) for detailed benefits**
 
 **Setup:**
 ```bash
@@ -150,13 +159,16 @@ sudo pacman -S firefox geckodriver  # Arch/CachyOS
 pip install -r requirements.txt
 ```
 
-**Quick start:**
+**Quick start (V2 recommended):**
 ```bash
-python3 scrape_wowhead_advanced.py
-# Output: wowhead_translations.json, translations_output.js
+python3 scrape_wowhead_v2.py
+# Output: translations_by_id.json, translations_by_string.json, content_v2.js
 ```
 
-**See [SCRAPING.md](SCRAPING.md) for detailed documentation.**
+**Documentation:**
+- [SCRAPING.md](SCRAPING.md) - Complete scraping guide
+- [ID_BASED_ARCHITECTURE.md](ID_BASED_ARCHITECTURE.md) - Why use ID-based format
+- [QUICKSTART_SCRAPING.md](QUICKSTART_SCRAPING.md) - Quick reference
 
 #### Wowhead URL Patterns
 - Unique items only: `https://www.wowhead.com/diablo-4/de/items/quality:5`

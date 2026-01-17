@@ -7,12 +7,13 @@
 pip install -r requirements.txt
 sudo pacman -S firefox geckodriver  # or equivalent for your OS
 
-# Run the best scraper
-python3 scrape_wowhead_advanced.py
+# Run the best scraper (V2 with ID-based architecture)
+python3 scrape_wowhead_v2.py
 
 # Output files:
-# - wowhead_translations.json
-# - translations_output.js
+# - translations_by_id.json (ID-based format)
+# - translations_by_string.json (string-based format)
+# - content_v2.js (enhanced content.js with both formats)
 ```
 
 ## Which Scraper Should I Use?
@@ -23,11 +24,18 @@ python3 scrape_wowhead_advanced.py
 - Gets ~100-150 items
 - Good for testing the concept
 
-### Want comprehensive data? ⭐
-→ `python3 scrape_wowhead_advanced.py`
+### Want comprehensive data with future-proof architecture? ⭐
+→ `python3 scrape_wowhead_v2.py`
 - Needs Firefox + geckodriver
 - Gets 400+ items with accurate German→English matching
-- Recommended for production use
+- ID-based data structure (no collisions, metadata support)
+- Backward compatible (exports string-based format too)
+- **Recommended for production use**
+
+### Want comprehensive data (legacy)?
+→ `python3 scrape_wowhead_advanced.py`
+- Same as V2 but only exports string-based format
+- Use this if you don't need ID-based features
 
 ### Want to experiment?
 → `python3 scrape_wowhead_selenium.py`
