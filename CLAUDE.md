@@ -61,6 +61,16 @@ Add entries to the appropriate translation object in `content.js`:
 3. **Aspects**: Add to `aspectTranslations`
 4. **Tempering**: Add to `temperingTranslations`
 
+### Important Notes
+
+**Aspect Name Format Discrepancy:**
+- Wowhead German database uses: `"Aspekt: Name"` (with colon)
+- Vitablo.de actually uses: `"Name Aspekt"` (without colon)
+- **Always use the vitablo.de format** (without colon) in translations
+- Examples:
+  - ✅ Correct: `"Keilender Aspekt": "Aspect of Shredding Blades"`
+  - ❌ Wrong: `"Aspekt: Keilender": "Aspect of Shredding Blades"`
+
 ## Testing
 
 1. `about:debugging` → This Firefox → Load Temporary Add-on → select `manifest.json`

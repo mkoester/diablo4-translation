@@ -264,7 +264,39 @@ const aspectTranslations = {
   // Mobility Aspects
   "Aspekt der Eile": "Aspect of Quickening Fog",
   "Geist-Aspekt": "Aspect of the Changeling's Debt",
-  "Verschlagener Aspekt": "Aspect of the Blur"
+  "Verschlagener Aspekt": "Aspect of the Blur",
+  "Geistwandelnder Aspekt": "Ghostwalker Aspect",
+  "Hochgeschwindigkeits-Aspekt": "High Velocity Aspect",
+
+  // Additional Aspects
+  "Keilender Aspekt": "Aspect of Shredding Blades",
+  "Eitler Aspekt": "Conceited Aspect",
+  "Wildblitzender Aspekt": "Wildbolt Aspect",
+  "Aspekt des Ungehorsams": "Aspect of Disobedience",
+  "Aspekt des Molochbundes": "Aspect of the Zealot's Covenant",
+  "Schlachthäuptlings-Aspekt": "Bold Chieftain's Aspect",
+  "Aspekt der inneren Ruhe": "Aspect of Inner Calm",
+  "Aspekt der Anpassungsfähigkeit": "Aspect of Adaptability",
+  "Klingenmeisters Aspekt": "Edgemaster's Aspect",
+  "Aspekt der Rechtsprechung Tyraels": "Aspect of Tyrael's Jurisdiction",
+  "Ausbeutender Aspekt": "Exploiter's Aspect",
+  "Aspekt des Ultimativen Schattens": "Aspect of Ultimate Shadow",
+  "Aspekt der verfluchten Aura": "Aspect of the Cursed Aura",
+  "Aspekt der Assistenz": "Aspect of Assistance",
+  "Hektischer Aspekt": "Hectic Aspect",
+  "Aspekt der Salbung Hales": "Aspect of Hale's Salve",
+  "Verpesteter Aspekt": "Aspect of the Damned",
+  "Aspekt der gehärteten Knochen": "Aspect of Hardened Bones",
+  "Molochs Aspekt": "Moloch's Aspect",
+  "Aspekt der elementalen Konstellation": "Aspect of Elemental Constellation",
+  "Aspekt der Züchtigung": "Aspect of Retribution",
+  "Aspekt der dornigen Rache": "Aspect of Bristling Vengeance",
+  "Rachjäger-Aspekt": "Vengeful Aspect",
+  "Aspekt des geraubten Elans": "Aspect of Stolen Vigor",
+  "Aspekt des Verfalls": "Aspect of Decay",
+  "Aspekt des Schattens": "Aspect of Shadow",
+  "Seelenzerschmetternder Aspekt": "Shattered Spirit's Aspect",
+  "Aspekt der Grenzenlosen Wut": "Aspect of Limitless Rage"
 };
 
 // ============================================================================
