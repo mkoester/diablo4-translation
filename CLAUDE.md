@@ -218,6 +218,14 @@ git checkout -b feature/feature-name
 # Finish a feature (via PR to develop)
 git push -u origin feature/feature-name
 
+# Finish a feature (manually via CLI)
+git checkout develop
+git pull origin develop
+git merge --no-ff feature/feature-name
+git push origin develop
+git branch -d feature/feature-name
+git push origin --delete feature/feature-name
+
 # Start a release
 git checkout develop
 git checkout -b release/1.0.0
