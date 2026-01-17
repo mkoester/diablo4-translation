@@ -1840,6 +1840,7 @@ function translateTextNode(textNode) {
 
   const originalText = textNode.textContent;
   let newText = originalText;
+  let needsHtmlReplacement = false;
 
   // SPECIAL CASE: vitablo.de adds item types like "Ring (Ring) der..."
   // We need to handle this by temporarily removing the type, then translating
@@ -1864,8 +1865,9 @@ function translateTextNode(textNode) {
       if (withoutType.includes(germanTerm)) {
         const english = allTranslations[germanTerm];
         if (english && !originalText.includes(`(${english})`)) {
-          // Replace in the original text
-          newText = originalText.replace(germanTerm, `${germanTerm} (${english})`);
+          // Replace in the original text with <br />
+          newText = originalText.replace(germanTerm, `${germanTerm}<br />(${english})`);
+          needsHtmlReplacement = true;
           break; // IMPORTANT: Stop after first match to avoid partial replacements
         }
       }
@@ -1875,15 +1877,27 @@ function translateTextNode(textNode) {
     newText = newText.replace(pattern, (match) => {
       const english = allTranslations[match];
       if (english && !originalText.includes(`(${english})`)) {
-        return `${match} (${english})`;
+        needsHtmlReplacement = true;
+        return `${match}<br />(${english})`;
       }
       return match;
     });
   }
 
   if (newText !== originalText) {
-    textNode.textContent = newText;
-    processedNodes.add(textNode);
+    if (needsHtmlReplacement) {
+      // Need to replace the text node with HTML elements
+      const parent = textNode.parentElement;
+      if (parent) {
+        const span = document.createElement('span');
+        span.innerHTML = newText;
+        parent.replaceChild(span, textNode);
+        processedNodes.add(span);
+      }
+    } else {
+      textNode.textContent = newText;
+      processedNodes.add(textNode);
+    }
   }
 }
 
@@ -1906,7 +1920,7 @@ function translateNoscriptTags(element) {
         if (altText.includes(germanTerm)) {
           const englishTerm = allTranslations[germanTerm];
           if (englishTerm && !altText.includes(`(${englishTerm})`)) {
-            translated = translated.replace(germanTerm, `${germanTerm} (${englishTerm})`);
+            translated = translated.replace(germanTerm, `${germanTerm}<br />(${englishTerm})`);
             modified = true;
           }
         }
