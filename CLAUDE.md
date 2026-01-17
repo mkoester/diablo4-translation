@@ -121,11 +121,42 @@ Extracted German terms from Wowhead and added to `content.js` with "TODO" placeh
 **Aspects (1 new):**
 - Schlachthäuptlings Aspekt
 
-#### Next Steps for Translation
-1. Visit English Wowhead pages for each category
-2. Match German terms to English equivalents
-3. Replace all "TODO" placeholders with actual translations
-4. Consider building a script to automate Wowhead data extraction for comprehensive coverage
+#### Automated Translation Extraction (2026-01-17)
+
+**Three scraping tools are now available** for automated Wowhead data extraction:
+
+1. **`scrape_wowhead.py`** - Basic scraper (requests only)
+   - Fast, lightweight, no browser dependencies
+   - Limited to initial page load (~100 items max)
+
+2. **`scrape_wowhead_selenium.py`** - Enhanced scraper with JavaScript support
+   - Executes JavaScript for dynamic content
+   - Attempts pagination handling
+   - Requires Firefox/geckodriver
+
+3. **`scrape_wowhead_advanced.py`** - ⭐ **RECOMMENDED**
+   - ID-based German-English matching (accurate translations)
+   - Full JavaScript support and pagination
+   - Exports to JSON and JavaScript formats
+   - Requires Firefox/geckodriver
+
+**Setup:**
+```bash
+# Install dependencies
+./setup_scraper.sh
+
+# Or manually:
+sudo pacman -S firefox geckodriver  # Arch/CachyOS
+pip install -r requirements.txt
+```
+
+**Quick start:**
+```bash
+python3 scrape_wowhead_advanced.py
+# Output: wowhead_translations.json, translations_output.js
+```
+
+**See [SCRAPING.md](SCRAPING.md) for detailed documentation.**
 
 #### Wowhead URL Patterns
 - Unique items only: `https://www.wowhead.com/diablo-4/de/items/quality:5`
